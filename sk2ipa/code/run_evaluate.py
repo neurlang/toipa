@@ -4,19 +4,7 @@ import optparse
 import sys
 import os.path
 import csv
-import Levenshtein
 
-def replaced_score(dictionary, word1, word2):
-    for k in dictionary:
-        v = dictionary[k]
-        word1 = word1.replace(k, v)
-        word2 = word2.replace(k, v)
-    return Levenshtein.distance(word1, word2)
-
-def rmlast(word):
-    if len(word) > 0:
-        return word.rstrip(word[-1])
-    return word
 
 if __name__ == '__main__':
     parser = optparse.OptionParser()
@@ -54,13 +42,6 @@ if __name__ == '__main__':
             for line in csv.reader(infile):
                 l = line[0].split('\t')
                 dictionary[l[0]] = l[1]
-
-        hlaska = {}
-
-        with open('code/hlaska.txt', mode='r') as infile:
-            for line in csv.reader(infile):
-                l = line[0].split('\t')
-                hlaska[l[0]] = l[1]
 
         with open(params.text,'r') as file:
 
@@ -100,15 +81,6 @@ if __name__ == '__main__':
                         dec1 = [tokenizer.decode(ids, skip_special_tokens=True) for ids in gen1]
 
                         wrd = dec1[0]
-
-                        alpha=replaced_score(hlaska, word, wrd)
-                        beta=replaced_score(hlaska, word, rmlast(wrd))
-                        while alpha > beta:
-                            wrd = rmlast(wrd)
-                            alpha=beta
-                            beta=replaced_score(hlaska, word, rmlast(wrd))
-
-                    wrd = wrd.replace('.', '')
 
 
                     if params.orig == "yes":
