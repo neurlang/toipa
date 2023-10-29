@@ -4,7 +4,7 @@
 #NVIDIA_PATH="/usr/local/cuda-11.6/targets/x86_64-linux/lib/"
 #LD_LIBRARY_PATH=$NVIDIA_PATH python3 whatever.py --resume=yes
 
-model=`ls -1 -t out/ | head -n 1 | tr -d ':'`
+model=`ls -1 -t out/ | grep checkpoint | head -n 1 | tr -d ':'`
 rm my2.model
 ln -s -T "out/$model" my2.model
 
