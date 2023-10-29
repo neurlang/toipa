@@ -417,6 +417,7 @@ akiste	ˈakisθɛ
 akkad	ˈakad
 akkádsky	ˈakaːdski
 ako	ˈɑkɔ
+akoby	ˈakobi
 akoby	ˈɑkɔbi
 akokeby	ˈɑkɔkɛbi
 akokoľvek	ˈakɔkɔʎvɛk
@@ -547,6 +548,7 @@ alebo	ˈalɛbɔ
 alebo	ˈɑlɛbɔ
 aleco	ˈalɛtsɔ
 alegorické	ˈalɛɡɔritskɛː
+alej	ˈalɛj
 alejí	ˈalɛjiː
 alejou	ˈalɛjɔu
 alek	ˈaɫɛk
@@ -577,6 +579,7 @@ ali	ˈali
 aliancia	ˈaliantsia
 alibi	ˈalibi
 aliby	ˈalibi
+alica	ˈalitsa
 alice	ˈalitsɛ
 aliciin	ˈalitsiːn
 alicou	ˈalitsɔu
@@ -1098,6 +1101,7 @@ autentický	ˈautɛntitskiː
 auto	ˈautɔ
 auto	ˈɑutɔ
 autobus	ˈautɔbus
+autobusom	ˈautɔbusɔm
 autobusový	ˈautɔbusɔviː
 autobusu	ˈautɔbusu
 automat	ˈautɔmat
@@ -1120,6 +1124,7 @@ avenue	ˈavɛnuɛ
 avizovaný	ˈavizɔvaniː
 avizovať	ˈavizɔvaθ
 avšak	ˈavʃak
+aw	ˈav
 az	ˈaz
 až	aʒ
 azda	ˈazda
@@ -1182,6 +1187,7 @@ balón	ˈbaɫɔːn
 balvan	ˈbaɫvan
 bamba	ˈbamba
 bam	ˈbam
+bambi	ˈbambi
 bambus	ˈbambus
 baňa	ˈbaɲa
 banálny	ˈbanaːɫni
@@ -1227,6 +1233,7 @@ bare	ˈbarɛ
 barel	ˈbarɛɫ
 baretom	ˈbarɛtɔm
 bariéra	ˈbariɛːra
+bariera	ˈbariɛra
 barmankou	ˈbarmankɔu
 barokový	ˈbarɔkɔviː
 barón	ˈbarɔːn
@@ -1244,6 +1251,7 @@ basketbalista	ˈbaskɛtbaɫista
 basketbalistka	ˈbaskɛtbaɫistka
 basketbalistov	ˈbaskɛtbalistɔv
 basketbalový	ˈbaskɛtbalɔviː
+básne	ˈbaːsɲɛ
 básnický	ˈbaːsɲitskiː
 básnik	ˈbaːsɲik
 bašta	ˈbaʃta
@@ -1254,10 +1262,12 @@ basy	ˈbasi
 báť	ˈbaːθ
 bat	ˈbat
 batéria	ˈbatɛːria
+baterku	ˈbatɛrku
 bath	ˈbatɦ
 batoh	ˈbatɔɦ
 batohom	ˈbatɔɦɔm
 batožina	ˈbatɔʒina
+batožinu	ˈbatɔʒinu
 batu	ˈbatu
 baty	ˈbati
 baumer	ˈbaumɛr
@@ -1305,8 +1315,10 @@ belej	ˈbɛlɛj
 belgicko	ˈbɛlɡitskɔ
 belgický	ˈbɛlɡitskiː
 bella	ˈbɛɫa
+bell	ˈbɛɫ
 belmonte	ˈbɛlmɔnθɛ
 belo	ˈbɛlɔ
+beloch	ˈbɛɫɔx
 ben	ˈbɛn
 bene	ˈbɛnɛ
 benjamin	ˈbɛnajmin
@@ -1339,6 +1351,7 @@ beth	ˈbɛtɦ
 betlehem	ˈbɛtɫɛhɛm
 betón	ˈbɛtɔːn
 betónový	ˈbɛtɔːnɔviː
+betsy	ˈbɛtsi
 betty	ˈbɛti
 bežala	ˈbæʒɑɫa
 bežať	ˈbɛʒaθ
@@ -1411,6 +1424,7 @@ billy	ˈbili
 bingo	ˈbinɡɔ
 biológia	ˈbiɔɫɔːɡia
 biologický	ˈbiɔɫɔɡitskiː
+bishop	ˈbishɔp
 biskup	ˈbiskup
 biskupský	ˈbiskupskiː
 biť	ˈbiθ
@@ -1445,6 +1459,7 @@ blbý	blbiː
 blcha	ˈbɫxa
 bledý	ˈblɛdiː
 blesk	ˈblɛsk
+bleskom	ˈblɛskɔm
 blíženec	ˈbliːʒɛɲɛts
 blížiaci	ˈbliːʒiatsi
 blíži	ˈbɫiːʒi
@@ -1462,6 +1477,7 @@ blog	ˈblɔɡ
 blok	ˈblɔk
 blokovať	ˈblɔkɔvaθ
 blokuješ	ˈblɔkujɛʃ
+bloky	ˈblɔki
 blúdiť	ˈbluːdiθ
 blues	ˈbluːs
 bmw	A
@@ -1527,10 +1543,12 @@ bojoveho	ˈbɔjɔvɛhɔ
 bojovému	ˈbɔjɔvɛːmu
 bojovníci	ˈbɔjɔvɲiːtsi
 bojovník	ˈbɔjɔvɲiːk
+bojovníkov	ˈbɔjɔvɲiːkɔv
 bojovnosť	ˈbɔjɔvnɔsθ
 bojovný	ˈbɔjɔvniː
 bojový	ˈbɔjɔviː
 boju	ˈbɔju
+bojuj	ˈbɔjuj
 bojuje	ˈbɔjujɛ
 bojujúci	ˈbɔjujuːtsi
 bok	ˈbɔk
@@ -1542,6 +1560,7 @@ boľavý	ˈbɔʎaviː
 bol	bɔɫ
 bolesť	ˈbɔlɛsθ
 bolesti	ˈbɔlɛsθi
+bolestivé	ˈbɔlɛsθivɛː
 bolestivý	ˈbɔlɛsθiviː
 bolestný	ˈbɔlɛstniː
 boli	ˈbɔli
@@ -1598,6 +1617,7 @@ boy	ˈbɔi
 bože	bɔhʒɛ
 boze	ˈbɔzɛ
 bože	bɔʒɛ
+božemôj	ˈbɔʒɛmuɔj
 bozhe	ˈbɔzhɛ
 božia	ˈbɔʒia
 boží	ˈbɔʒiː
@@ -1614,6 +1634,7 @@ braček	ˈbratʃɛk
 brácho	ˈbraːxɔ
 brada	ˈbrada
 brad	ˈbrad
+bradu	ˈbradu
 brady	ˈbradi
 brakovej	ˈbrakɔvɛj
 bral	bral
@@ -1653,6 +1674,7 @@ brazílčan	braziːɫtʃan
 brazília	braziːɫia
 brazílsky	braziːlski
 breh	ˈbrɛx
+brehu	ˈbrɛɦu
 brejk	ˈbrɛjk
 bremeno	ˈbrɛmɛnɔ
 brezno	ˈbrɛznɔ
@@ -1758,6 +1780,7 @@ buzerant	ˈbuzɛrant
 by	bi
 bych	ˈbix
 bydlisko	ˈbidliskɔ
+bydlisku	ˈbidlisku
 byje	ˈbijɛ
 býk	ˈbiːk
 byrokracia	ˈbirɔkrɑtsia
@@ -1769,6 +1792,8 @@ být	ˈbiːt
 byt	ˈbit
 byť	biθ
 byte	ˈbiθɛ
+bytí	ˈbitiː
+bytí	ˈbiθiː
 bytie	ˈbiθiɛ
 bytosť	ˈbitɔsθ
 bytosti	ˈbitɔsθi
@@ -1783,6 +1808,7 @@ bývalý	ˈbiːvaliː
 bývalý	ˈbiːvɑliː
 bývalým	ˈbiːvɑliːm
 bývam	ˈbiːvam
+bývam	ˈbiːʋam
 bývanie	ˈbiːvaɲiɛ
 bývanie	ˈbiːvɑɲiɛ
 bývaš	ˈbiːvaʃ
@@ -1824,9 +1850,11 @@ carlos	ˈtsarlɔs
 carl	ˈtsarl
 carmen	ˈtsarmɛn
 čarodejnica	ˈtʃarɔɟɛjɲitsa
+čarodejnice	ˈtʃarɔɟɛjɲitsɛ
 carol	ˈtsarɔl
 čaro	ˈtʃarɔ
 čarovný	ˈtʃarɔvniː
+carrie	ˈtsariɛ
 carris	ˈtsaris
 carter	ˈtsartɛr
 cár	ˈtsaːr
@@ -1857,6 +1885,7 @@ cas	ˈtsas
 čas	ˈtʃɑs
 časť	ˈtʃasθ
 častý	ˈtʃastiː
+casu	ˈtsasu
 času	ˈtʃasu
 časy	ˈtʃasi
 catherine	ˈtsathɛrinɛ
@@ -1875,6 +1904,7 @@ cech	ˈtsɛts
 čech	ˈtʃɛx
 cecky	ˈtsɛtski
 cédečko	ˈtsɛːdɛtʃkɔ
+čekneme	ˈtʃɛkɲɛmɛ
 ček	ˈtʃɛk
 cela	ˈtsɛlɑ
 celá	ˈtsɛlɑː
@@ -1887,6 +1917,7 @@ celeste	ˈtsɛlɛstɛ
 celé	ˈtsɛlæː
 cele	ˈtsɛlɛ
 čeliť	ˈtʃɛɫiθ
+celkom	ˈtsɛlkom
 celkom	ˈtsɛɫkɔm
 celková	ˈtsɛlkɔvɑː
 celkove	ˈtsɛlkɔvɛ
@@ -1899,6 +1930,7 @@ cell	ˈtsɛl
 celodenný	ˈtsɛlɔdɛnniː
 celoko	ˈtsɛlɔkɔ
 celok	ˈtsɛlɔk
+celom	ˈtsɛlɔm
 celom	ˈtsɛɫɔm
 celoročný	ˈtsɛlɔrɔtʃniː
 celoslovenský	ˈtsɛlɔslɔvɛnskiː
@@ -1910,6 +1942,7 @@ celou	ˈtsɛlɔu
 celovečerný	ˈtsɛlɔvɛtʃɛrniː
 celoživotný	ˈtsɛlɔʒivɔtniː
 čeľusť	ˈtʃɛʎusθ
+celu	ˈtsɛlu
 celú	ˈtsɛlʊː
 celých	ˈtsɛliːx
 celým	ˈtsɛliːm
@@ -1919,6 +1952,7 @@ cement	ˈtsɛmɛnt
 cena	ˈtsɛna
 cením	ˈtsɛɲiːm
 ceniť	ˈtsɛɲiθ
+cenné	ˈtsɛnnɛː
 cennosti	ˈtsɛnnɔsθi
 cenný	ˈtsɛnniː
 cenovka	ˈtsɛnɔvka
@@ -2002,6 +2036,7 @@ cestovné	ˈtsɛstɔvnɛː
 cestovný	ˈtsɛstɔvniː
 česť	ˈtʃɛsθ
 cestujete	ˈtsɛstujɛθɛ
+cestuje	ˈtsɛstujɛ
 cestujúci	ˈtsɛstujuːtsi
 cestu	ˈtsɛstu
 cesty	ˈtsɛsti
@@ -2018,6 +2053,7 @@ chad	ˈxad
 chaj	ˈxaj
 chalana	ˈxaɫana
 chalani	ˈxaɫaɲi
+chalan	ˈxalan
 chalan	ˈxaɫan
 chalupa	ˈxalupa
 chalupu	ˈxalupu
@@ -2040,6 +2076,8 @@ charitatívny	ˈxaritatiːvni
 charita	ˈxarita
 charizmu	ˈxarizmu
 charles	ˈxarlɛs
+charley	ˈxarlɛi
+charlieho	ˈxarliɛhɔ
 charlie	xɑrliɛ
 charon	ˈxarɔn
 charta	ˈxarta
@@ -2087,6 +2125,7 @@ chlapče	ˈxɫɑptʃæ
 chlapci	ˈxɫapi
 chlapcom	ˈxɫaptsɔm
 chlapcovi	ˈxɫaptsɔvi
+chlapcov	ˈxlaptsov
 chlapcov	ˈxɫaptsɔu
 chlapec	ˈxɫapɛts
 chlape	ˈxɫɑpæ
@@ -2119,6 +2158,7 @@ chodievate	ˈxɔɟiɛvaθɛ
 chodievať	ˈxɔɟiɛvaθ
 chodieva	ˈxɔɟɪɛva
 chodila	ˈxɔdila
+chodila	ˈxɔɟila
 chodili	ˈxɔɟili
 chodil	ˈxɔɟil
 chodím	ˈxɔɟiːm
@@ -2236,10 +2276,13 @@ chystáš	ˈxistɑːʃ
 chystáte	ˈxistɑːθɛ
 chystať	ˈxistaθ
 chystá	ˈxistɑː
+chytaj	ˈxitaj
 chytať	ˈxitɑθ
 chytia	ˈxiθia
+chytila	ˈxiθiɫa
 chytili	ˈxiθili
 chytil	ˈxiθiɫ
+chytíme	ˈxiθiːmɛ
 chytím	ˈxiθiːm
 chytiť	ˈxitiθ
 chytro	ˈxitrɔ
@@ -2323,6 +2366,7 @@ cisár	ˈtsisaːr
 čísla	ˈtʃiːsɫa
 čísle	ˈtʃiːslɛ
 číslo	ˈtʃiːsɫɔ
+čistá	ˈtʃistaː
 čistá	ˈtʃistɑː
 čistej	ˈtʃistɛj
 čistenie	ˈtʃisθɛɲiɛ
@@ -2333,6 +2377,7 @@ cisár	ˈtsisaːr
 čisto	ˈtʃistɔ
 čistým	ˈtʃistiːm
 čistý	ˈtʃistiː
+čistý	ˈtʃɪstiː
 čišži	ˈtʃiʃʒi
 čítala	ˈtʃiːtɑɫɑ
 čítal	ˈtʃiːtɑl
@@ -2349,6 +2394,7 @@ cítia	ˈtsiːθia
 cítila	ˈtsiːθila
 cítili	ˈtsiːθili
 cítil	ˈtsiːθil
+cítime	ˈtsiːθimɛ
 cítim	ˈtsiːtim
 cítiš	ˈtsiːθiʃ
 cítite	ˈtsiːtiθɛ
@@ -2382,6 +2428,7 @@ ckom	ˈtskɔm
 čkový	ˈtʃkɔviː
 claire	ˈtslɑjrɛ
 clair	ˈtslɑjr
+článku	ˈtʃɫaːnku
 článok	ˈtʃlaːnɔk
 článok	ˈtʃɫaːnɔk
 clark	ˈtsɫark
@@ -2399,6 +2446,7 @@ clark	ˈtsɫark
 čln	ˈtʃɫn
 clo	ˈtsɫɔ
 človeče	ˈtʃɫɔʋɛtʃɛ
+človeka	ˈtʃɫɔvɛka
 človeka	ˈtʃɫɔʋɛkɑ
 človekom	ˈtʃɫɔʋɛkɔm
 človek	ˈtʃɫɔʋɛk
@@ -2411,6 +2459,7 @@ coby	ˈtsɔbi
 čoho	ˈtʃɔɦɔ
 coje	ˈtsɔjɛ
 čokoláda	ˈtʃɔkɔɫaːda
+čokoládu	ˈtʃɔkɔɫaːdu
 čokoľvek	ˈtʃɔkɔʎvɛk
 čoko	ˈtʃɔkɔ
 cola	F
@@ -2427,7 +2476,9 @@ com	ˈtsɔm
 čom	ˈtʃɔm
 comu	ˈtsɔmu
 čomu	ˈtʃɔmu
+connie	ˈtsɔniɛ
 con	ˈtsɔn
+cookie	ˈtsɔːkjɛ
 cool	ˈtsɔːɫ
 cooper	ˈtsɔːpɛr
 coop	ˈtsɔɔp
@@ -2441,7 +2492,9 @@ cormac	ˈtsɔrmats
 čoskor	ˈtʃɔskɔr
 co	ˈtsɔ
 čo	ˈtʃɔ
+could	ˈtsɔuld
 country	F
+county	ˈtsɔunti
 court	ˈtsɔurt
 cox	ˈtsoks
 coyom	ˈtsɔjɔm
@@ -2486,6 +2539,7 @@ cudo	ˈtsudɔ
 cudzích	ˈtsudziːx
 cudzími	ˈtsudziːmi
 cudzina	ˈtsudzina
+cudzinci	ˈtsudzintsi
 cudzinec	ˈtsudziɲɛts
 cudzinka	ˈtsudziŋka
 cudzí	ˈtsudziː
@@ -2506,6 +2560,7 @@ cvičiť	ˈtsvitʃiθ
 cvik	ˈtsvik
 cvokáreň	ˈtsvɔkɑːrɛɲ
 cvok	ˈtsvɔk
+čvrtý	ˈtʃvrtiː
 cyca	ˈtsitsa
 cyklista	ˈtsiklista
 cyklistický	ˈtsiklistitskiː
@@ -2523,6 +2578,7 @@ dajaký	ˈdajakiː
 daj	daɪ
 dajme	ˈdajmɛ
 dajte	ˈdajθɛ
+dajú	ˈdajuː
 dajú	ˈdɑjuː
 dakedy	ˈdakɛdi
 ďakovať	ˈɟakɔvaθ
@@ -2536,7 +2592,9 @@ dala	ˈdɑɫa
 dal	ˈdɑɫ
 dale	ˈdɑlɛ
 dalej	ˈdalɛj
+ďalej	ˈɟalɛi
 ďalej	ˈɟɑlɛj
+daleko	ˈdalɛkɔ
 ďalekohľad	ˈɟalɛkɔɦʎat
 ďaleko	ˈɟɑlɛkɔ
 ďalekom	ˈɟalɛkɔm
@@ -2549,6 +2607,7 @@ dalo	ˈdɑɫɔ
 dalších	ˈdaɫʃiːx
 ďalších	ˈɟaɫʃiːx
 ďalšieho	ˈɟɑlʃiɛɦɔ
+ďalšie	ˈɟalʃiɛ
 ďalšie	ˈɟɑɫʃiɛ
 ďalší	ˈɟaɫʃiː
 ďaľší	ˈɟaʎʃiː
@@ -2586,9 +2645,11 @@ darček	ˈdartʃɛk
 darčeky	ˈdartʃɛki
 darcu	ˈdartsu
 dar	ˈdar
+darebák	ˈdarɛbaːk
 dare	ˈdarɛ
 darí	ˈdariː
 dariť	ˈdariθ
+darlene	ˈdarlɛnɛ
 darmo	ˈdarmɔ
 darovať	ˈdarɔvaθ
 daš	ˈdaʃ
@@ -2596,6 +2657,7 @@ dáš	ˈdɑːʃ
 databáza	ˈdatabaːza
 dáta	ˈdaːta
 dáť	ˈdaːθ
+dat	ˈdat
 dať	ˈdɑθ
 dáte	ˈdɑːθɛ
 ďateľ	ˈɟaθɛʎ
@@ -2644,6 +2706,7 @@ debatoval	ˈdɛbatɔval
 debatovať	ˈdɛbatɔvaθ
 debatu	ˈdɛbatu
 debaty	ˈdɛbati
+debbie	ˈdɛbiɛ
 debil	ˈdɛbil
 debore	ˈdɛbɔrɛ
 debut	ˈdɛbut
@@ -2655,6 +2718,7 @@ decembrový	ˈdɛtsɛmbrɔviː
 decentralizácia	ˈdɛtsɛntraːlizaːtsia
 decká	ˈdɛtskɑː
 decko	ˈɟɛtskɔ
+deckom	ˈɟɛtskɔm
 de	ˈdɛ
 dé	dɛː
 dedič	ˈɟɛɟitʃ
@@ -2686,6 +2750,7 @@ dejavu	ˈdɛjavu
 deje	ɟɛɪɛ
 dejepise	ˈɟɛjɛpisɛ
 dejepis	ˈɟɛjɛpis
+dejiny	ˈdɛjinɪ
 dejiny	ˈɟɛjini
 dejisko	ˈɟɛjiskɔ
 dej	ɟɛj
@@ -2755,6 +2820,7 @@ detektívka	dɛtɛktiːʊka
 deti	ˈɟɛθi
 detí	ˈɟɛθiː
 deťmi	ˈɟɛθmi
+deťoch	ˈɟɛθɔx
 deťom	ˈɟɛθɔm
 detroit	ˈdɛtrɔit
 detské	ˈɟɛtskɛː
@@ -2778,6 +2844,7 @@ devízový	ˈdɛviːzɔviː
 dexter	ˈdɛkstɛr
 dezinfekcia	ˈdɛzinfɛktsia
 dhs	ˈdɦs
+diabetu	ˈdiabɛtu
 diabla	ˈɟiabɫa
 diabol	ˈɟiabɔɫ
 diabolskými	ˈɟiabɔlskiːmi
@@ -2799,6 +2866,7 @@ diecéza	ˈdiɛtsɛːza
 diecézny	ˈdiɛtsɛːzni
 diego	ˈdiɛɡɔ
 diela	ˈɟiɛɫɑ
+diel	ˈɟiɛl
 diel	ˈɟiɛɫ
 dielňa	ˈɟiɛɫɲa
 dieloch	ˈɟijɛlɔx
@@ -2815,8 +2883,10 @@ dieťaťom	ˈɟiɛθaθɔm
 dievca	ˈdiɛvtsa
 dievča	ˈɟiɛutʃa
 dievča	ˈɟiɛutʃɑ
+dievča	ˈɟiɛvtʃa
 dievčaťa	ˈɟiɛvtʃaθa
 dievčatá	ˈɟiɛvtʃɑtɑː
+dievčati	ˈɟiɛvtʃɑθi
 dievčat	ˈɟiɛvtʃɑt
 dievčatko	ˈɟiɛvtʃɑtkɔ
 dievčaťom	ˈɟiɛvtʃaθɔm
@@ -2831,6 +2901,7 @@ dík	ˈɟiːk
 diktátor	ˈdiktɑːtɔr
 diktatúra	ˈdiktɑtuːra
 diktovať	ˈdiktɔvaθ
+diky	ˈdiki
 díky	ˈɟiːki
 dilema	ˈdiɫɛmɑ
 díler	diːlɛr
@@ -2882,6 +2953,7 @@ divný	ˈɟivniː
 divoké	ˈɟivɔkɛː
 divokú	ˈdivɔkuː
 divoký	ˈɟivɔkiː
+divu	ˈɟivu
 divý	ˈɟiviː
 dizajn	ˈdizajn
 dížký	ˈdiːʒkiː
@@ -2895,6 +2967,7 @@ dlhá	ˈdlɦaː
 dlh	ˈdlɦ
 dlhé	ˈdlɦɛː
 dlho	ˈdlɦɔ
+dlho	ˈdɫho
 dlhodobo	ˈdlɦɔdɔbɔ
 dlhodobý	ˈdlɦɔdɔbiː
 dlhopis	ˈdlɦɔpis
@@ -3009,6 +3082,7 @@ dodávke	ˈdɔdaːvkɛ
 dodávkou	ˈdɔdaːvkɔu
 dodávku	ˈdɔdaːvku
 dodávky	ˈdɔdaːvki
+dodge	ˈdɔdɡɛ
 dodnes	ˈdɔdɲɛs
 do	ˈdɔ
 dodržať	ˈdɔdrʒaθ
@@ -3027,6 +3101,8 @@ dohodli	ˈdɔɦɔdli
 dohodneme	ˈdɔɦɔdɲɛmɛ
 dohodnúť	ˈdɔhɔdnuːθ
 dohodnuté	ˈdɔhɔdnutɛː
+dohodnutí	ˈdɔɦɔdnutiː
+dohodnutí	ˈdɔɦɔdnuθiː
 dohodnutý	ˈdɔɦɔdnutiː
 dohodu	ˈdɔɦɔdu
 dohody	ˈdɔɦɔdi
@@ -3169,6 +3245,7 @@ donor	ˈdɔnɔr
 donorov	ˈdɔnɔrɔv
 donosíš	ˈdɔnɔsiːʃ
 donu	ˈdɔnu
+donútil	ˈdɔnuːθil
 donútiť	ˈdɔnuːθiθ
 doobre	ˈdɔbrɛ
 dood	ˈdɔːd
@@ -3178,11 +3255,13 @@ dopad	ˈdɔpat
 dopadlo	ˈdɔpadɫɔ
 dopadne	ˈdɔpadɲɛ
 dopadnúť	ˈdɔpadnuːθ
+dopadol	ˈdɔpadɔɫ
 dopa	ˈdɔpa
 dopekla	ˈdɔpɛkɫa
 dopestujete	ˈdɔpɛstujɛθɛ
 doping	ˈdɔpinɡ
 dopingový	ˈdɔpinɡɔviː
+dopis	ˈdɔpis
 doplácať	ˈdɔplaːtsaθ
 doplatiť	ˈdɔplaθiθ
 dopĺňať	ˈdɔplːɲaθ
@@ -3205,7 +3284,7 @@ dopredu	ˈdɔprɛdu
 dopriali	ˈdɔpriali
 dopriať	ˈdɔpriaθ
 doprosujem	ˈdɔprɔsujɛm
-dopúšťať	ˈdɔpuːʃʃcaθ
+dopúšťať	ˈdɔpuːʃθaθ
 dopustiť	ˈdɔpusθiθ
 dopyt	ˈdɔpit
 dorána	ˈdɔraːna
@@ -3240,6 +3319,7 @@ doskok	ˈdɔskɔk
 doskokov	ˈdɔskɔkɔv
 dosky	ˈdɔski
 dosla	ˈdɔsɫa
+dôsledku	ˈduɔslɛdku
 dôsledky	ˈduɔslɛdki
 dôsledne	ˈduɔslɛdɲɛ
 dôsledný	ˈduɔslɛdniː
@@ -3251,6 +3331,7 @@ doslova	ˈdɔslɔva
 doslova	ˈdɔsɫɔva
 doslov	ˈdɔsɫɔv
 dospelosť	ˈdɔspɛlɔsθ
+dospelých	ˈdɔspɛliːx
 dospelý	ˈdɔspɛliː
 dospieť	ˈdɔspiɛθ
 dospievajúci	ˈdɔspiɛvajuːtsi
@@ -3278,15 +3359,18 @@ dostatočný	ˈdɔstatɔtʃniː
 dostatok	ˈdɔstɑtɔk
 dostáva	ˈdɔstɑːva
 dostávali	ˈdoʊstɑːvɑli
+dostávam	ˈdɔstɑːvam
 dostávame	ˈdɔstɑːvamɛ
 dostávaš	ˈdɔstaːvaʃ
 dostávať	ˈdɔstɑːvaθ
 dostavba	ˈdɔstavba
 dostaviť	ˈdɔstaviθ
 dost	ˈdɔst
+dosť	ˈdɔsθ
 dosť	ˈdʊsθ
 dostihy	ˈdɔsθiɦi
 dôstojne	ˈduɔstɔjɲɛ
+dôstojníci	ˈduɔstɔjɲiːtsi
 dôstojník	ˈduostojɲiːk
 dôstojnosť	ˈduɔstɔjnɔsθ
 dôstojný	ˈduɔstɔjniː
@@ -3346,7 +3430,10 @@ dovolenkový	ˈdɔvɔlɛnkɔviː
 dovolenku	ˈdɔvɔlɛnku
 dovolenky	ˈdɔvɔlɛŋki
 dovolený	ˈdɔvɔlɛniː
+dovolí	ˈdɔvɔliː
 dovolil	ˈdɔvɔliɫ
+dovolili	ˈdɔvɔlili
+dovolím	ˈdɔvɔliːm
 dovolíš	ˈdɔvɔliːʃ
 dovoliť	ˈdɔvɔɫiθ
 dovolíte	ˈdɔvɔliːθɛ
@@ -3357,6 +3444,7 @@ dovoz	ˈdɔvɔz
 dovozný	ˈdɔvɔzniː
 dovtedajší	ˈdɔvtɛdajʃiː
 dovtedy	ˈdɔvtɛdi
+dowd	ˈdɔvd
 down	ˈdɔvn
 dožadovať	ˈdɔʒadɔvaθ
 dozadu	ˈdɔzadu
@@ -3391,6 +3479,7 @@ drahé	ˈdraɦɛː
 draho	ˈdraɦɔ
 drahokam	ˈdraɦɔkam
 drahý	ˈdraɦiː
+draka	ˈdraka
 drak	ˈdrɑk
 drakom	ˈdrakɔm
 dráma	ˈdrɑːma
@@ -3473,6 +3562,7 @@ držíš	ˈdrʒiːʃ
 držiteľ	ˈdrʒiθɛʎ
 držte	ˈdrʒtɛ
 drzu	ˈdrzu
+drzý	ˈdrziː
 ds	A
 dss	A
 dú	A
@@ -3537,6 +3627,7 @@ dva	ˈdva
 dvahy	ˈdvahi
 dvaja	ˈdvaja
 dvaja	ˈdvɑja
+dvaja	ˈdʋaja
 dvakrát	ˈdvakraːt
 dvanásť	ˈdvanaːsθ
 dvanásty	ˈdvanaːsti
@@ -3562,6 +3653,8 @@ dvojdňový	ˈdvɔjdɲɔviː
 dvojhra	ˈdvɔjhra
 dvojica	ˈdvɔjitsa
 dvojička	ˈdvɔjitʃka
+dvojité	ˈdvɔjitɛː
+dvojitú	ˈdvɔjituː
 dvojitý	ˈdvɔjitiː
 dvojka	ˈdvɔjka
 dvojnásobne	ˈdvɔjnaːsɔbɲɛ
@@ -3582,6 +3675,7 @@ dýchací	ˈdiːxatsiː
 dýcha	ˈdiːxa
 dýchaj	ˈdiːxaj
 dýcham	ˈdiːxam
+dýchanie	ˈdiːxaniɛ
 dýchanie	ˈdiːxaɲiɛ
 dýchať	ˈdiːxaθ
 dych	ˈdix
@@ -3612,6 +3706,7 @@ ecb	A
 edda	ˈɛda
 eddie	ˈɛdiɛ
 ed	ɛd
+edgar	ˈɛdaɡr
 edícia	ˈɛdiːtsia
 editor	ˈɛditɔr
 edmonton	ˈɛdmɔntɔn
@@ -3852,6 +3947,7 @@ fandiť	ˈfanɟiθ
 fantastické	ˈfantastitskɛː
 fantastický	ˈfantastitskiː
 fantázia	ˈfantɑːzia
+fantázie	ˈfantɑːziɛ
 fanúšik	ˈfanuːʃik
 fanúšikom	ˈfanuːʃikɔm
 fara	ˈfara
@@ -3870,6 +3966,7 @@ farnosť	ˈfarnɔsθ
 farský	ˈfarskiː
 fasáda	ˈfasaːda
 fascinovať	ˈfastsinɔvaθ
+fascinujúce	ˈfastsinujuːtsɛ
 fascinujúci	ˈfastsinujuːtsi
 fašistický	ˈfaʃistitskiː
 fašizmus	ˈfaʃizmus
@@ -3957,6 +4054,7 @@ fľaška	ˈfʎaʃka
 fľašu	ˈfʎaʃu
 fľašy	ˈfʎaʃi
 flauta	ˈfɫauta
+fletcher	ˈflɛtxɛr
 flint	ˈfɫint
 florida	ˈfɫɔrida
 flotila	ˈfɫɔtilɑ
@@ -3995,6 +4093,7 @@ fotili	ˈfoθiɫi
 fotíš	ˈfɔtiːʃ
 fotka	ˈfɔtka
 fotkám	ˈfɔtkɑːm
+fotke	ˈfɔtkɛ
 fotku	ˈfɔtku
 fotky	ˈfɔtki
 fotoaparát	ˈfɔtɔaparaːt
@@ -4017,8 +4116,10 @@ foxtrot	ˈfɔkstrɔt
 fragment	ˈfraɡmɛnt
 frajer	ˈfrajɛr
 frakcia	ˈfraktsia
+francisca	ˈfrantsistsa
 francis	ˈfrantsis
 francúz	ˈfrantsuːz
+francúzi	ˈfrantsuːzi
 francúzska	ˈfrantsuːska
 francúzsko	ˈfrantsuːskɔ
 francúzsku	ˈfrantsuːsku
@@ -4030,6 +4131,7 @@ frankfurt	ˈfrankfurt
 frankie	ˈfrankiɛ
 frasa	ˈfrasa
 fráza	ˈfrɑːza
+freddy	ˈfrɛdi
 fred	ˈfrɛd
 free	F
 frekvencia	ˈfrɛkvɛntsia
@@ -4102,6 +4204,7 @@ generála	ˈɡɛnɛraːɫa
 generál	ˈɡɛnɛraːɫ
 generálku	ˈɡɛnɛraːɫku
 generálny	ˈɡɛnɛraːɫni
+generátor	ˈɡɛnɛraːtɔr
 geneticky	ˈɡɛnɛtitski
 genetický	ˈɡɛnɛtitskiː
 gén	ˈɡɛːn
@@ -4117,6 +4220,7 @@ get	ˈɡɛt
 geto	ˈɡɛtɔ
 g	g
 ghz	ˈɡhz
+gibbs	ˈɡibs
 gigant	ˈɡiɡant
 gina	ˈɡina
 gitara	ˈɡitara
@@ -4125,6 +4229,7 @@ glasa	ˈɡlasa
 globalizácia	ˈɡlɔbalizaːtsia
 globálny	ˈɡɫɔbaːɫni
 glóbus	ˈɡɫɔːbus
+gloria	ˈɡlɔria
 go	ˈɡɔ
 gold	ˈɡɔɫd
 golf	ˈɡɔɫf
@@ -4142,6 +4247,7 @@ gotický	ˈɡɔtitskiː
 gotika	ˈɡɔtika
 gpsko	ˈɡpskɔ
 grace	ˈɡratsɛ
+grady	ˈɡradi
 graf	ˈɡraf
 grafický	ˈɡrafitskiː
 grafika	ˈɡrafika
@@ -4197,6 +4303,7 @@ hádzať	ˈɦaːdzaθ
 hadzu	ˈɦadzu
 hah	ˈɦaɦ
 ha	ˈɦa
+há	ˈɦaː
 hája	ˈɦaːja
 háj	ˈɦaːj
 haj	ˈɦaj
@@ -4206,6 +4313,7 @@ hala	ˈɦala
 hale	ˈɦalɛ
 hal	ˈɦaɫ
 halier	ˈɦaʎiɛr
+halloween	ˈɦalɔvɛːn
 halo	ˈɦaɫɔ
 haló	ˈɦɑɫɔː
 halom	ˈɦaɫɔm
@@ -4213,6 +4321,7 @@ halový	ˈɦalɔviː
 haluška	ˈɦaluʃka
 háma	ˈɦaːma
 hamas	ˈɦamas
+hamburger	ˈɦamburɡɛr
 hamburg	ˈɦamburɡ
 hamlet	ˈɦamlɛt
 hammered	ˈɦamɛrɛd
@@ -4234,6 +4343,7 @@ hank	ˈɦank
 hannah	ˈɦanaɦ
 hannover	ˈɦanɔvɛr
 hans	ˈɦans
+happy	ˈɦapi
 hapruje	ˈɦaprujɛ
 hardin	ˈɦardin
 hardy	ˈɦardi
@@ -4245,7 +4355,9 @@ harmonogram	ˈɦarmɔnɔɡram
 haro	ˈɦarɔ
 hárok	ˈɦaːrɔk
 harold	ˈɦarɔɫd
+harper	ˈɦarpɛr
 harriet	ˈɦariɛt
+harryho	ˈɦariɦɔ
 harry	ˈɦari
 harvey	ˈɦarvɛj
 hasan	ˈɦasɑn
@@ -4264,6 +4376,7 @@ havran	ˈɦavran
 haze	ˈɦazɛ
 hc	A
 hdp	A
+heart	ˈɦɛart
 heather	ˈɦɛatɦɛr
 hebrej	ˈɦɛbrɛj
 hehehe	ˈɦɛɦɛɦɛɦɛ
@@ -4318,12 +4431,14 @@ histórii	ˈɦistɔːriː
 historik	ˈɦistɔrik
 históriu	ˈɦistɔːriu
 historka	ˈɦistɔrka
+historky	ˈɦistɔrki
 hit	ˈɦit
 hitparáda	ˈɦitparaːda
 hiv	A
 hk	A
 hkm	A
 hľadá	ˈɦʎadaː
+hľadaj	ˈɦʎadaj
 hľadajú	ˈɦʎadajuː
 hľadala	ˈɦʎadala
 hľadal	ˈɦʎadal
@@ -4365,6 +4480,7 @@ hlasovať	ˈɦɫasɔvaθ
 hlasovej	ˈɦɫasɔvɛj
 hlasov	ˈɦɫasɔv
 hlasový	ˈɦɫasɔviː
+hláste	ˈɦɫaːsθɛ
 hlasu	ˈɦɫasu
 hlasujúci	ˈɦɫasujuːtsi
 hlásy	ˈhɫaːsi
@@ -4395,6 +4511,7 @@ hlboký	ɦɫbɔkiː
 hlbšie	ˈɦɫbʃiɛ
 hl	ɦɫ
 hliadka	ˈɦliadka
+hliadky	ˈɦɫiadki
 hlina	ɦlina
 hlinený	ˈɦɫiɲɛniː
 hliník	ˈɦɫiɲiːk
@@ -4429,6 +4546,7 @@ hnačka	ˈɦnatʃka
 hnačke	ˈɦnatʃkɛ
 hnal	ˈɦnaɫ
 hnať	ˈɦnaθ
+hnedé	ˈɦɲɛdɛː
 hned	ˈɦnɛd
 hneď	ˈɦɲɛɟ
 hnedý	ˈɦɲɛdiː
@@ -4450,6 +4568,7 @@ hoc	ˈɦɔts
 hocičo	ˈɦɔtsitʃɔ
 hoci	ˈɦɔtsi
 hocijaký	ˈɦɔtsijakiː
+hocikoho	ˈɦɔtsikɔhɔ
 hocikto	ˈɦɔtsiktɔ
 hociktorý	ˈɦɔtsiktɔriː
 hodáb	ˈɦɔdaːb
@@ -4588,6 +4707,7 @@ hotela	ˈɦɔtɛɫa
 hotel	ˈɦɔtɛl
 hoteli	ˈɦɔtɛɫi
 hotelový	ˈɦɔtɛɫɔviː
+hot	ˈɦɔt
 hotová	ˈɦɔtɔvaː
 hotové	ˈɦɔtɔvɛː
 hotoví	ˈɦɔtɔviː
@@ -4608,6 +4728,7 @@ hovor	ˈɦɔvɔr
 hovoriaci	ˈɦɔvɔriatsi
 hovoria	ˈɦɔvɔria
 hovorievať	ˈɦɔvɔriɛvaθ
+hovorí	ˈɦɔvoriː
 hovori	ˈɦɔvɔri
 hovorí	ˈɦɔvɔrɪː
 hovorii	ˈɦɔvɔriː
@@ -4618,6 +4739,7 @@ hovorilo	ˈhɔvɔrilɔ
 hovoríme	ˈɦɔvɔrɪːmɛ
 hovorím	ˈɦɔvɔrɪːm
 hovoríš	ˈɦoʊvɔriːʃ
+hovoríš	ˈɦɔvoriːʃ
 hovoríte	hɔvɔriːtɛ
 hovoríte	ˈɦɔvɔriːθɛ
 hovorit	ˈɦɔvɔrit
@@ -4667,9 +4789,11 @@ hraného	ˈɦranɛːhɔ
 hranica	ˈɦraɲitsa
 hranice	ˈɦraɲitsɛ
 hraničiari	ˈɦraɲitʃiari
+hranici	ˈɦraɲitsi
 hraničný	ˈɦraɲitʃniː
 hranicu	ˈɦraɲitsu
 hranie	ˈɦraɲiɛ
+hranolky	ˈɦranɔlki
 hranom	ˈɦranɔm
 hraný	ˈɦraɲiː
 hráš	ˈɦrɑːʃ
@@ -4705,6 +4829,7 @@ hriešny	ˈɦriɛʃni
 hrmot	ˈɦrmɔt
 hrnček	ˈɦrntʃɛk
 hrniec	ˈɦrɲiɛts
+hrobe	ˈɦrɔbɛ
 hrob	ˈɦrɔp
 hrobka	ˈɦrɔbka
 hrobke	ˈɦrɔbkɛ
@@ -4735,6 +4860,7 @@ hrúbka	ˈɦruːbka
 hrubohlasej	ˈhrubɔhlasɛj
 hrubý	ˈɦrubiː
 hruď	ˈɦruθ
+hrudi	ˈɦruɟi
 hrudník	ˈɦrudɲiːk
 hru	ˈɦru
 hruška	ˈɦruʃka
@@ -4751,6 +4877,8 @@ hubovej	ˈɦubɔvɛj
 hubu	ˈɦubu
 huby	ˈɦubi
 hudba	ˈɦudba
+hudba	ˈɦʊdba
+hudbe	ˈɦudbɛ
 hudbou	ˈɦudbɔv
 hudbu	ˈɦudbu
 hudby	ˈɦudbi
@@ -4901,6 +5029,7 @@ individuálne	ˈindividuɑːlɲɛ
 individuálny	ˈindividuaːlni
 indonézia	ˈindɔnɛːzia
 iného	ˈinæɛːhɔ
+ine	ˈinɛ
 iné	ˈinɛː
 iné	inɛː
 inej	ˈinɛj
@@ -4930,10 +5059,12 @@ iniciovať	initsiɔvaθ
 iní	ˈiniː
 in	ˈin
 injekcia	injɛktsia
+injekciu	ˈinjɛktsiu
 inkasovať	inkasɔvaθ
 inn	ˈin
 inokedy	ˈinɔkɛdi
 inom	ˈinɔm
+inou	ˈinɔu
 inovácia	ˈinɔvɑːtsia
 inovatívny	ˈinɔvɑtiːvni
 inscenácia	ˈinstsɛnaːtsia
@@ -5012,6 +5143,7 @@ irak	irɑk
 iraku	ˈirɑku
 irán	irɑːn
 iránsky	irɑːnski
+iris	ˈiris
 írmi	ˈiːrmi
 írom	ˈiːrɔm
 irónia	irɔːnia
@@ -5051,6 +5183,7 @@ istotu	ˈistɔtu
 istrobanka	ˈistrɔbanka
 istropolis	ˈistrɔpɔlis
 istú	ˈistuː
+isty	ˈisti
 istý	ˈistiː
 istý	ˈistɪː
 itinerár	ˈitinɛraːr
@@ -5170,11 +5303,16 @@ jaz	ˈjaz
 jazmínom	ˈjazmiːnɔm
 jazva	ˈjazva
 jazvecov	ˈjazvɛtsɔv
+jazyka	ˈjazika
+jazyka	ˈjazɪka
 jazyk	ˈjazik
+jazyk	ˈjazɪk
 jazykmi	ˈjazikmi
 jazykoch	ˈjazikɔx
+jazykom	ˈjazikɔm
 jazykovo	ˈjazikɔvɔ
 jazykový	ˈjazikɔviː
+jazyku	ˈjaziku
 jazyky	ˈjaziki
 jazz	F
 jean	ˈjɛan
@@ -5196,6 +5334,8 @@ jedinečný	ˈjɛɟɪɲɛtʃniː
 jediného	ˈjɛɟɪnɛːɦɔ
 jediné	ˈjɛɟɪnæɛː
 jedine	ˈjɛɟɪɲɛ
+jedinej	ˈjɛɟɪnɛj
+jediní	ˈjɛɟɪniː
 jedinou	ˈjɛɟɪnou
 jedinú	ˈjɛɟɪnuː
 jediný	ˈjɛɟɪˌniː
@@ -5310,6 +5450,7 @@ j	j
 jj	ˈjhjh
 joad	ˈjɔad
 joba	ˈjɔba
+job	ˈjɔb
 jobovo	ˈjɔbɔvɔ
 jobs	ˈjɔbs
 joby	ˈjɔbi
@@ -5332,14 +5473,17 @@ jonathan	ˈjɔnatɦan
 jones	ˈjɔnɛs
 jonh	ˈjonh
 jop	ˈjɔp
+jordan	ˈjɔrdan
 jore	ˈjɔrɛ
 jose	F
 joseph	ˈjɔsɛph
 josh	ˈjɔsh
+joshua	ˈjɔsuɦa
 jos	ˈjɔs
 jost	ˈjɔst
 jou	ˈjɔu
 jozefa	ˈjɔzɛfa
+jozef	ˈjɔzɛf
 jozefovi	ˈjɔzɛfɔvi
 jsem	ˈjsɛm
 juan	F
@@ -5368,10 +5512,12 @@ julia	ˈjulia
 julie	ˈjulijɛ
 juliet	ˈjulijɛt
 juli	ˈjuli
+julius	ˈjulijus
 júl	ˈjuːɫ
 júlový	ˈjuːɫɔviː
 jumperom	ˈjumpɛrɔm
 june	ˈjunɛ
+juni	ˈjuni
 junior	ˈjuniɔr
 juniorka	ˈjuniɔrka
 juniorský	ˈjuniɔrskiː
@@ -5388,6 +5534,7 @@ justičný	ˈjustitʃniː
 justin	ˈjustin
 just	ˈjust
 juusa	ˈjuːsa
+južná	ˈjuʒnaː
 južnej	ˈjuʒɲɛj
 južne	ˈjuʒɲɛ
 južný	ˈjuʒniː
@@ -5419,6 +5566,7 @@ kajá	ˈkajaː
 kajám	ˈkajaːm
 kajutu	ˈkajutu
 kakao	ˈkakaɔ
+ka	ˈkɑ
 kak	ˈkak
 kala	ˈkaɫɑ
 kalamár	ˈkaɫamɑːr
@@ -5505,6 +5653,7 @@ kapa	ˈkapɑ
 kapara	ˈkapara
 kape	ˈkapɛ
 kapela	ˈkapɛla
+kapely	ˈkapɛli
 kapíše	ˈkapiːʃɛ
 kapitalistický	ˈkapitalistitskiː
 kapitalizmu	ˈkapitɑlizmu
@@ -5540,7 +5689,9 @@ karelských	ˈkarɛlskiːx
 karenina	ˈkarɛɲinɑ
 karen	ˈkarɛn
 kariéra	ˈkariɛːra
+kariére	ˈkariɛːrɛ
 kariéru	ˈkariɛːru
+kariet	ˈkariɛt
 karí	ˈkariː
 karikatúra	ˈkarikatuːra
 karkarova	ˈkarkarɔva
@@ -5712,7 +5863,9 @@ kladne	ˈkɫadɲɛ
 kladný	ˈkɫadniː
 kľaknúť	ˈkʎaknuːθ
 klamala	ˈkɫamala
+klamali	ˈkɫamali
 klamal	ˈkɫamal
+klamárka	ˈkɫamaːrka
 klamár	ˈkɫamaːr
 klamať	ˈkɫamaθ
 klame	ˈkɫamɛ
@@ -5720,6 +5873,7 @@ klameš	ˈkɫamɛʃ
 klamete	ˈklamɛθɛ
 klamstvá	ˈkɫamstvaː
 klamstvo	ˈkɫamstvɔ
+klamú	ˈkɫamuː
 klasická	ˈklasitskaː
 klasických	ˈklasitskiːx
 klasický	ˈkɫasitskiː
@@ -5742,6 +5896,7 @@ klesajúci	ˈklɛsajuːtsi
 klesať	ˈklɛsaθ
 klesnúť	ˈklɛsnuːθ
 kliatba	ˈkliatba
+kliatbu	ˈkliatbu
 klídek	ˈkliːdɛk
 klientela	ˈkliɛntɛlɑ
 klient	ˈkliɛnt
@@ -5808,6 +5963,7 @@ kocka	ˈkɔtska
 kočka	ˈkɔtʃka
 koč	ˈkɔtʃ
 kocky	ˈkɔtski
+kočky	ˈkɔtʃki
 kocúr	ˈkɔtsuːr
 kodaň	ˈkɔdaɲ
 kódex	ˈkɔːdɛks
@@ -5840,6 +5996,7 @@ kolegyňa	ˈkɔlɛɡiɲa
 kolekcia	ˈkɔlɛktsia
 kolektív	ˈkɔlɛktiːv
 kolektívny	ˈkɔlɛktiːvni
+kolenách	ˈkɔlɛnaːx
 kolená	ˈkɔlɛnaː
 koleno	ˈkɔlɛnɔ
 koleso	ˈkɔlɛsɔ
@@ -5890,6 +6047,7 @@ komorný	ˈkɔmɔrniː
 komorným	ˈkɔmɔrniːm
 komory	ˈkɔmɔri
 kompaktný	ˈkɔmpaktniː
+kompas	ˈkɔmpas
 kompenzácia	ˈkɔmpɛnzaːtsia
 kompenzovať	ˈkɔmpɛnzɔvaθ
 kompetencia	ˈkɔmpɛtɛntsia
@@ -5917,6 +6075,7 @@ komunista	ˈkɔmunista
 komunistických	ˈkɔmunistitskiːx
 komunistický	ˈkɔmunistitskiː
 komunita	ˈkɔmunita
+komunity	ˈkɔmuniti
 komunizmus	ˈkɔmunizmus
 koňak	ˈkɔɲak
 koná	ˈkɔnaː
@@ -6015,6 +6174,7 @@ kontrolór	ˈkɔntrɔɫɔːr
 kontrolou	ˈkɔntrɔlɔu
 kontrolovaný	ˈkɔntrɔlɔvaniː
 kontrolovať	ˈkɔntrɔlɔvaθ
+kontroluje	ˈkɔntrɔlujɛ
 kontrolu	ˈkɔntrɔlu
 kontroly	ˈkɔntrɔli
 kontroverzný	ˈkɔntrɔvɛzniː
@@ -6114,6 +6274,7 @@ kôš	kuɔʃ
 kosovo	ˈkɔsɔvɔ
 kosovský	ˈkɔsɔvskiː
 kosti	ˈkɔsθi
+kostí	ˈkɔsθiː
 kosť	ˈkɔsθ
 kostola	ˈkɔstɔlɑ
 kostole	ˈkɔstɔlɛ
@@ -6178,6 +6339,7 @@ krajinu	ˈkrajinu
 krajiny	ˈkrajini
 kraj	kraj
 krajný	ˈkrajniː
+krajšie	ˈkrajʃiɛ
 krajský	ˈkrajskiː
 kraju	kraju
 krakov	krakɔv
@@ -6195,21 +6357,27 @@ kráľovi	ˈkraːʎɔvi
 kráľovna	ˈkraːʎɔvna
 kráľovná	ˈkraːʎɔvnaː
 kráľovnú	ˈkraːʎɔvnuː
+královský	ˈkraːlovskiː
 kráľovský	ˈkraːʎɔvskiː
+kráľovstva	ˈkraːʎɔvstva
 kráľovstvo	ˈkraːʎɔvstvɔ
 kralovstvo	ˈkralɔvstvɔ
 kramov	ˈkramɔv
 krámu	ˈkraːmu
 krantz	ˈkrantz
 krása	ˈkraːsa
+krása	ˈkrɑːsa
 krásavica	ˈkraːsavitsa
 krás	ˈkraːs
 krásna	ˈkraːsa
+krásna	ˈkraːsna
+krásne	ˈkraːsnɛ
 krásne	ˈkrɑːsɲɛ
 krásnu	ˈkraːsnu
 krásny	ˈkraːsni
 krásný	ˈkraːsniː
 krástíhli	ˈkrɑːsθiːhli
+krásy	ˈkraːsi
 krátke	ˈkraːtkɛ
 krátkodobý	ˈkraːtkɔdɔbiː
 krátko	ˈkraːtkɔ
@@ -6220,7 +6388,9 @@ kraula	ˈkraula
 krausa	ˈkrausa
 krava	ˈkrava
 kravata	ˈkravata
+kravatu	ˈkravatu
 kravina	ˈkravina
+kraviny	ˈkravini
 kravy	ˈkravi
 kŕč	krːtʃ
 krčma	ˈkrtʃma
@@ -6300,11 +6470,13 @@ krôčik	ˈkruɔtʃik
 kroj	ˈkrɔj
 krok	ˈkrɔk
 krokodíl	ˈkrɔkɔdiːɫ
+krokov	ˈkrɔkɔv
 kroky	ˈkrɔki
 kroma	ˈkrɔma
 kronika	ˈkrɔnika
 kronose	ˈkrɔnɔsɛ
 kroupa	ˈkrɔupa
+krpec	ˈkrpɛts
 krst	krst
 krstný	krstniː
 krtíš	ˈkrθiːʃ
@@ -6326,10 +6498,12 @@ krvácanie	ˈkrvaːtsaɲiɛ
 krvavý	ˈkrvaviː
 krvi	ˈkrvi
 krv	ˈkrv
+krv	ˈkrʋ
 krvný	krvniː
 krvou	ˈkrvɔu
 krycí	ˈkritsiː
 krýh	ˈkriːh
+krysa	ˈkrisa
 kryse	ˈkrisɛ
 krysou	ˈkrisɔu
 krytie	ˈkriθiɛ
@@ -6344,6 +6518,7 @@ kss	A
 kto	kdɔ
 ktokoľvek	ˈktɔkɔʎvɛk
 kto	ktɔ
+ktoľvek	ˈktɔʎvɛk
 ktorá	ˈktɔræː
 ktorého	ˈktɔrɛhɔ
 ktorej	ˈktɔrɛi
@@ -6379,7 +6554,9 @@ kuchynka	ˈkuxinka
 kuchynky	ˈkuxinki
 kuchynský	ˈkuxinskiː
 kufor	ˈkufɔr
+kufra	ˈkufra
 kufrík	ˈkufriːk
+kufri	ˈkufri
 kuhn	ˈkuɦn
 kuješ	ˈkujɛʃ
 ku	ˈku
@@ -6407,9 +6584,11 @@ kúpeľ	ˈkuːpɛʎ
 kúpeľňa	ˈkuːpɛʎɲa
 kúpeľný	ˈkuːpɛʎniː
 kupeny	ˈkupɛni
+kúpi	ˈkuːpi
 kúpila	ˈkuːpiɫa
 kúpili	ˈkuːpiɫi
 kúpil	ˈkuːpiɫ
+kúpime	ˈkuːpimɛ
 kúpim	ˈkuːpim
 kúpiť	ˈkuːpiθ
 kupka	ˈkupka
@@ -6519,6 +6698,7 @@ ladený	ˈɫaɟɛniː
 ľadový	ˈʎadɔviː
 ľadu	ˈʎadu
 lady	ˈɫadi
+ľahká	ˈʎaxkaː
 ľahké	ˈʎaxkɛː
 ľahko	ˈʎaxkɔ
 ľahkosť	ˈʎaɦkɔsθ
@@ -6615,6 +6795,8 @@ len	lɛn
 lenny	ˈlɛni
 lenže	ˈlɛnʒɛ
 leo	ˈlɛɔ
+leonard	ˈlɛɔnard
+leon	ˈlɛɔn
 leporelá	ˈlɛpɔrɛlɑː
 lepšia	ˈlɛpʃja
 lepšie	ˈlɛpʃiɛ
@@ -6634,6 +6816,7 @@ leták	ˈlɛtaːk
 letecký	ˈlɛθɛtskiː
 letectvo	ˈlɛθɛtstvɔ
 lete	ˈlɛθɛ
+letel	ˈlɛθɛɫ
 letenka	ˈlɛθɛnka
 letieť	ˈlɛθiɛθ
 letí	ˈlɛθiː
@@ -6652,9 +6835,11 @@ levica	ˈlɛvitsa
 lev	lɛu
 levoča	ˈlɛvɔtʃa
 lewis	ˈlɛvis
+ležal	ˈlɛʒaɫ
 ležať	ˈɫɛʒaθ
 ležiaci	ˈlɛʒiatsi
 leží	ˈlɛʒiː
+lez	ˈlɛz
 lež	ˈlɛʒ
 liam	ˈliam
 libanon	ˈlibanɔn
@@ -6673,6 +6858,7 @@ líder	liːdɛr
 lídri	ˈliːdri
 lídrov	ˈliːdrɔu
 liečba	ˈliɛtʃba
+liečbu	ˈliɛtʃbu
 liečebný	ˈliɛtʃɛbniː
 liečenie	ˈliɛtʃɛɲiɛ
 liečiť	ˈliɛtʃiθ
@@ -6680,6 +6866,7 @@ liečivo	ˈliɛtʃivɔ
 liečivý	ˈliɛtʃiviː
 lieh	ˈliɛɦ
 liek	ˈliɛk
+liekov	ˈliɛkɔv
 lieku	ˈliɛku
 lieky	ˈliɛki
 lieskovec	ˈliɛskɔvɛts
@@ -6688,15 +6875,18 @@ lietadlá	ˈliɛtadɫaː
 lietadle	ˈliɛtadlɛ
 lietadlo	ˈliɛtadɫɔ
 lietajúci	ˈliɛtajuːtsi
+lieta	ˈliɛta
 lietať	ˈliɛtaθ
 liezť	ˈliɛzθ
 life	ˈlifɛ
 liga	ˈliɡa
+light	ˈliɡɦt
 ligový	ˈliɡɔviː
 like	ˈlikɛ
 likvidácia	ˈlikvidaːtsia
 likvidita	ˈlikvidita
 likvidovať	ˈlikvidɔvaθ
+li	ˈli
 lilly	ˈlilli
 lily	ˈlili
 limit	ˈlimit
@@ -6753,6 +6943,7 @@ lodí	ˈɫɔɟiː
 loď	ˈɫɔθ
 lodný	ˈɫɔdniː
 loďou	ˈɫɔɟɔu
+logan	ˈɫɔɡan
 logicky	ˈɫɔɡitski
 logický	ˈɫɔɡitskiː
 logika	ˈɫɔɡika
@@ -6777,6 +6968,7 @@ lopatka	ˈɫɔpatka
 lopta	ˈɫɔpta
 loptička	ˈɫɔpθitʃka
 loptu	ˈɫɔptu
+lorda	ˈɫɔrda
 lord	ˈɫɔrd
 los	lɔs
 los	ˈɫɔs
@@ -6838,6 +7030,8 @@ luk	ˈɫuk
 lukratívny	ˈɫukratiːvni
 luna	ˈluna
 lúpež	ˈluːpɛʃ
+luther	ˈlutɦɛr
+luto	ˈɫutɔ
 ľúto	ˈʎʊːtɔ
 ľútosť	ˈʎuːtɔsθ
 ľutovať	ˈʎutɔvaθ
@@ -6873,6 +7067,7 @@ maďar	ˈmaɟar
 maďarsko	ˈmaɟarskɔ
 maďarsky	ˈmaɟarski
 maďarský	ˈmaɟarskiː
+madison	ˈmadisɔn
 madrid	ˈmadrid
 mafia	ˈmafia
 mága	ˈmaːɡa
@@ -6890,6 +7085,7 @@ mahkov	ˈmaɦkɔv
 mail	ˈmajl
 mailový	F
 maily	ˈmaili
+mája	ˈmaːja
 majerčík	ˈmɑjɛrtʃiːk
 majer	ˈmajɛr
 majetkový	ˈmajɛtkɔviː
@@ -6912,6 +7108,7 @@ majstrovský	ˈmajstrɔvskiː
 majstrovstvá	ˈmajstrɔvstvaː
 majstrovstvo	ˈmajstrɔvstvɔ
 majte	ˈmajθɛ
+majú	ˈmajuː
 maju	ˈmɑju
 majú	ˈmɑjuː
 make	ˈmakɛ
@@ -6947,6 +7144,7 @@ maličkosť	ˈmalitʃkɔsθ
 maličký	ˈmalitʃkiː
 mali	ˈmali
 malí	ˈmaliː
+mali	ˈmaɫi
 malina	ˈmalina
 mal	mal
 mal	mɑl
@@ -6964,6 +7162,7 @@ maľuje	ˈmaʎujɛ
 maľujete	ˈmaʎujɛθɛ
 malú	ˈmɑluː
 malých	ˈmaliːx
+maly	ˈmali
 malý	ˈmɑliː
 malým	ˈmaliːm
 ma	m
@@ -7012,6 +7211,7 @@ mapuje	ˈmapujɛ
 mapu	ˈmapu
 mapy	ˈmapi
 maratón	ˈmaratɔːn
+marca	ˈmartsa
 marcel	ˈmartsɛl
 marcos	ˈmartsɔs
 marcový	ˈmartsɔviː
@@ -7064,6 +7264,7 @@ mas	ˈmas
 máš	ˈmɑːʃ
 masmédium	ˈmasmɛːdijum
 mäso	ˈmæsɔ
+mason	ˈmasɔn
 masový	ˈmasɔviː
 mäsový	ˈmɛsɔviː
 masť	ˈmasθ
@@ -7092,6 +7293,8 @@ mat	mat
 mať	ˈmaθ
 mať	ˈmɑθ
 matoha	ˈmatɔɦa
+matroš	ˈmatrɔʃ
+matthew	ˈmatɦɛv
 matt	mat
 maturita	ˈmaturita
 maturitný	ˈmaturitniː
@@ -7105,10 +7308,12 @@ maya	ˈmaia
 may	ˈmai
 mb	A
 mč	A
+mcdonald	ˈmtsdɔnald
 mechanický	ˈmɛxanitskiː
 mechanika	ˈmɛxanika
 mechanizmus	ˈmɛxanizmus
 meč	ˈmɛtʃ
+mečom	ˈmɛtʃɔm
 medaila	ˈmɛdajila
 medailový	ˈmɛdajilɔviː
 medený	ˈmɛɟɛniː
@@ -7129,6 +7334,7 @@ medzičasom	ˈmɛdzitʃasɔm
 medzilaborce	ˈmɛdzilɑbɔrtsɛ
 medziľudský	ˈmɛdziʎudskiː
 medzi	ˈmɛdzi
+medzinárodnej	ˈmɛdzinaːrɔdnɛj
 medzinárodne	ˈmɛdzinaːrɔdɲɛ
 medzinárodnú	ˈmɛdzinaːrɔdnuː
 medzinárodný	ˈmɛdzinaːrɔdniː
@@ -7207,8 +7413,10 @@ mešťan	ˈmɛʃθan
 mestečko	ˈmɛstɛtʃkɔ
 meste	mɛsθɛ
 mest	ˈmɛst
+mesto	ˈmɛsto
 mesto	ˈmɛstɔ
 mestský	ˈmɛstskiː
+mestu	ˈmɛstu
 metafora	ˈmɛtafɔra
 metafor	ˈmɛtafɔr
 meter	ˈmɛtɛr
@@ -7223,6 +7431,7 @@ metropolitnej	ˈmɛtrɔpɔlitnɛj
 metrov	ˈmɛtrɔv
 metrový	ˈmɛtrɔviː
 mexický	ˈmɛksitskiː
+mexika	ˈmɛksika
 mexiko	ˈmɛksikɔ
 meze	ˈmɛzɛ
 mff	A
@@ -7230,6 +7439,7 @@ mfk	A
 mg	ˈmɡ
 mh	A
 mhd	A
+mhm	ˈmhm
 mia	ˈmiɑ
 miami	ˈmiɑmi
 michaela	ˈmixaɛla
@@ -7341,10 +7551,12 @@ minerál	ˈminɛraːɫ
 minerálny	ˈminɛraːɫni
 minimálne	ˈminimaːlɲɛ
 minimálny	ˈminimaːlni
+mini	ˈmini
 minimum	ˈminimum
 ministerka	ˈministɛrka
 minister	ˈministɛr
 ministerský	ˈministɛrskiː
+ministerstva	ˈministɛrstva
 ministerstvo	ˈministɛrstvɔ
 ministra	ˈministra
 minnesota	F
@@ -7357,6 +7569,7 @@ minul	ˈminuɫ
 minuloročný	ˈminulɔrɔtʃniː
 minulosti	ˈminuɫɔsθi
 minulosť	ˈminulɔsθ
+minulosťou	ˈminulɔsθɔu
 minulotýždňový	ˈminulɔtiːʒdɲɔviː
 minulú	ˈminuɫuː
 minulý	ˈminuliː
@@ -7389,6 +7602,7 @@ mitch	ˈmitx
 míting	ˈmiːtinɡ
 mix	ˈmiks
 mizerný	ˈmizɛrniː
+mizine	ˈmiziɲɛ
 miznúť	ˈmiznuːθ
 mláďa	ˈmɫaːɟa
 mladá	ˈmɫadaː
@@ -7472,6 +7686,7 @@ moderný	ˈmɔdɛrniː
 moderovala	ˈmɔdɛrɔvalɑ
 moderoval	ˈmɔdɛrɔval
 modifikácia	ˈmɔdifikɑːtsia
+modli	ˈmɔdli
 modlitba	ˈmɔtlitbɑ
 modliť	ˈmɔdliθ
 módny	ˈmɔːdni
@@ -7481,6 +7696,7 @@ modrá	ˈmɔdraː
 modré	ˈmɔdrɛː
 modro	ˈmɔdrɔ
 modru	ˈmɔdru
+modrú	ˈmɔdruː
 modrý	ˈmɔdriː
 modul	ˈmɔdul
 modus	ˈmɔdus
@@ -7511,6 +7727,7 @@ môj	ˈmuɔɔɪ
 mojom	ˈmɔjɔm
 mojou	ˈmɔjɔu
 moju	ˈmɔju
+mokré	ˈmɔkrɛː
 mokrý	ˈmɔkriː
 molekula	ˈmɔlɛkuɫa
 molly	ˈmɔli
@@ -7519,7 +7736,9 @@ momentálne	ˈmɔmɛntaːlɲɛ
 momentálne	mɔmɛntɑːlɲɛ
 momentálny	mɔmɛntɑːlni
 momente	ˈmɔmɛɲθɛ
+momentík	ˈmɔmɛɲθiːk
 moment	ˈmɔmɛɲt
+momentu	ˈmɔmɛntu
 mo	ˈmɔ
 monarchia	ˈmɔnarxia
 mondo	ˈmɔndɔ
@@ -7553,10 +7772,12 @@ morský	ˈmɔrskiː
 moru	ˈmɔru
 moskovský	ˈmɔskɔvskiː
 moskva	ˈmɔskva
+moskve	ˈmɔskvɛ
 moslim	ˈmɔslim
 moslimský	ˈmɔslimskiː
 mostík	ˈmɔsθiːk
 most	ˈmɔst
+moteli	ˈmɔtɛli
 motivácia	ˈmɔtivɑːtsia
 motivačná	ˈmɔtivatʃnɑː
 motivačné	ˈmɔtivatʃnɛː
@@ -7574,6 +7795,7 @@ motorový	ˈmɔtɔrɔviː
 motory	ˈmɔtɔri
 motto	ˈmɔttɔ
 motýľ	ˈmɔtiːʎ
+mount	ˈmɔunt
 mousea	ˈmɔusɛa
 moussaba	ˈmɔusaba
 moussa	ˈmɔusa
@@ -7592,6 +7814,7 @@ možete	ˈmuɔʒɛθɛ
 môžete	ˈmuɔʒɛθɛ
 mozgový	ˈmɔzɡɔviː
 mozgu	ˈmɔzɡu
+mozgy	ˈmɔzɡi
 môžme	ˈmuɔʒmɛ
 moz	ˈmɔz
 možna	ˈmɔʒna
@@ -7654,6 +7877,7 @@ multivláknový	ˈmultivlɑːknɔviː
 mume	ˈmumɛ
 mu	ˈmu
 mundo	ˈmundɔ
+muriel	ˈmuriɛɫ
 múr	muːr
 murov	ˈmurɔv
 musela	ˈmusɛla
@@ -7663,10 +7887,12 @@ muselo	ˈmusɛɫɔ
 musia	ˈmusia
 music	F
 musieť	ˈmusiɛθ
+musíme	ˈmusiːmɛ
 musíme	ˈmusiːmɛh
 musime	ˈmusimɛ
 musím	ˈmusiːm
 musim	ˈmusim
+musi	ˈmusi
 musí	ˈmusiː
 musíš	ˈmusiːʃ
 musis	ˈmusis
@@ -7674,8 +7900,10 @@ musíte	ˈmusiː
 muška	ˈmuʃka
 mutáciou	ˈmutaːtsiɔu
 múza	ˈmuːza
+muža	ˈmuʒa
 muža	ˈmuʒɑ
 múzeum	ˈmuːzɛum
+múzeu	ˈmuːzɛu
 múzických	ˈmuːzitskiːx
 muzikál	ˈmuzikɑːɫ
 muzikálna	ˈmuzikaːɫna
@@ -7711,6 +7939,7 @@ myslia	ˈmislia
 myšlienka	ˈmiʃliɛŋka
 myšlienkový	ˈmiʃliɛnkɔviː
 myšlienku	ˈmiʃliɛnku
+myšlienky	ˈmiʃliɛnki
 myšlienky	ˈmiʃljɛŋki
 myslieť	ˈmisliɛθ
 myslíme	ˈmisliːmɛ
@@ -7753,6 +7982,7 @@ načase	ˈnatʃasɛ
 načas	ˈnatʃas
 náčelník	ˈnaːtʃɛlɲiːk
 nachádzajúci	ˈnaxaːdzajuːtsi
+nachádzame	ˈnaxaːdzamɛ
 nachádza	ˈnaxaːdza
 nachádzať	ˈnaxaːdzaθ
 nacík	ˈnatsiːk
@@ -7774,6 +8004,7 @@ nadaný	ˈnadaniː
 nadávajú	ˈnɑdɑːvɑjuː
 nadávať	ˈnadaːvaθ
 nadávka	ˈnadaːvka
+nadávky	ˈnadaːvki
 nadchádzajúcich	ˈnadxɑːdzajuːtsix
 nadchádzajúci	ˈnadxɑːdzajuːtsi
 nádcha	ˈnaːtxa
@@ -7783,6 +8014,7 @@ nádejná	ˈnɑːɟɛjnɑː
 nádej	ˈnɑːɟɛj
 nádejný	ˈnaːɟɛjniː
 nádhera	ˈnaːdɦɛra
+nádherná	ˈnaːdhɛrnaː
 nádherná	ˈnaːdɦɛrnaː
 nádherné	ˈnaːdɦɛrnæɛː
 nádherne	ˈnaːdɦɛrɲɛ
@@ -7825,6 +8057,7 @@ nadvláda	ˈnadvlaːda
 nádvorie	ˈnaːdvɔriɛ
 nádvorím	ˈnaːdvɔriːm
 nádych	ˈnaːdix
+nadýchni	ˈnadiːxɲi
 nadýchnuť	ˈnadiːxnuθ
 nádychov	ˈnaːdixɔv
 nádychu	ˈnaːdixu
@@ -7868,6 +8101,7 @@ nahych	ˈnaɦix
 nahý	ˈnaɦiː
 naisto	ˈnaistɔ
 naivný	ˈnaivniː
+najali	ˈnajali
 najal	ˈnɑjɑɫ
 najať	ˈnajaθ
 najavo	ˈnajavɔ
@@ -7875,6 +8109,7 @@ nájazd	ˈnaːjazd
 najbizarnejšie	ˈnajbizarɲɛjʃiɛ
 najbližších	ˈnajbliʒʃiːx
 najbližšie	ˈnajbliʒʃiɛ
+najbližší	ˈnajbliʒʃiː
 najbližšom	ˈnajbliʒʃɔm
 najbohatší	ˈnajbɔɦatʃiː
 nájdeme	ˈnɑːjɟɛmɛ
@@ -7897,6 +8132,7 @@ najlepšia	ˈnajlɛpʃɪa
 najlepších	ˈnajlɛpʃiːx
 najlepšieho	ˈnajlɛpʃiɛɦɔ
 najlepšie	ˈnaɪilɛpʃɪɛ
+najlepšie	ˈnajlɛpʃiɛ
 najlepšie	nɑjlɛpʃiɛ
 najlepším	ˈnajlɛpʃiːm
 najlepší	ˈnajlɛpʃiː
@@ -7922,6 +8158,7 @@ najstarší	ˈnajstarʃiː
 nájsť	ˈnɑːjsθ
 najúžasnejšie	ˈnajuːʒɑsɲɛjʃiɛ
 najväčšia	ˈnajvɛtʃia
+najväčšieho	ˈnajvɛtʃʃiɛɦɔ
 najväčšie	ˈnajvɛtʃʃiɛ
 najväčší	ˈnajvɛtʃʃiː
 najväčšou	ˈnajvɛtʃʃɔu
@@ -7996,6 +8233,7 @@ námietka	ˈnaːmiɛtka
 namietnuť	ˈnamiɛtnuθ
 nami	ˈmɑmɪ
 nami	ˈnɑmi
+nám	ˈnaːm
 nám	nɑːm
 nam	ˈnɑm
 námorník	ˈnaːmɔrɲiːk
@@ -8016,6 +8254,7 @@ naozajstný	ˈnaɔzajstniː
 napadlo	ˈnapɑdɫɔ
 nápad	ˈnɑːpɑd
 nápadne	ˈnaːpadɲɛ
+napadne	ˈnapadɲɛ
 napadnutie	ˈnapadnuθiɛ
 napadnúť	ˈnapadnuːθ
 napadnutý	ˈnapadnutiː
@@ -8027,6 +8266,7 @@ napäto	ˈnɑpɛtɔ
 napätý	ˈnapɛtiː
 napečené	ˈnapɛːtʃɛnɛː
 napeta	ˈnapɛta
+napi	ˈnapi
 napísala	ˈnapiːsɑla
 napísali	ˈnapiːsɑli
 napísal	ˈnapiːsɑl
@@ -8051,8 +8291,10 @@ náplň	ˈnaːpɫɲ
 naplno	ˈnaplnɔ
 napodobňovať	ˈnapɔdɔbɲɔvaθ
 napojený	ˈnapɔjɛniː
+nápoj	ˈnaːpɔi
 nápoj	ˈnaːpɔj
 napokon	napɔkɔn
+napoleon	ˈnapɔlɛɔn
 napoly	ˈnapɔli
 napomáhať	ˈnapɔmaːɦaθ
 nápor	ˈnaːpɔr
@@ -8087,6 +8329,7 @@ nariekať	ˈnariɛkaθ
 narkoman	ˈnarkɔman
 nar	ˈnar
 narobiť	ˈnarɔbiθ
+náročné	ˈnaːrɔtʃnɛː
 náročnosť	ˈnaːrɔtʃnɔsθ
 náročný	ˈnaːrɔtʃniː
 narodenie	ˈnarɔɟɛɲiɛ
@@ -8105,6 +8348,7 @@ národnom	ˈnaːrɔdnɔm
 národnosť	ˈnaːrɔdnɔsθ
 národnostný	ˈnaːrɔdnɔstniː
 národný	ˈnaːrɔdniː
+národov	ˈnaːrɔdɔv
 nárok	ˈnaːrɔk
 narozprávalo	ˈnarɔzprɑːvalɔ
 náručie	ˈnaːrutʃiɛ
@@ -8154,6 +8398,7 @@ nasledovne	ˈnaslɛdɔvɲɛ
 nasledovník	ˈnaslɛdɔvɲiːk
 nasledovný	ˈnaslɛdɔvniː
 nasleduje	ˈnaslɛdujɛ
+nasleduj	ˈnaslɛduj
 nasledujúca	ˈnaslɛdujuːtsa
 nasledujúcej	ˈnaslɛdujuːtsɛj
 nasledujúcich	ˈnaslɛdujuːtsix
@@ -8162,6 +8407,7 @@ nasledujú	ˈnaslɛdujuː
 naslevuje	ˈnaslɛvujɛ
 našli	ˈnaʃʎi
 nášmu	ˈnɑːʃmu
+nás	ˈnaːs
 nás	naːs
 nas	ˈnas
 nás	nɑːs
@@ -8172,6 +8418,7 @@ našou	ˈnɑʃoʊ
 naspäť	ˈnaspɛθ
 naspet	ˈnaspɛt
 nasrala	ˈnasrala
+nasratý	ˈnasratiː
 nasrdil	ˈnasrɟil
 nasťahovať	ˈnasθaɦɔvaθ
 nastal	ˈnastal
@@ -8190,6 +8437,7 @@ nastoliť	ˈnastɔliθ
 nástraha	ˈnaːstraha
 naštrbený	ˈnaʃtrbɛniː
 nastrieľať	ˈnastriɛʎaθ
+nástroje	ˈnaːstrɔjɛ
 nástroj	ˈnaːstrɔj
 nástupca	ˈnaːstuputsa
 nastúpiť	ˈnastuːpiθ
@@ -8206,6 +8454,7 @@ našu	ˈnɑʃu
 nasvedčovať	ˈnasvɛdtʃɔvaθ
 naťahovať	ˈnaθaɦɔvaθ
 natale	ˈnatalɛ
+nate	ˈnaθɛ
 nateraz	ˈnatɛraz
 náter	ˈnaːθɛr
 nathan	ˈnatɦan
@@ -8223,6 +8472,7 @@ naučila	ˈnautʃila
 naučili	ˈnautʃili
 naučil	ˈnautʃil
 naučím	ˈnautʃiːm
+naučíš	ˈnautʃiːʃ
 naučiť	ˈnautʃiθ
 náuka	ˈnaːuka
 nau	ˈnɑu
@@ -8280,6 +8530,7 @@ nazvali	ˈnazvɑli
 nazval	ˈnazval
 nazvaný	ˈnazvaniː
 nazvať	ˈnazvaθ
+názvom	ˈnaːzvɔm
 nazývajú	ˈnaziːvajuː
 nazýva	ˈnaziːva
 nazývaný	ˈnaziːvaniː
@@ -8290,7 +8541,9 @@ nbú	A
 ndr	A
 neba	ˈɲɛba
 nebáť	ˈɲɛbaːθ
+neberiem	ˈɲɛbɛriɛm
 neber	ˈɲɛbɛr
+nebesá	ˈɲɛbɛsɑː
 nebesia	ˈɲɛbɛsia
 nebeský	ˈɲɛbɛskiː
 nebezpečenstve	ˈɲɛbɛzpɛtʃɛnstvɛ
@@ -8331,9 +8584,11 @@ nebuď	ˈɲɛbuɟ
 nebuďte	ˈɲɛbuɟθɛ
 nebudú	ˈɲɛbuduː
 nebyl	ˈɲɛbil
+nebyť	ˈɲɛbiːθ
 nebyť	ˈɲɛbiθ
 nebytový	ˈɲɛbitɔviː
 nebývať	ˈɲɛbiːvaθ
+nečakala	ˈɲɛtʃakalɑ
 nečakal	ˈɲɛtʃakaɫ
 nečakane	ˈɲɛtʃakaɲɛ
 nečakaný	ˈɲɛtʃakaniː
@@ -8343,6 +8598,7 @@ necelý	ˈɲɛtsɛliː
 nechajme	ˈɲɛxajmɛ
 nechaj	ˈɲɛxaj
 nechajte	ˈɲɛxajθɛ
+nechajú	ˈɲɛxajuː
 nechala	ˈŋɛxɑɫa
 nechali	ˈŋɛxɑɫi
 nechal	ˈŋɛxɑɫ
@@ -8373,6 +8629,8 @@ nechcú	ˈɲɛxtsuː
 nech	ˈɲɛx
 nechodil	ˈɲɛxɔɟil
 nechodíme	ˈɲɛxɔɟiːmɛ
+nechodím	ˈɲɛxɔɟiːm
+nechodí	ˈɲɛxɔɟiː
 nechodiť	ˈɲɛxɔɟiθ
 nechoď	ˈɲɛxhɔɟ
 nechoďte	ˈɲɛxhɔɟθɛ
@@ -8381,12 +8639,14 @@ nechtiac	ˈɲɛxθiats
 necht	ˈɲɛxt
 nechty	ˈɲɛxti
 nechutné	ˈɲɛxutnɛː
+nechutný	ˈɲɛxutniː
 nechýba	ˈɲɛxiːba
 nechýbať	ˈɲɛxiːbaθ
 nechystať	ˈɲɛxistaθ
 nečítať	ˈɲɛtʃiːtaθ
 necítil	ˈɲɛtsiːθil
 necítim	ˈɲɛtsiːθim
+necíti	ˈɲɛtsiːθi
 necítiť	ˈɲɛtsiːθiθ
 nečlenovi	ˈɲɛtʃɫɛnɔvi
 nečlenov	ˈɲɛtʃɫɛnɔv
@@ -8431,6 +8691,8 @@ nedokázať	ˈɲɛdɔkɑːzaθ
 nedokážem	ˈɲɛdɔkɑːʒɛm
 nedokáže	ˈɲɛdɔkɑːʒɛ
 nedokážeš	ˈɲɛdɔkɑːʒɛʃ
+nedokážete	ˈɲɛdɔkɑːʒɛθɛ
+nedokážu	ˈɲɛdɔkɑːʒu
 nedokončiť	ˈɲɛdɔkɔntʃiθ
 nedoplatok	ˈɲɛdɔplatɔk
 nedopustiť	ˈɲɛdɔpusθiθ
@@ -8494,6 +8756,7 @@ nehoda	ˈɲɛɦɔda
 nehode	ˈɲɛɦɔɟɛ
 nehodiť	ˈɲɛɦɔɟiθ
 nehodu	ˈɲɛɦɔdu
+nehody	ˈɲɛɦɔdi
 neho	ˈɲɛɦɔ
 nehovoriac	ˈɲɛhɔvɔriats
 nehovorila	ˈɲɛhɔvɔrilɑ
@@ -8503,7 +8766,10 @@ nehovorí	ˈɲɛhɔvɔriː
 nehovoriť	ˈɲɛɦɔvɔriθ
 nehovor	ˈɲɛɦɔvɔr
 nehovorte	ˈɲɛhɔvɔrθɛ
+nehraj	ˈɲɛɦraj
 nehrala	ˈɲɛɦrala
+nehral	ˈɲɛɦral
+nehrám	ˈɲɛɦraːm
 nehrať	ˈɲɛɦraθ
 nehroziť	ˈɲɛɦrɔziθ
 nehybne	ˈɲɛɦibɲɛ
@@ -8519,6 +8785,7 @@ nejaká	ˈɲɛjɑkɑː
 nejakého	ˈɲɛɪɑkɛhɔ
 nejakej	ˈɲɛjɑkɛj
 nejaké	ˈɲɛɪɑkɛː
+nejake	ˈɲɛjɑkɛ
 nejaké	ɲɛjɑkɛː
 nejakí	ˈɲɛjɑkiː
 nejak	ˈɲɛjak
@@ -8537,6 +8804,7 @@ nejdeš	ˈɲɛiɟɛʃ
 nejeden	ˈɲɛjɛdɛn
 nejesť	ˈɲɛjɛsθ
 nejestvovať	ˈɲɛjɛstvɔvaθ
+nejlepsi	ˈnɛjlɛpsi
 nej	nɛi
 nejsť	ˈɲɛjsθ
 neklamať	ˈɲɛkɫamaθ
@@ -8551,24 +8819,30 @@ nekradneš	ˈɲɛkradɲɛʃ
 nekýv	ˈɲɛkiːv
 neľahký	ˈɲɛʎaɦkiː
 nelegálny	ˈɲɛlɛɡaːɫni
+nelodne	ˈɲɛlodɲɛ
 nelson	ˈɲɛlsɔn
 neľudí	ˈɲɛʎuɟiː
 neľutovať	ˈɲɛʎutɔvaθ
+neľutujem	ˈɲɛɫutujɛm
 nemaj	ˈɲɛmɑj
 nemajú	ˈɲɛmɑjuː
 nemala	ˈŋɛmalɑ
 nemali	ˈŋɛmali
 nemal	ˈɲɛmal
 nemalo	ˈɲɛmalɔ
+nemáme	ˈɲɛmaːmɛ
 nemáme	ˈɲɛmɑːmɛ
 nemam	ˈɲɛmam
 nemám	ˈɲɛmɑːm
+nemá	ˈɲɛmaː
 nemá	ˈɲɛmɑː
 nemáš	ˈɲɛmɑːʃ
+nemáte	ˈɲɛmaːθɛ
 nemáte	ˈɲɛmɑːθɛ
 nemať	ˈɲɛmaθ
 nemčina	ˈɲɛmtʃina
 nemci	ˈɲɛmtsi
+nemecka	ˈɲɛmɛtska
 nemecko	ˈɲɛmɛtskɔ
 nemecky	ˈɲɛmɛtski
 nemecký	ˈɲɛmɛtskiː
@@ -8589,6 +8863,7 @@ nemohla	ˈɲɛmɔɦlɑ
 nemohli	ˈɲɛmɔɦli
 nemohlo	ˈɲɛmɔɦlɔ
 nemohol	ˈɲɛmɔɦɔɫ
+nemo	ˈɲɛmɔ
 nemôžeme	ˈɲɛmuɔʒɛmɛ
 nemozem	ˈnɛmɔzɛm
 nemôžem	ˈɲɛmuɔʒɛm
@@ -8646,6 +8921,7 @@ nenechal	ˈŋɛŋɛxɑɫ
 nenechám	ˈɲɛɲɛxɑːm
 nenecháš	ˈɲɛnɛxɑːʃ
 nenechať	ˈɲɛɲɛxaθ
+nenechávaj	ˈɲɛɲɛxɑːvaj
 neni	ˈɲɛɲi
 nenudíš	ˈɲɛnuɟiːʃ
 ne	ɲɛ
@@ -8711,6 +8987,7 @@ nepočuli	ˈɲɛpɔtʃuli
 nepočul	ˈɲɛpɔtʃul
 nepočuteľnej	ˈɲɛpɔtʃuθɛʎnɛj
 nepočuť	ˈɲɛpɔtʃuθ
+nepočúval	ˈɲɛpɔtʃuːvɑl
 nepočúvaš	ˈɲɛpɔtʃuːvɑʃ
 nepočúvať	ˈɲɛpɔtʃuːvaθ
 nepodaril	ˈɲɛpɔdaril
@@ -8723,6 +9000,7 @@ nepodpísať	ˈɲɛpɔdpiːsaθ
 nepodporiť	ˈɲɛpɔdpɔriθ
 nepohnúť	ˈɲɛpɔɦnuːθ
 nepohrdneš	ˈɲɛpɔhrdɲɛʃ
+nepôjdeme	ˈɲɛpuɔjɟɛmɛ
 nepôjdem	ˈɲɛpuɔjɟɛm
 nepôjde	ˈɲɛpuɔjɟɛ
 nepôjdeš	ˈɲɛpuɔjɟɛʃ
@@ -8732,6 +9010,7 @@ nepokladať	ˈɲɛpɔkɫadaθ
 nepokojný	ˈɲɛpɔkɔjniː
 nepokoj	ˈɲɛpɔkɔj
 nepokradneš	ˈɲɛpɔkradɲɛʃ
+nepomáha	ˈɲɛpomaːha
 nepomáhať	ˈɲɛpɔmaːɦaθ
 nepomôcť	ˈɲɛpɔmuɔtsθ
 nepomôže	ˈɲɛpɔmuɔʒɛ
@@ -8895,6 +9174,7 @@ nesklamať	ˈɲɛskɫamaθ
 neškodným	ˈɲɛʃkɔdniːm
 neškodný	ˈɲɛʃkɔdniː
 neskončil	ˈɲɛskɔntʃil
+neskončí	ˈɲɛskɔntʃiː
 neskončiť	ˈɲɛskɔntʃiθ
 neskor	ˈnɛskɔr
 neskôr	ˈɲɛskuɔr
@@ -8917,6 +9197,7 @@ nesmiete	ˈɲɛsmɪɛθɛ
 nesmieť	ˈɲɛsmiɛθ
 nesmrteľný	ˈɲɛsmrθɛʎniː
 nesnažiť	ˈɲɛsnaʒiθ
+nesnaž	ˈɲɛsnaʒ
 nespať	ˈɲɛspaθ
 nespĺňať	ˈɲɛsplːɲaθ
 nesplniť	ˈɲɛsplɲiθ
@@ -8931,7 +9212,9 @@ nesporne	ˈɲɛspɔrɲɛ
 nesporný	ˈɲɛspɔrniː
 nespozna	ˈɲɛspɔzna
 nespravil	ˈɲɛspravil
+nespravím	ˈɲɛspraviːm
 nespravme	ˈɲɛspravmɛ
+nesprávneho	ˈɲɛspraːvnɛhɔ
 nesprávne	ˈɲɛspraːvɲɛ
 nesprávny	ˈɲɛspraːvni
 nespravodlivosť	ˈɲɛspravɔdlivɔsθ
@@ -8962,6 +9245,7 @@ nestretnúť	ˈɲɛstrɛtnuːθ
 nestretol	ˈɲɛstrɛtɔl
 nestrieľajte	ˈɲɛstriɛlajθɛ
 neštudovala	ˈɲɛʃtudɔvɑlɑ
+nesúhlasím	ˈɲɛsuːɦlasiːm
 nesúhlasiť	ˈɲɛsuːɦlasiθ
 nesúhlas	ˈɲɛsuːɦlas
 nesú	ˈɲɛsuː
@@ -9042,6 +9326,7 @@ nevadilo	ˈɲɛvaɟilɔ
 nevadí	ˈɲɛvaɟiː
 nevadiť	ˈɲɛvaɟiθ
 neváhať	ˈɲɛvaːɦaθ
+nevážim	ˈɲɛvaːʒim
 nevdojak	ˈɲɛvdɔjak
 nevedela	ˈɲɛvɛɟɛlɑ
 nevedeli	ˈɲɛvɛɟɛɫi
@@ -9066,6 +9351,7 @@ neveriť	ˈɲɛvɛriθ
 never	ˈɲɛvɛr
 neveru	ˈɲɛvɛru
 nevesta	ˈɲɛvɛsta
+nevestu	ˈɲɛvɛstu
 nevhodným	ˈɲɛvhɔdniːm
 nevhodný	ˈɲɛvhɔdniː
 nevídaná	ˈɲɛviːdanaː
@@ -9087,6 +9373,7 @@ nevie	ˈɲɛviæ
 nevieš	ˈɲɛviɛʃ
 neviesť	ˈɲɛviɛsθ
 neviete	ˈɲɛviɛθɛ
+nevinné	ˈɲɛvinnɛː
 nevinný	ˈɲɛviniː
 nevinný	ˈɲɛvinniː
 nevládať	ˈɲɛvlaːdaθ
@@ -9104,6 +9391,7 @@ nevravieť	ˈɲɛvraviɛθ
 nevrav	ˈɲɛvrav
 nevšedný	ˈɲɛvʃɛdniː
 nevšímať	ˈɲɛvʃiːmaθ
+nevšimla	ˈɲɛvʃimla
 nevšimnúť	ˈɲɛvʃimnuːθ
 nevšimol	ˈɲɛvʃimɔl
 nevychádzať	ˈɲɛvixaːdzaθ
@@ -9124,6 +9412,7 @@ nevyhovovať	ˈɲɛviɦɔvɔvaθ
 nevyhovujúci	ˈɲɛvihɔvujuːtsi
 nevyhrať	ˈɲɛvihraθ
 nevyjadriť	ˈɲɛvijadriθ
+nevyjde	ˈɲɛvijɟɛ
 nevyjsť	ˈɲɛvijsθ
 nevylúčiť	ˈɲɛviluːtʃiθ
 nevylučovať	ˈɲɛvilutʃɔvaθ
@@ -9149,6 +9438,7 @@ nevyzeráš	ˈɲɛvizɛrɑːʃ
 nevyzerať	ˈɲɛvizɛraθ
 nevyznas	ˈɲɛviznas
 nevyzuješ	ˈɲɛvizujɛʃ
+nevzdám	ˈɲɛvzdaːm
 nevzdať	ˈɲɛvzdaθ
 nevzdávať	ˈɲɛvzdaːvaθ
 nevziať	ˈɲɛvziaθ
@@ -9159,6 +9449,7 @@ newton	ˈɲuːtɔn
 nezabil	ˈɲɛzɑbiɫ
 nezablatí	ˈɲɛzablaθiː
 nezabúdať	ˈɲɛzabuːdaθ
+nezabudli	ˈɲɛzabudli
 nezabudnem	ˈɲɛzabudɲɛm
 nezabudni	ˈɲɛzabudɲi
 nezabudnite	ˈɲɛzabudɲiθɛ
@@ -9179,16 +9470,19 @@ nezanedbateľný	ˈɲɛzaɲɛdbaθɛʎniː
 nezaoberať	ˈɲɛzaɔbɛraθ
 nezaobísť	ˈɲɛzɑɔbiːsθ
 nezaplatiť	ˈɲɛzapɫaθiθ
+nežartujem	ˈɲɛʒartujɛm
 nezaslúžiť	ˈɲɛzɑsluːʒiθ
 nezastaví	ˈɲɛzɑstaviː
 nezastaviť	ˈɲɛzɑstaviθ
 nezáujem	ˈɲɛzaːujɛm
+nezaujímajú	ˈɲɛzaujiːmajuː
 nezaujíma	ˈɲɛzaujiːma
 nezaujímať	ˈɲɛzaujiːmaθ
 nezávisle	ˈɲɛzɑːvislɛ
 nezávislosť	ˈɲɛzɑːvislɔsθ
 nezávislý	ˈɲɛzaːvisliː
 nezavolal	ˈɲɛzɑvɔlɑɫ
+nezavrie	ˈɲɛzavriɛ
 nezažiť	ˈɲɛzɑʒiθ
 nezaznamenať	ˈɲɛzaznamɛnaθ
 nezbadať	ˈɲɛzbadaθ
@@ -9205,6 +9499,7 @@ neželať	ˈɲɛʒɛlaθ
 nezhoda	ˈɲɛzɦɔda
 nežiadať	ˈɲɛʒiadaθ
 nežiaduci	ˈɲɛʒiadutsi
+nežije	ˈɲɛʒijɛ
 nezískať	ˈɲɛziːskaθ
 neziskový	ˈɲɛziskɔviː
 nezistiť	ˈɲɛzisθiθ
@@ -9219,6 +9514,7 @@ nezme	ˈɲɛzmɛ
 nezmyselný	ˈɲɛzmisɛɫniː
 nezmysel	ˈɲɛzmisɛɫ
 nezmysloch	ˈɲɛzmislɔx
+nezmysly	ˈɲɛzmisli
 neznamená	ˈɲɛznɑmɛnaː
 neznamenať	ˈɲɛznamɛnaθ
 neznámy	ˈɲɛznɑːmi
@@ -9230,12 +9526,15 @@ neznášať	ˈɲɛznaːʃaθ
 nežne	ˈɲɛʒɲɛ
 neznesiteľný	ˈɲɛzɲɛsiθɛʎniː
 nez	ˈnɛz
+neznie	ˈɲɛzɲiɛ
 nežný	ˈɲɛʒniː
 než	ˈɲɛʒ
 nezobereš	ˈɲɛzɔbɛrɛʃ
 nezoberte	ˈɲɛzɔbɛrθɛ
 nezodpovednosť	ˈɲɛzɔdpɔvɛdnɔsθ
 nezodpovedný	ˈɲɛzɔdpɔvɛdniː
+nezostalo	ˈɲɛzɔstɑlɔ
+nezostane	ˈɲɛzɔstɑɲɛ
 nezostať	ˈɲɛzɔstɑθ
 nezostávať	ˈɲɛzɔstɑːvaθ
 nezožral	ˈɲɛzɔʒral
@@ -9267,6 +9566,7 @@ nic	ˈɲits
 nič	ˈɲitʃ
 ničoho	ˈɲitʃɔɦɔ
 nicole	ˈɲitsɔlɛ
+ničom	ˈɲitʃom
 ničom	ˈɲitʃɔm
 ničomu	ˈɲitʃɔmu
 niečím	ˈɲiɛtʃiːm
@@ -9311,6 +9611,7 @@ nikam	ˈɲikam
 nikde	ˈɲikɟɛ
 nikdy	ˈɲikti
 nik	ˈɲik
+nikoho	ˈnikɔɦɔ
 nikoho	ˈɲikɔɦɔ
 nikomu	ˈɲikɔmu
 niko	ˈnikɔ
@@ -9327,6 +9628,7 @@ nitrianskí	ˈɲitrianskiː
 nitriansky	ˈɲitrianski
 nitrianský	ˈɲitrianskiː
 nížina	ˈɲiːʒina
+nížiny	ˈɲiːʒinɪ
 nízko	ˈɲiːzkɔ
 nízku	ˈɲiːzku
 nízky	ˈɲiːski
@@ -9336,6 +9638,7 @@ nižší	ˈɲiʃʃiː
 nkú	A
 n	n
 ň	ɲ
+noah	ˈnɔaɦ
 noci	ˈnoʊtsi
 nočná	ˈnɔtʃnɑː
 nočnej	ˈnɔtʃnɛj
@@ -9373,12 +9676,14 @@ normalizácia	ˈnɔrmalizaːtsia
 normálna	ˈnɔrmaːlna
 normálne	ˈnɔrmaːlɲɛ
 normálny	ˈnɔrmaːlni
+norman	ˈnɔrman
 norma	ˈnɔrma
 nór	ˈnɔːr
 nórsko	ˈnɔːrskɔ
 nórsky	ˈnɔːrski
 nosa	ˈnɔsa
 nosič	ˈnɔsitʃ
+nosím	ˈnɔsiːm
 nosí	ˈnɔsiː
 nositelia	ˈnɔsiθɛlia
 nositeľ	ˈnɔsiθɛʎ
@@ -9404,6 +9709,7 @@ novembrový	ˈnɔvɛmbrɔviː
 nové	ˈnɔvɛː
 novinách	ˈnɔvinaːx
 novina	ˈnɔvina
+novinári	ˈnɔvinaːri
 novinárka	ˈnɔvinaːrka
 novinár	ˈnɔvinaːr
 novinárske	ˈnɔvinaːrskɛ
@@ -9428,6 +9734,7 @@ novou	ˈnɔvou
 novší	ˈnɔvʃiː
 novú	ˈnɔvuː
 nových	ˈnɔviːx
+novými	ˈnɔviːmi
 novým	ˈnɔviːm
 nový	ˈnɔviː
 now	ˈnɔv
@@ -9470,6 +9777,7 @@ obávam	ˈɔbaːvam
 obava	ˈɔbava
 obávať	ˈɔbaːvaθ
 obavy	ˈɔbavi
+občania	ˈɔbtʃaɲia
 občan	ˈɔbtʃan
 občasný	ˈɔbtʃasniː
 občas	ˈɔbtʃɑs
@@ -9506,6 +9814,7 @@ obe	ˈɔbɛ
 obeta	ˈɔbɛta
 obete	ˈɔbɛθɛ
 obetí	ˈɔbɛθiː
+obeťou	ˈɔbɛθɔu
 obetovať	ˈɔbɛtɔvaθ
 obeť	ˈɔbɛθ
 obetujme	ˈɔbɛtujmɛ
@@ -9559,12 +9868,14 @@ oblak	ˈɔblɑk
 oblasti	ˈɔblɑsθi
 oblastný	ˈɔblɑstniː
 oblasť	ˈɔblɑsθ
+oblečená	ˈɔblɛtʃɛnaː
 oblečenie	ɔblɛtʃɛɲiɛ
 oblečený	ˈɔblɛtʃɛniː
 obleč	ˈɔblɛtʃ
 oblekom	ˈɔblɛkɔm
 oblek	ˈɔblɛk
 oblek	ˈɔbɫɛk
+obleku	ˈɔblɛku
 obletela	ˈɔblɛθɛla
 oblička	ˈɔblitʃka
 obliecť	ˈɔbliɛtsθ
@@ -9638,6 +9949,7 @@ obrazovka	ˈɔbrazɔvka
 obrazový	ˈɔbrazɔviː
 obraz	ˈɔbras
 obraz	ˈɔbraz
+obrazu	ˈɔbrazu
 obrazy	ˈɔbrazi
 obrích	ˈɔbriːx
 obroda	ˈɔbrɔda
@@ -9719,7 +10031,9 @@ ochorení	ˈɔxɔrɛɲiː
 ochoreniu	ˈɔxɔrɛɲiu
 ochorieť	ˈɔxɔriɛθ
 ochota	ˈɔxɔta
+ochotná	ˈɔxɔtnaː
 ochotne	ˈɔxɔtɲɛ
+ochotní	ˈɔxɔtniː
 ochotný	ˈɔxɔtniː
 och	ˈɔxh
 ochrana	ˈɔxrana
@@ -9728,8 +10042,10 @@ ochrane	ˈɔʊxraɲɛ
 ochrániť	ˈɔxraːɲiθ
 ochranka	ˈɔxranka
 ochranný	ˈɔxranniː
+ochranou	ˈɔxranɔu
 ochraňovať	ˈɔxraɲɔvaθ
 ochranu	ˈɔxranu
+ochrany	ˈɔxrani
 ochutnať	ˈɔxutnaθ
 očiach	ˈɔtʃiax
 ocino	ˈɔtsinɔ
@@ -9813,6 +10129,7 @@ odídeme	ˈɔdiːɟɛmɛ
 odídem	ˈɔdiːɟɛm
 odíde	ˈɔdiːɟɛ
 odídeš	ˈɔdiːɟɛʃ
+odídete	ˈɔdiːɟɛθɛ
 odíď	ˈɔdiːɟ
 odíďte	ˈɔdiːɟθɛ
 odišiel	ˈɔdiʃɪɛɫ
@@ -9850,8 +10167,10 @@ odmeňovanie	ˈɔdmɛɲɔvaɲiɛ
 odmenu	ˈɔdmɛnu
 odmiesť	ˈɔdmiɛsθ
 odmietanie	ˈɔdmiɛtaɲiɛ
+odmieta	ˈɔdmiɛta
 odmietať	ˈɔdmiɛtaθ
 odmietavý	ˈɔdmiɛtaviː
+odmietla	ˈɔdmiɛtɫa
 odmietnu	ˈɔdmiɛtnuː
 odmietnutie	ˈɔdmiɛtnuθiɛ
 odmietnuť	ˈɔdmiɛtnuθ
@@ -9906,6 +10225,7 @@ odporný	ˈɔdpɔrniː
 odporovať	ˈɔdpɔrɔvaθ
 odpor	ˈɔdpɔr
 odporúčací	ˈɔdpɔruːtʃatsiː
+odporúčam	ˈɔdporuːtʃam
 odporúčanie	ˈɔdpɔruːtʃaɲiɛ
 odporúčanú	ˈɔdpɔruːtʃanuː
 odporúčaný	ˈɔdpɔruːtʃaniː
@@ -9925,6 +10245,7 @@ odpovedzte	ˈɔdpɔvɛtsθɛ
 odpovieme	ˈɔdpɔviɛmɛ
 odpredaj	ˈɔdprɛdaj
 odprevadiť	ˈɔdprɛvaɟiθ
+odpúšťam	ˈɔdpuːʃθam
 odpúšťať	ˈɔdpuːʃθaθ
 odpustenie	ˈɔdpusθɛɲiɛ
 odpustiť	ˈɔdpusθiθ
@@ -9957,7 +10278,9 @@ odstúpiť	ˈɔdstuːpiθ
 odstupné	ˈɔdstupnɛː
 odstupom	ˈɔdstupɔm
 odstupov	ˈɔdstupɔv
+odstúp	ˈɔdstuːp
 odstup	ˈɔdstup
+odstúpte	ˈɔdstuːpθɛ
 odsúdenie	ˈɔdsuːɟɛɲiɛ
 odsúdený	ˈɔdsuːɟɛniː
 odsúdiť	ˈɔdsuɟiθ
@@ -9977,6 +10300,7 @@ odvádzate	ˈɔdvɑːdzaθɛ
 odvádzať	ˈɔdvɑːdzaθ
 odvaha	ˈɔdvaɦa
 odvahu	ˈɔdvahu
+odvahy	ˈɔdvaɦi
 odvážiť	ˈɔdvɑːʒiθ
 odvážny	ˈɔdvɑːʒni
 odveďte	ˈɔdvɛɟθɛ
@@ -10024,6 +10348,7 @@ ohlasov	ˈɔɦɫasɔv
 ohlas	ˈɔhɫas
 ohlasy	ˈɔɦlɑsi
 ohňa	ˈɔɦɲa
+ohni	ˈɔɦɲi
 ohnisko	ˈɔɦɲiskɔ
 ohnivý	ˈɔɦɲiviː
 ohňostroj	ˈɔɦɲɔstrɔj
@@ -10044,8 +10369,10 @@ ohroziť	ˈɔɦrɔziθ
 ohrozovať	ˈɔɦrɔzɔvaθ
 ohyzda	ˈɔɦizda
 ojedinelý	ˈɔjɛɟɪɲɛliː
+okamih	ˈɔkamiːɦ
 okamih	ˈɔkamih
 okamihy	ˈɔkamiɦi
+okamžite	ˈɔkamʒiθɛ
 okamžite	ˈɔʊkamʒiθɛ
 okamžitý	ˈɔkamʒitiː
 oka	ˈɔka
@@ -10060,6 +10387,7 @@ okne	ˈɔkɲɛ
 oknom	ˈɔknɔm
 okno	ˈɔknɔ
 okolia	ˈɔkɔlia
+okolie	ˈɔkolɪɛ
 okolie	ˈɔkɔliɛ
 okolí	ˈɔkɔliː
 okolitý	ɔkɔlitiː
@@ -10078,6 +10406,7 @@ okres	ˈɔkrɛs
 okrúhlych	ˈɔkruːhlix
 okrúhly	ˈɔkruːhli
 okruh	ˈɔkruh
+okruhu	ˈɔkruhu
 október	ˈɔktɔːbɛr
 októbri	ˈɔktɔːbri
 októbrový	ˈɔktɔːbrɔviː
@@ -10085,6 +10414,7 @@ okuliare	ˈɔkuʎiarɛ
 okupácia	ˈɔkupaːtsia
 olej	ɔlɛj
 olive	ˈɔlivɛ
+oliver	ˈɔlivɛr
 olivový	ˈɔlivɔviː
 olivy	ˈɔlivi
 olomouc	ˈɔɫɔmɔuts
@@ -10156,6 +10486,7 @@ opatrne	ˈɔpatrɲɛ
 opatrní	ˈɔpatrniː
 opatrnosť	ˈɔpatrnɔsθ
 opatrný	ˈɔpatrniː
+opatruj	ˈɔpatruj
 opec	F
 opel	ˈɔpɛɫ
 operácia	ˈɔpɛraːtsia
@@ -10199,6 +10530,7 @@ opozícia	ˈɔpɔziːtsia
 opozičný	ɔpɔzitʃniː
 op	ˈɔp
 oprava	ˈɔprava
+opravil	ˈɔpravil
 opraviť	ˈɔpraviθ
 oprávnene	ˈɔpraːvɲɛɲɛ
 oprávnenie	ˈɔpraːvɲɛɲiɛ
@@ -10244,6 +10576,7 @@ organizovaný	ˈɔrɡanizɔvaniː
 organizovať	ˈɔrɡanizɔvaθ
 orgán	ɔrɡaːn
 organ	ɔrɡan
+orgány	ˈɔrɡaːni
 orgazmu	ˈɔrɡazmu
 orgazmus	ˈɔrɡazmus
 orientácia	ˈɔriɛntaːtsia
@@ -10266,6 +10599,7 @@ ortodoxný	ˈɔrtɔdɔkssniː
 osada	ɔsada
 osady	ˈɔsadi
 osahavas	ˈɔsahavas
+osamelá	ˈɔsamɛlɑː
 osamelý	ˈɔsamɛliː
 osamotený	ˈɔsamɔθɛniː
 osamote	ˈɔsɑmɔθɛ
@@ -10285,6 +10619,7 @@ ošetrovateľstvo	ˈɔʃɛtrɔvaθɛʎstvɔ
 osídlených	ˈɔsiːdlɛniːx
 ošípaná	ˈɔʃiːpanaː
 oskaroch	ˈɔskarɔx
+ošklivý	ˈoʃkliʋiː
 oslabenie	ˈɔslabɛɲiɛ
 oslabený	ˈɔsɫabɛniː
 oslabiť	ˈɔsɫabiθ
@@ -10338,6 +10673,7 @@ osodu	ˈɔsɔdu
 osol	ˈɔsɔɫ
 os	ɔs
 ospravedlnenie	ˈɔspravɛdɫɲɛɲjɛ
+ospravedlnil	ˈɔspravɛdɫɲil
 ospravedlniť	ˈɔspravɛdlɲiθ
 ospravedlniť	ˈɔspravɛdɫɲiθ
 ospravedlňovať	ˈɔspravɛdɫɲɔvaθ
@@ -10378,6 +10714,7 @@ ostrý	ˈɔstriː
 osudným	ˈɔsudniːm
 osudnym	ˈɔsudnim
 osudný	ˈɔsudniː
+osudom	ˈɔsudɔm
 osudového	ˈɔsudɔvɛːhɔ
 osudový	ˈɔsudɔviː
 osud	ˈɔsud
@@ -10442,6 +10779,7 @@ otvorim	ˈɔtvɔrim
 otvorí	ˈɔtvɔriː
 otvoriť	ˈɔtvɔriθ
 otvor	ˈoʊtvor
+otvor	ˈɔtvɔr
 otvorte	ˈɔtvɔrθɛ
 ô	uɔ
 ou	ˈɔu
@@ -10458,6 +10796,7 @@ over	ˈɔvɛr
 ovládač	ˈɔvɫaːdatʃ
 ovládanie	ˈɔvlɑːdaɲiɛ
 ovládaný	ˈɔvɫaːdaniː
+ovláda	ˈɔvlaːda
 ovláda	ˈɔvɫaːda
 ovládaš	ˈɔvɫɑːdaʃ
 ovládať	ˈɔvlaːdaθ
@@ -10514,6 +10853,7 @@ ozvať	ˈɔzvaθ
 ozvem	ˈɔzvɛm
 ozvena	ˈɔzvɛna
 ozývať	ɔziːvaθ
+pablo	ˈpablɔ
 pácem	ˈpɑːtsɛm
 páchateľ	ˈpaːxaθɛʎ
 páchať	ˈpaːxaθ
@@ -10548,6 +10888,7 @@ pakistanský	ˈpakistanskiː
 pako	ˈpakɔ
 pakt	ˈpakt
 páky	ˈpaːki
+paláca	ˈpaɫaːtsa
 palác	ˈpaɫaːts
 paľba	ˈpaʎba
 palec	ˈpalɛts
@@ -10559,6 +10900,7 @@ palestínsky	ˈpalɛstiːnski
 paleta	ˈpalɛta
 palica	ˈpalitsa
 palička	ˈpalitʃka
+páli	ˈpaːli
 páliť	ˈpaːliθ
 palivom	ˈpalivɔm
 palivo	ˈpalivɔ
@@ -10600,6 +10942,8 @@ pane	ˈpaɲɛ
 pane	ˈpɑɲɛ
 panic	ˈpaɲits
 panika	ˈpanika
+paniku	ˈpaniku
+pani	ˈpani
 pani	ˈpaɲi
 páni	ˈpɑːɲi
 pani	ˈpɑɲi
@@ -10735,6 +11079,8 @@ patriaci	ˈpatriatsi
 patria	ˈpɑtria
 patrick	ˈpatritsk
 patričný	ˈpatritʃniː
+patrila	ˈpatrila
+patrím	ˈpatriːm
 patrí	ˈpatriː
 patríš	ˈpatriːʃ
 patriť	ˈpatriθ
@@ -10821,6 +11167,7 @@ periť	ˈpɛriθ
 perla	ˈpɛrɫa
 permanentný	ˈpɛrmanɛntniː
 pero	ˈpɛrɔ
+perry	ˈpɛri
 personálny	ˈpɛrsɔnaːɫni
 personál	ˈpɛrsɔnaːɫ
 perspektíva	ˈpɛrspɛktiːva
@@ -10902,6 +11249,7 @@ pi	ˈpi
 pipka	ˈpipka
 pirát	ˈpirɑːt
 písací	ˈpiːsatsiː
+písali	ˈpiːsali
 písal	ˈpiːsal
 písanie	ˈpiːsaɲiɛ
 písaný	ˈpiːsaniː
@@ -10948,12 +11296,14 @@ planéte	ˈpɫanɛːθɛ
 planétu	ˈpɫanɛːtu
 planéty	ˈpɫanɛːti
 planina	ˈpɫaɲina
+plánoval	ˈpɫaːnɔval
 plánovanie	ˈplaːnɔvaɲiɛ
 plánovaným	ˈpɫaːnɔvaniːm
 plánovaný	ˈplaːnɔvaniː
 plánovať	ˈpɫaːnɔvaθ
 plánov	ˈpɫaːnɔv
 plán	ˈpɫɑːn
+plánujem	ˈpɫaːnujɛm
 plánujú	ˈpɫɑːnujuː
 plánu	ˈpɫɑːnu
 plány	ˈpɫaːni
@@ -11020,6 +11370,7 @@ plnohodnotný	ˈpɫnɔɦɔdnɔtniː
 plno	ˈpɫnɔ
 plnú	plnuː
 plným	plniːm
+plný	ˈplniː
 plný	plniː
 plocha	ˈpɫɔxa
 plochý	ˈpɫɔxiː
@@ -11034,6 +11385,7 @@ plosny	ˈpɫɔsni
 plošný	ˈpɫɔʃniː
 plot	ˈpɫɔt
 pľúca	ˈpʎuːtsa
+plukovníka	ˈpɫukɔvɲiːka
 plukovník	ˈpɫukɔvɲiːk
 pluk	ˈpɫuk
 plus	ˈpɫus
@@ -11042,7 +11394,9 @@ plynárenský	ˈplinaːrɛnskiː
 plynovod	ˈplinɔvɔd
 plynový	ˈplinɔviː
 plyn	plin
+plyn	ˈplɪn
 plyn	ˈpɫin
+plynule	ˈplinulɛ
 plynulý	ˈplinuliː
 plynúť	ˈpɫinuːθ
 plytký	ˈplitkiː
@@ -11085,6 +11439,7 @@ pochopenie	ˈpɔxɔpɛɲiɛ
 pochopila	ˈpɔxɔpila
 pochopili	ˈpɔxɔpili
 pochopil	ˈpɔxɔpil
+pochopí	ˈpɔxɔpiː
 pochopíš	ˈpɔxɔpiːʃ
 pochopiteľne	ˈpɔxɔpiθɛʎɲɛ
 pochopiteľný	ˈpɔxɔpiθɛʎniː
@@ -11112,6 +11467,7 @@ počin	ˈpɔtʃin
 počítača	ˈpɔtʃiːtatʃa
 počítačový	ˈpɔtʃiːtɑtʃɔviː
 počítač	ˈpɔtʃiːtatʃ
+počíta	ˈpɔtʃiːta
 počítať	ˈpɔtʃiːtaθ
 pocítiť	ˈpɔtsiːtiθ
 pocitmi	ˈpɔtsitmi
@@ -11125,6 +11481,7 @@ počkajte	ˈpɔtʃkɑiθɛ
 počkáme	ˈpɔtʃkɑːmɛ
 počkám	ˈpɔtʃkɑːm
 pockáš	ˈpɔtskɑːʃ
+počkáš	ˈpɔtʃkɑːʃ
 počkať	ˈpɔtʃkaθ
 pockets	ˈpɔtskɛts
 pocta	ˈpɔtsta
@@ -11142,10 +11499,12 @@ počujte	ˈpɔtʃujθɛ
 pocula	ˈpɔtsula
 počula	ˈpɔtʃulɑ
 počule	ˈpɔtʃulɛ
+počuli	ˈpotʃuli
 počuli	ˈpɔtʃuli
 počul	ˈpɔtʃul
 poču	ˈpɔtʃu
 počuť	ˈpɔtʃuθ
+pocuvaj	ˈpɔtsuvaj
 počúvaj	ˈpɔtʃuːvɑi
 počúvajte	ˈpɔtʃuːvɑiθɛ
 počúvajú	ˈpɔtʃuːvajuː
@@ -11206,6 +11565,7 @@ poďme	ˈpɔɟmɛ
 pôďme	ˈpuɔɟmɛ
 podmienený	ˈpɔdmiɛɲɛniː
 podmienka	ˈpɔdmiɛŋka
+podmienku	ˈpɔdmiɛnku
 podmienky	ˈpɔdmiɛŋki
 podmieňovať	ˈpɔdmiɛɲɔvaθ
 podnebie	ˈpɔdɲɛbiɛ
@@ -11234,6 +11594,7 @@ podotknúť	ˈpɔdɔtknuːθ
 podozrenie	ˈpɔdɔzrɛɲiɛ
 podozrievať	ˈpɔdɔzriɛvaθ
 podozrivého	ˈpɔdɔzrivɛːhɔ
+podozrivých	ˈpɔdɔzriviːx
 podozrivý	ˈpɔdɔzriviː
 podpatky	ˈpɔdpatki
 podpísal	ˈpɔdpiːsɑl
@@ -11241,7 +11602,9 @@ podpísanie	ˈpɔdpiːsaɲiɛ
 podpísaný	ˈpɔdpiːsɑniː
 podpísať	ˈpɔdpiːsaθ
 podpisovať	ˈpɔdpisɔvaθ
+podpíš	ˈpɔdpiːʃ
 podpis	ˈpɔdpis
+podpisy	ˈpɔdpisɪ
 podpora	ˈpɔdpɔra
 podporiť	ˈpɔdpɔriθ
 podporný	ˈpɔdpɔrniː
@@ -11266,6 +11629,7 @@ podrobný	ˈpɔdrɔbniː
 podržať	ˈpɔdrʒaθ
 podrž	ˈpɔdrʒ
 podstata	ˈpɔdstata
+podstate	ˈpɔdstaθɛ
 podstate	ˈpɔdstɑθɛ
 podstatné	ˈpɔdstɑtnɛː
 podstatne	ˈpɔdstɑtɲɛ
@@ -11308,6 +11672,7 @@ pohlavný	ˈpɔɦlavniː
 pohltiť	ˈpɔɦlθiθ
 pohni	ˈpɔɦɲi
 pohnite	ˈpɔɦɲiθɛ
+pohnú	ˈpoɦnuː
 pohnutí	ˈpɔɦnutiː
 pohnútka	ˈpɔɦnuːtka
 pohnúť	ˈpɔɦnuːθ
@@ -11315,6 +11680,7 @@ pohoda	ˈpɔɦɔda
 pohode	ˈpɔɦɔɟɛ
 pohodka	ˈpɔɦɔdka
 pohodlie	ˈpɔɦɔdliɛ
+pohodlné	ˈpɔɦɔdlnɛː
 pohodlne	ˈpɔɦɔdlɲɛ
 pohodlný	ˈpɔɦɔdlniː
 pohonný	ˈpɔɦɔnniː
@@ -11328,6 +11694,7 @@ pohotovosť	ˈpɔɦɔtɔvɔsθ
 pohovka	ˈpɔɦɔvka
 pohovoriť	ˈpɔɦɔvɔriθ
 pohovor	ˈpɔɦɔvɔr
+pohov	ˈpɔɦɔv
 pohraničný	ˈpɔɦraɲitʃniː
 pohrebe	ˈpɔɦrɛbɛ
 pohrebný	ˈpɔɦrɛbniː
@@ -11343,6 +11710,7 @@ pohybový	ˈpɔɦibɔviː
 pohyb	ˈpɔɦib
 pohybujúce	ˈpɔɦibujuːtsɛ
 pohybu	ˈpɔɦibu
+pohyby	ˈpohɪbɪ
 pohyby	ˈpɔɦibi
 pointa	ˈpɔinta
 poistenec	ˈpɔisθɛɲɛts
@@ -11350,6 +11718,8 @@ poistenie	ˈpɔisθɛɲiɛ
 poistený	ˈpɔisθɛniː
 poistiť	ˈpɔisθiθ
 poistka	ˈpɔistka
+poistku	ˈpɔistku
+poistky	ˈpɔistki
 poistné	ˈpɔistnɛː
 poistný	ˈpɔistniː
 poisťovací	ˈpɔisθɔvatsiː
@@ -11371,10 +11741,12 @@ pojem	ˈpɔjɛm
 pojom	ˈpɔjɔm
 pokánie	ˈpɔkɑːɲiɛ
 pokazenou	ˈpɔkazɛnɔu
+pokazilo	ˈpɔkazilɔ
 pokazil	ˈpɔkazil
 pokaziť	ˈpɔkaziθ
 pokecať	ˈpɔkɛtsaθ
 pokec	ˈpɔkɛts
+pokiaľ	ˈpɔkiaʎ
 pokiaľ	ˈpɔkiɑʎ
 pokladať	ˈpɔkladaθ
 pokladňa	ˈpɔkladɲa
@@ -11383,6 +11755,7 @@ pokladov	ˈpɔkladɔv
 poklad	ˈpɔklad
 poklesnúť	ˈpɔklɛsnuːθ
 pokles	ˈpɔklɛs
+pokoja	ˈpɔkɔja
 pokoji	ˈpɔkɔji
 pokojnejší	ˈpɔʊkɔjɲɛjʃiː
 pokojne	ˈpɔkɔjɲɛ
@@ -11428,6 +11801,7 @@ pokuse	ˈpɔkusɛ
 pokúsili	ˈpɔkuːsili
 pokúsil	ˈpɔkuːsil
 pokúsim	ˈpɔkuːsim
+pokúsi	ˈpɔkuːsi
 pokusí	ˈpɔkusiː
 pokúsiť	ˈpɔkuːsiθ
 pokus	ˈpɔkus
@@ -11449,6 +11823,9 @@ poletoval	ˈpɔlɛtɔval
 polhodina	ˈpɔlɦɔɟina
 poliak	ˈpɔliak
 polianka	ˈpɔlianka
+policajná	ˈpɔlitsajnaː
+policajnej	ˈpɔlitsajnɛj
+policajné	ˈpɔlitsajnɛː
 policajný	ˈpɔlitsajniː
 policajta	ˈpɔlitsajta
 policajti	ˈpɔlitsajti
@@ -11476,6 +11853,7 @@ politika	ˈpɔlitika
 politik	ˈpɔlitik
 politológ	ˈpɔlitɔlɔːɡ
 pollo	ˈpɔɫɫɔ
+polly	ˈpɔli
 polnoci	ˈpɔlnotsi
 polnoc	ˈpɔɫnɔts
 poľnohospodár	ˈpɔʎnɔɦɔspɔdaːr
@@ -11488,6 +11866,7 @@ poľom	ˈpɔʎɔm
 polostrov	ˈpɔlɔstrɔv
 poľovačka	ˈpɔʎɔvatʃka
 polovica	ˈpɔlɔvitsa
+polovica	ˈpɔlɔʋitsa
 polovica	ˈpɔɫɔvitsa
 polovici	ˈpɔlɔvitsi
 polovička	ˈpɔlɔvitʃka
@@ -11513,6 +11892,7 @@ polus	ˈpɔlus
 polymer	ˈpɔlimɛr
 polypovec	ˈpɔlipɔvɛts
 polz	ˈpɔɫz
+pomáham	ˈpɔmaːɦam
 pomáha	ˈpɔmɑːɦɑ
 pomáhať	ˈpɔmɑːɦɑθ
 pomala	ˈpɔmala
@@ -11560,6 +11940,7 @@ pomsta	ˈpɔmsta
 pomstiť	ˈpɔmsθiθ
 pomýliť	ˈpɔmiːliθ
 pomýšľať	ˈpɔmiːʃʎaθ
+pomyslelo	ˈpɔmislɛɫo
 pomyslel	ˈpɔmislɛɫ
 pomyslieť	ˈpɔmisliɛθ
 ponad	ˈpɔnad
@@ -11637,6 +12018,7 @@ porastom	ˈpɔrastɔm
 porast	ˈpɔrɑst
 porazený	ˈpɔrazɛniː
 porazený	ˈpɔrɑzɛniː
+porazili	ˈpɔrɑzili
 porazil	ˈpɔrɑzil
 poraziť	ˈpɔrɑziθ
 porážka	ˈpɔrɑːʒka
@@ -11648,6 +12030,7 @@ poriadny	ˈpɔriadni
 poriadok	ˈpɔriadɔk
 pornografia	ˈpɔrnɔɡrafia
 porno	ˈpɔrnɔ
+porodila	ˈpɔrɔɟilɑ
 porodiť	ˈpɔrɔɟiθ
 pôrodný	ˈpuɔrɔdniː
 pôrod	ˈpuɔrɔt
@@ -11657,6 +12040,7 @@ porovnaní	ˈpɔrɔvnaɲiː
 porovnáš	ˈpɔrɔvnaːʃ
 porovnas	ˈpɔrɔvnas
 porovnateľný	ˈpɔrɔvnaθɛʎniː
+porovnať	ˈporɔvnaθ
 porovnať	ˈpɔrɔvnaθ
 porovnávanie	ˈpɔrɔvnaːvaɲiɛ
 porovnávať	ˈpɔrɔvnaːvaθ
@@ -11700,6 +12084,7 @@ posedenie	ˈpɔsɛɟɛɲiɛ
 posero	ˈpɔsɛrɔ
 poser	ˈpɔsɛr
 posielajte	ˈpɔsjɛlɑjθɛ
+posielajú	ˈpɔsiɛɫɑjuː
 posielam	ˈpɔsiɛɫɑm
 posiela	ˈpɔsiɛɫɑ
 posielate	ˈpɔsjɛlaθɛ
@@ -11781,6 +12166,7 @@ posol	ˈpɔsɔɫ
 posolstvo	ˈpɔsɔɫstvɔ
 pos	ˈpoʊs
 posral	ˈpɔsraɫ
+posrané	ˈpɔsranɛː
 posratý	ˈpɔsratiː
 postačiť	ˈpɔstatʃiθ
 poštaným	ˈpɔʃtaniːm
@@ -11791,6 +12177,7 @@ postaral	ˈpɔstaral
 postaráme	ˈpɔstaraːmɛ
 postarám	ˈpɔstaraːm
 postará	ˈpɔstaraː
+postaráš	ˈpɔstaraːʃ
 postarať	ˈpɔstaraθ
 postava	ˈpɔstava
 postávať	ˈpɔstɑːvaθ
@@ -11800,6 +12187,7 @@ postavený	ˈpɔstavɛniː
 postavička	ˈpɔstavitʃka
 postavili	ˈpɔstavili
 postavil	ˈpɔstaviɫ
+postavím	ˈpɔstaviːm
 postaví	ˈpɔstɑviː
 postaviť	ˈpɔstaviθ
 postavou	ˈpɔstɑvou
@@ -11871,6 +12259,7 @@ potiahnuť	ˈpɔθiaɦnuθ
 potichu	ˈpɔtixu
 potíšku	ˈpɔtiːʃku
 potkan	ˈpɔtkan
+potkany	ˈpɔtkani
 potláčať	ˈpɔtɫaːtʃaθ
 potlačiť	ˈpɔtɫatʃiθ
 potlesk	ˈpɔtɫɛsk
@@ -11924,6 +12313,7 @@ poukázať	ˈpɔukaːzaθ
 poukážka	ˈpɔukaːʒka
 poukazovať	ˈpɔukazɔvaθ
 pouličný	ˈpɔulitʃniː
+použijeme	ˈpɔuʒijɛmɛ
 použili	ˈpɔuʒili
 použil	ˈpɔuʒil
 použi	ˈpɔuʒi
@@ -11933,6 +12323,7 @@ použitom	ˈpɔuʒitɔm
 použiť	ˈpɔuʒiθ
 použitý	ˈpɔuʒitiː
 používajú	ˈpɔuʒiːvajuː
+používali	ˈpɔuʒiːvali
 používanie	ˈpɔuʒiːvaɲiɛ
 používaný	ˈpɔuʒiːvaniː
 používa	ˈpɔuʒiːva
@@ -11943,9 +12334,11 @@ pôvabný	ˈpuɔvabniː
 povaha	ˈpɔvaɦa
 povahovo	ˈpɔvaɦɔvɔ
 povala	ˈpɔvalɑ
+považoval	ˈpɔvaʒɔval
 považovaný	ˈpɔvaʒɔvaniː
 považovať	ˈpɔvaʒɔvaθ
 považský	ˈpɔvaʒskiː
+považujem	ˈpɔvaʒujɛm
 považuje	ˈpɔvaʒujɛ
 považuješ	ˈpɔʊvaʒujɛʃ
 povedala	ˈpɔvɛdɑɫa
@@ -11956,6 +12349,7 @@ povedané	ˈpɔvɛdɑnɛː
 povedaný	ˈpɔvɛdaniː
 povedat	ˈpɔvɛdɑt
 povedať	ˈpɔvɛdɑθ
+povediac	ˈpɔvɛɟiats
 povedia	ˈpɔvɛɟja
 povedomia	ˈpɔvɛdɔmia
 povedomie	ˈpɔvɛdɔmiɛ
@@ -11993,6 +12387,8 @@ povolaním	ˈpɔvɔlaɲiːm
 povolaný	ˈpɔvɔlɑniː
 povolať	ˈpɔvɔlɑθ
 povolebný	ˈpɔvɔlɛbniː
+povolené	ˈpɔvɔlɛnɛː
+povolenia	ˈpɔvɔlɛɲia
 povolenie	ˈpɔvɔlɛɲiɛ
 povolený	ˈpɔvɔlɛniː
 povoliť	ˈpɔvɔliθ
@@ -12058,6 +12454,7 @@ požičať	ˈpɔʒitʃaθ
 pozícia	ˈpɔziːtsia
 požičiavať	ˈpɔʒitʃiavaθ
 pozície	ˈpɔziːtsijɛ
+pozícii	ˈpɔziːtsiːi
 pozíciu	ˈpɔziːtsiju
 pôžička	ˈpuɔʒitʃka
 pozitívne	ˈpɔzitiːvɲɛ
@@ -12112,6 +12509,7 @@ pozreš	ˈpɔzrɛʃ
 pozrieme	ˈpɔzriɛmɛ
 pozriem	ˈpɔzriɛm
 pozrieš	ˈpɔzriɛʃ
+pozriete	ˈpɔzriɛθɛ
 pozrieť	ˈpɔzriɛθh
 pozrime	ˈpɔzriɛmɛ
 pozri	ˈpɔzri
@@ -12208,6 +12606,7 @@ pravidlo	ˈpravidɫɔ
 právne	ˈpraːvɲɛ
 právnický	ˈpraːvnitskiː
 právnika	ˈpraːvɲika
+právnikov	ˈpraːvɲikɔv
 právnik	ˈpraːvnik
 právnik	ˈpraːvɲik
 pravnik	ˈpravɲik
@@ -12217,6 +12616,7 @@ právom	ˈpraːvɔm
 pravopis	ˈpravɔpis
 právoplatný	ˈpraːvɔplatniː
 právo	ˈpraːvɔ
+pravo	ˈpravɔ
 právo	ˈprɑːvɔ
 pravoslávny	ˈpravɔslɑːvni
 pravú	ˈpravuː
@@ -12338,6 +12738,7 @@ precestujem	ˈprɛtsɛstujɛm
 precestuješ	ˈprɛtsɛstujɛʃ
 prečesú	ˈprɛtʃɛsuː
 prechádajúc	ˈprɛxɑːdajuːts
+prechádzam	ˈprɛxaːdzam
 prechádza	ˈprɛxaːdzɑ
 prechadzať	ˈprɛxadzaθ
 prechádzať	ˈprɛxɑːdzaθ
@@ -12426,6 +12827,7 @@ predáka	ˈprɛdaːka
 predákom	ˈprɛdaːkɔm
 predákov	ˈprɛdaːkɔv
 predák	ˈprɛdaːk
+predala	ˈprɛdala
 predali	ˈprɛdali
 predal	ˈprɛdaɫ
 predám	ˈprɛdaːm
@@ -12794,6 +13196,7 @@ prehľadom	ˈprɛɦʎadɔm
 prehľadov	ˈprɛɦʎadɔv
 prehľad	ˈprɛɦʎad
 prehľady	ˈprɛɦʎadi
+prehlásenie	ˈprɛɦlɑːsɛɲiɛ
 prehĺbiť	ˈprɛɦlːbiθ
 prehlbovať	ˈprɛɦɫbɔvaθ
 prehliadka	ˈprɛɦliadka
@@ -13182,6 +13585,7 @@ premýšľaj	ˈprɛmiːʃʎaj
 premyslaj	ˈprɛmislaj
 premýšľajúc	ˈprɛmiːʃʎajuːts
 premýšľajú	ˈprɛmiːʃʎajuː
+premýšľala	ˈprɛmiːʃʎala
 premýšľal	ˈprɛmiːʃʎal
 premýšľame	ˈprɛmiːʃʎamɛ
 premýšľam	ˈprɛmiːʃʎam
@@ -13575,6 +13979,7 @@ pressom	ˈprɛsɔm
 presso	ˈprɛsɔ
 press	ˈprɛs
 prestahovala	ˈprɛstahɔvalɑ
+presťahovali	ˈprɛsθahɔvali
 presťahoval	ˈprɛsθahɔval
 presťahovať	ˈprɛsθahɔvaθ
 presťahujem	ˈprɛsθahujɛm
@@ -14022,6 +14427,7 @@ prianie	ˈpriaɲiɛ
 priateľa	ˈpriɑθɛʎa
 priatelia	ˈpriɑθɛlɪa
 priateľka	ˈpriaθɛʎka
+priateľke	ˈpriaθɛʎkɛ
 priateľkou	ˈpriaθɛʎkɔu
 priateľku	ˈprijɑθɛʎku
 priateľky	ˈpriaθɛʎki
@@ -14029,6 +14435,7 @@ priateľmi	ˈpriaθɛʎmi
 priateľom	ˈpriaθɛʎɔm
 priateľovi	ˈpriaθɛʎɔvi
 priateľov	ˈpriaθɛʎɔv
+priateľov	ˈprɪaθɛʎɔʋ
 priateľ	ˈpriaθɛʎ
 priateľský	ˈpriatɛʎskiː
 priateľsky	ˈpriaθɛʎski
@@ -14050,6 +14457,7 @@ príbehom	ˈpriːbɛhɔm
 príbeh	ˈpriːbɛx
 príbehu	ˈpriːbɛhu
 príbehy	ˈpriːbɛhi
+príbehy	ˈpriːbɛɦi
 priblížila	ˈpriːbliːʒila
 priblížili	ˈpribliːʒili
 priblížime	ˈpribliːʒimɛ
@@ -14063,6 +14471,7 @@ príbytok	ˈpriːbitɔk
 pricestovať	ˈpritsɛstɔvaθ
 prichádzajúci	ˈprixaːdzajuːtsi
 prichádzajú	ˈprixaːdzɑjuː
+prichádzam	ˈprixaːdzam
 prichádza	ˈprixaːdzɑ
 prichádzať	ˈprixaːdzaθ
 prichodiť	ˈprixɔɟiθ
@@ -14252,6 +14661,7 @@ prirástla	prirɑːstlɑ
 prírastok	ˈpriːrɑstɔk
 prirážka	ˈprirɑːʒka
 príroda	ˈpriːrɔda
+prírode	ˈpriːrɔɟɛ
 prírodné	ˈpriːrɔdnɛː
 prírodných	ˈpriːrɔdniːx
 prírodný	ˈpriːrɔdniː
@@ -14272,6 +14682,7 @@ prisahám	ˈprisahaːm
 prísaha	ˈpriːsaɦa
 prisahať	ˈprisaɦaθ
 príšerný	ˈpriːʃɛrniː
+príšery	ˈpriːʃɛri
 prišiel	ˈpriʃiɛl
 prišla	ˈpriʃlɑ
 prišli	ˈpriʃli
@@ -14298,6 +14709,7 @@ pristáť	ˈpristɑːθ
 pristavím	ˈpristaviːm
 pristaviť	ˈpristaviθ
 prístav	ˈpriːstav
+prístavu	ˈpriːstavu
 prísť	ˈpriːsθ
 prístroj	ˈpriːstrɔj
 prístroju	ˈpriːstrɔju
@@ -14329,12 +14741,14 @@ privatizačný	ˈprivatizatʃniː
 privatizovať	ˈprivatizɔvaθ
 privátny	ˈprivɑːtni
 privediem	ˈprivɛɟiɛm
+privedie	ˈprivɛɟiɛ
 priveď	ˈprivɛɟ
 priveďte	ˈprivɛɟθɛ
 priveľa	ˈprivɛʎa
 priveľký	ˈprivɛʎkiː
 priveľmi	ˈprivɛʎmi
 priviedla	ˈpriviɛdlɑ
+priviedlo	ˈpriviɛdlɔ
 priviedol	ˈpriviɛdɔɫ
 priviesť	ˈpriviɛsθ
 priviezť	ˈpriviɛzθ
@@ -14351,6 +14765,7 @@ príznačný	ˈpriːznatʃniː
 príznak	ˈpriːznak
 priznali	ˈpriznali
 priznal	ˈpriznal
+priznám	ˈpriznaːm
 priznám	ˈpriznɑːm
 priznanie	ˈpriznaɲiɛ
 priznať	ˈpriznaθ
@@ -14494,6 +14909,7 @@ prvých	ˈprviːx
 prvýkrát	ˈprviːkraːt
 prvýkrát	ˈprviːkrɑːt
 prvým	ˈprviːm
+prvy	ˈprvi
 prvý	ˈprviː
 ps	A
 psa	ˈpsa
@@ -14540,6 +14956,7 @@ pu	pu
 pusa	ˈpusa
 puška	puʃka
 pušku	ˈpuʃku
+pušky	ˈpuʃki
 púšťate	ˈpuːʃθaθɛ
 púšťať	ˈpuːʃθaθ
 pustat	ˈpustat
@@ -14572,6 +14989,7 @@ pyramídy	ˈpiramiːdi
 pyramí	ˈpirɑmiː
 pyrotechnikou	ˈpirɔtɛxnikɔu
 pyruse	ˈpirusɛ
+pyšná	ˈpiʃnaː
 pyšný	ˈpiʃniː
 pýtala	ˈpuːtɑɫa
 pýtali	ˈpiːtali
@@ -14606,6 +15024,7 @@ radi	ˈraɟi
 radiť	ˈraɟiθ
 rádiu	ˈraːdiɪu
 radnica	ˈradɲitsa
+radosti	ˈradɔsθi
 radostne	ˈradɔstɲɛ
 radostný	ˈradɔstniː
 radosťou	ˈradɔsθɔu
@@ -14657,11 +15076,13 @@ ranený	ˈraɲɛniː
 ránko	ˈraːnkɔ
 ranným	ˈranniːm
 ranný	ˈranniː
+ráno	ˈraːnɔ
 rano	ˈranɔ
 ráno	ˈrɑːnɔʊ
 ranu	ˈranu
 rany	ˈrani
 raný	ˈraniː
+rapunzel	ˈrapunzɛl
 ra	ˈra
 rasa	ˈrasa
 rasizmus	ˈrasizmus
@@ -14675,6 +15096,7 @@ rastový	ˈrastɔviː
 rásť	ˈraːsθ
 rast	ˈrast
 rastúci	ˈrastuːtsi
+rasy	ˈrasi
 rátať	ˈraːtaθ
 ratifikácia	ˈratifikaːtsia
 ratingov	ˈratinɡɔv
@@ -14818,12 +15240,14 @@ reštrukturalizácia	ˈrɛʃtrukturalizaːtsia
 reťazec	ˈrɛθazɛts
 reťaz	ˈrɛθas
 rétorika	ˈrɛːtɔrika
+reuben	ˈrɛubɛn
 reuters	F
 revízia	ˈrɛviːzia
 revolúcia	ˈrɛvɔluːtsia
 revolučný	ˈrɛvɔlutʃniː
 revolver	ˈrɛvɔlvɛr
 revue	F
+rex	ˈrɛks
 rezance	ˈrɛzantsɛ
 rezervácia	ˈrɛzɛrvɑːtsia
 rezerva	ˈrɛzɛrva
@@ -14848,10 +15272,13 @@ rez	ˈrɛz
 riadenie	ˈriaɟɛɲiɛ
 riadený	ˈriaɟɛniː
 riadiaci	ˈriaɟiatsi
+riadi	ˈriaɟi
+riaditeľa	ˈriaɟiθɛʎa
 riaditeľka	ˈriaɟiθɛʎka
 riaditeľ	ˈriaɟiθɛʎ
 riaditeľstvo	ˈriaɟiθɛʎstvɔ
 riadiť	ˈriaɟiθ
+riadna	ˈriadna
 riadne	ˈriadɲɛ
 riadny	riɑdni
 riadok	riɑdɔk
@@ -14884,7 +15311,9 @@ rimavský	ˈrimavskiː
 ríme	ˈriːmɛ
 rím	ˈriːm
 rímskokatolícky	ˈriːmskɔkatɔliːtski
+rímsku	ˈriːmsku
 rímsky	ˈriːmski
+ringu	ˈrinɡu
 rio	ˈriɔ
 ripley	ˈriplɛi
 ríša	ˈriːʃa
@@ -14900,6 +15329,7 @@ riziká	ˈrizikɑː
 riziko	ˈrizikɔ
 rizikový	ˈrizikɔviː
 road	ˈrɔad
+roberto	ˈrɔbɛrto
 robert	ˈrɔbɛrt
 robia	ˈrɔbiɑ
 robila	ˈrɔbilɑ
@@ -14909,6 +15339,7 @@ robil	ˈrɔbil
 robíme	ˈrɔbiːmɛ
 robím	ˈrɔbiːm
 robin	ˈrɔbin
+robinson	ˈrɔbinsɔn
 robí	ˈrɔbiː
 robíš	ˈrɔbiːʃ
 robis	ˈrɔbis
@@ -14932,6 +15363,7 @@ robte	ˈrɔbθɛ
 rockový	F
 rock	ˈrɔtsk
 rocky	ˈrɔtski
+ročná	ˈrɔtʃnaː
 ročné	ˈrɔtʃnɛː
 ročne	ˈrɔtʃɲɛ
 ročník	ˈrɔtʃɲiːk
@@ -14947,15 +15379,18 @@ rodičovský	ˈrɔɟitʃɔvskiː
 rodič	ˈrɔɟitʃ
 rodina	ˈrɔɟina
 rodine	ˈrɔɟiɲɛ
+rodinná	ˈrɔɟinnaː
 rodinné	ˈrɔɟinnɛː
 rodinnom	ˈrɔɟinɔm
 rodinnym	ˈrɔɟinnim
 rodinný	ˈrɔɟinniː
 rodinou	ˈrɔɟinɔu
+rodín	ˈrɔɟiːn
 rodinu	ˈrɔɟinu
 rodiny	ˈrɔɟini
 rodisko	ˈrɔɟiskɔ
 rodiť	ˈrɔɟiθ
+rodney	ˈrɔdnɛi
 rodnú	ˈrɔdnuː
 rodný	ˈrɔdniː
 rodový	ˈrɔdɔviː
@@ -14982,14 +15417,17 @@ rokov	ˈrɔkɔv
 rok	ˈrɔk
 roku	ˈrɔʊku
 roky	ˈrɔki
+roland	ˈrɔlɑnd
 rola	ˈrɔla
 roľa	ˈrɔʎa
+roll	ˈrɔl
 roľnícky	ˈrɔʎɲiːtski
 roľník	ˈrɔʎɲiːk
 rolu	ˈrɔlu
 romák	ˈrɔmaːk
 romana	ˈrɔmɑna
 romanom	ˈrɔmɑnɔm
+román	ˈromɑːn
 román	ˈrɔmaːn
 roman	ˈrɔmɑn
 romantické	ˈrɔmantitskɛː
@@ -15012,6 +15450,7 @@ roskosmosu	ˈrɔskɔsmɔsu
 ross	ˈrɔs
 rovesník	ˈrɔvɛsɲiːk
 rovina	ˈrɔvina
+rovinu	ˈrɔvinu
 rovnaká	ˈrɔvnakɑː
 rovnakej	ˈrɔvnakɛj
 rovnaké	ˈrɔvnakɛː
@@ -15026,13 +15465,16 @@ rovnomerne	ˈrɔvnɔmɛrɲɛ
 rovno	ˈrɔvnɔ
 rovnosť	ˈrɔvnɔsθ
 rovnováha	ˈrɔvnɔvaːɦa
+rovnováhu	ˈrɔvnɔvaːhu
 rovný	ˈrɔvniː
+royal	ˈrɔjal
 roy	ˈrɔi
 rozbehnúť	ˈrɔzbɛɦnuːθ
 rozbehnutý	ˈrɔzbɛɦnutiː
 rozbehová	ˈrɔzbɛhɔvaː
 rozbeh	ˈrɔzbɛɦ
 rozbiehať	ˈrɔzbiɛɦaθ
+rozbité	ˈrɔzbitɛː
 rozbiť	ˈrɔzbiθ
 rozbitý	ˈrɔzbitiː
 rozbor	ˈrɔzbɔr
@@ -15049,6 +15491,7 @@ rozdeľovanie	ˈrɔzɟɛʎɔvaɲiɛ
 rozdeľovať	ˈrɔzɟɛʎɔvaθ
 rozdielny	ˈrɔzɟiɛlni
 rozdiel	ˈrɔzɟiɛl
+rozdiely	ˈrɔzɟiɛli
 rozhlase	ˈrɔzhlɑsɛ
 rozhlasom	ˈrɔzhlɑsɔm
 rozhlasovým	ˈrɔzhlɑsɔviːm
@@ -15058,6 +15501,7 @@ rozhlasu	ˈrɔzhlɑsu
 rozhodca	ˈrɔzhɔdtsa
 rozhodcovský	ˈrɔzhɔdtsɔvskiː
 rozhodla	ˈrɔzhɔdɫa
+rozhodli	ˈrɔzhɔdli
 rozhodli	ˈrɔzɦɔdli
 rozhodne	ˈrɔzɦɔdɲɛ
 rozhodnutia	ˈrɔzɦɔdnuθia
@@ -15137,6 +15581,7 @@ rozpočet	ˈrɔzpɔtʃɛt
 rozpočtový	ˈrɔzpɔtʃtɔviː
 rozpor	ˈrɔzpɔr
 rozpoznať	ˈrɔzpɔznaθ
+rozpoznávam	ˈrɔzpɔznaːvam
 rozprávač	ˈrɔzprɑːvatʃ
 rozprávaj	ˈrɔzprɑːvaj
 rozprávala	ˈrɔzprɑːvalɑ
@@ -15153,6 +15598,7 @@ rozprávate	ˈrɔzprɑːvaθɛ
 rozprávať	ˈrɔzprɑːvaθ
 rozprávka	ˈrɔzprɑːvka
 rozprávkový	ˈrɔzprɑːvkɔviː
+rozprávky	ˈrɔzprɑːvki
 rozprestierať	ˈrɔzprɛsθiɛraθ
 rozpustil	ˈrɔzpusθil
 rozpustiť	ˈrɔzpusθiθ
@@ -15161,6 +15607,7 @@ rozrastala	ˈrɔzrɑstalɑ
 rozrastal	ˈrɔzrɑstal
 roz	ˈrɔz
 rozruch	ˈrɔzrux
+rozrušená	ˈrɔzruʃɛnaː
 rozsah	ˈrɔzsɑah
 rozsiahly	ˈrɔzsiahli
 rozšírenie	ˈrɔzʃiːrɛɲiɛ
@@ -15172,6 +15619,7 @@ rozsudok	ˈrɔzsudɔk
 roztok	ˈrɔztɔk
 roztomilý	ˈrɔstɔmiliː
 roztrhnúť	ˈrɔztrhnuːθ
+rozumela	ˈrɔzumɛlɑ
 rozumel	ˈrɔzumɛl
 rozumieme	ˈrɔzumɪɛmɛ
 rozumiem	ˈrɔzumɪɛm
@@ -15205,6 +15653,7 @@ ručne	ˈrutʃɲɛ
 ručný	ˈrutʃniː
 ruda	ˈruda
 rudolf	ˈrudɔɫf
+rudy	ˈrudi
 rúhal	ˈruːɦal
 rukách	ˈrukaːx
 rukami	ˈrukami
@@ -15242,6 +15691,7 @@ rusnák	ˈrusnaːk
 rušný	ˈruʃʃniː
 rúšok	ˈruːʃɔk
 rus	ˈrus
+russell	ˈrusɛl
 russovej	ˈrussɔvɛj
 ruth	ˈrutɦ
 rútiť	ˈruːθiθ
@@ -15251,6 +15701,7 @@ ruženec	ˈruʒɛɲɛt
 ružinov	ˈruʒinɔv
 ružomberok	ˈruʒɔmbɛrɔk
 ružomberský	ˈruʒɔmbɛrskiː
+ružové	ˈruʒɔvɛː
 ružový	ˈruʒɔviː
 rúž	ˈruːʃ
 ryan	ˈrian
@@ -15265,7 +15716,9 @@ ryby	ˈribi
 rýchlejšie	ˈriːxlɛjʃiɛ
 rýchle	ˈriːxlɛ
 rýchlik	ˈriːxlik
+rýchlo	ˈriːxlo
 rýchlo	ˈriːxlɔ
+rychlo	ˈrixlɔ
 rýchlosti	ˈriːxlɔsθi
 rýchlostný	ˈriːxlɔstniː
 rýchlosťou	ˈriːxlɔsθɔu
@@ -15331,6 +15784,7 @@ sama	ˈsɑmɑ
 samec	ˈsamɛts
 samého	ˈsɑmɛːhɔ
 samé	ˈsɑmæɛː
+samir	ˈsamir
 sami	ˈsɑmɪ
 sammy	ˈsami
 samopal	ˈsamɔpal
@@ -15343,6 +15797,7 @@ samostatnú	ˈsamostɑtnuː
 samostatný	ˈsamɔstɑtniː
 samota	ˈsamɔta
 samote	ˈsɑmɔθɛ
+samotné	ˈsamotnɛː
 samotný	ˈsamɔtniː
 samouk	ˈsɑmɔuk
 samovražda	ˈsamɔvraʒda
@@ -15448,9 +15903,12 @@ schopní	ˈsxɔpniː
 schopnosti	ˈsxɔpnɔsθi
 schopnosť	ˈsxɔpnɔsθ
 schopný	ˈsxɔpniː
+schovaj	ˈsxɔvaj
+schoval	ˈsxɔval
 schovať	ˈsxɔvaθ
 schradera	ˈsxraɟɛra
 schránka	ˈsxraːnka
+schránky	ˈsxraːnki
 schreckove	ˈsxrɛtskɔvɛ
 schudnúť	ˈsxudnuːθ
 schválenie	ˈsxvaːɫɛɲiɛ
@@ -15599,6 +16057,7 @@ se	ˈsɛ
 šesťdesiat	ˈʃɛsθɟɛsiat
 šesťdesiatych	ˈʃɛsθɟɛsiatix
 šesťdesiaty	ˈʃɛsθɟɛsiati
+sesternica	ˈsɛstɛrɲitsa
 šestka	ˈʃɛstka
 šestnástka	ˈʃɛstnaːstka
 šestnásť	ˈʃɛstnaːsθ
@@ -15672,6 +16131,7 @@ siedmy	ˈsiɛdmi
 siemens	ˈsiɛmɛns
 sieň	ˈsiɛɲ
 šiestej	ˈʃiɛstɛj
+šiestimi	ˈʃiɛsθimi
 šiesty	ˈʃiɛsti
 siete	ˈsiɛθɛ
 sieti	ˈsiɛθi
@@ -15679,6 +16139,7 @@ sieťový	ˈsiɛθɔviː
 sieť	ˈsiɛθ
 signalizovať	ˈsiɡnalizɔvaθ
 signál	ˈsiɡnaːɫ
+šikovné	ˈʃikɔvnɛː
 šikovne	ˈʃikɔvɲɛ
 šikovný	ˈʃikɔvniː
 sikozu	ˈsikɔzu
@@ -15737,6 +16198,7 @@ situovaný	ˈsituɔvaniː
 sivý	ˈsiviː
 sižet	ˈsiʒɛt
 sje	ˈsjɛ
+skáka	ˈskaːka
 skákať	ˈskaːkaθ
 skala	ˈskaɫa
 škála	ˈʃkaːɫa
@@ -15767,6 +16229,7 @@ skladba	ˈskladba
 skládka	ˈsklaːdka
 skladovanie	ˈskɫadɔvaɲiɛ
 sklad	ˈsklad
+skladu	ˈskladu
 sklamal	ˈskɫamal
 sklamaná	ˈskɫamanaː
 sklamanie	ˈskɫamaɲiɛ
@@ -15808,6 +16271,7 @@ skolu	ˈskɔɫu
 skomplikovať	ˈskɔmplikɔvaθ
 skončenie	ˈskɔntʃɛɲiɛ
 skončenú	ˈskɔntʃɛnuː
+skončia	ˈskɔntʃia
 skončila	ˈskɔntʃila
 skončili	ˈskɔntʃili
 skončilo	ˈskɔntʃiɫɔ
@@ -15829,6 +16293,7 @@ skórovať	ˈskɔːrɔvaθ
 škorpión	ˈʃkɔrpiɔːn
 skorších	ˈskɔrʃiːx
 skoršieho	ˈskɔrʃiɛhɔ
+skôr	ˈskuɔr
 skôr	skuɔr
 skorý	ˈskɔriː
 skosí	ˈskɔsiː
@@ -15856,6 +16321,7 @@ skrutka	ˈskrutka
 skrutkovač	ˈskrutkɔvatʃ
 skrutky	ˈskrutki
 skrýšach	ˈskriːʃax
+skryté	ˈskritɛː
 skryť	ˈskriθ
 skryty	ˈskriti
 skrytý	ˈskritiː
@@ -15876,6 +16342,7 @@ skupina	ˈskupina
 skupine	ˈskupiɲɛ
 skupinka	ˈskupinka
 skupinový	ˈskupinɔviː
+skupín	ˈskupiːn
 skupinu	ˈskupinu
 skupiny	ˈskupini
 skurvená	ˈskurvɛnaː
@@ -15887,11 +16354,13 @@ skurvysyn	ˈskurvisin
 skúšala	ˈskuːʃala
 skúšal	ˈskuːʃal
 skúšam	ˈskuːʃam
+skúša	ˈskuːʃa
 skúšať	ˈskuːʃaθ
 skúsenosti	ˈskuːsɛnɔsθi
 skúseností	ˈskuːsɛnɔsθiː
 skúsenosť	ˈskuːsɛnosθ
 skúsený	ˈskuːsɛniː
+skúsili	ˈskuːsili
 skúsil	ˈskuːsil
 skúsime	ˈskuːsimɛ
 skúsim	ˈskuːsim
@@ -15911,6 +16380,7 @@ skutočne	ˈskutɔtʃɲɛ
 skutočnosti	ˈskutɔtʃnɔsθ
 skutočnosť	ˈskutɔtʃnɔsθ
 skutočnú	ˈskutɔtʃnuː
+skutočným	ˈskutɔtʃniːm
 skutočný	ˈskutɔtʃniː
 skutok	ˈskutɔk
 skvelá	ˈskvɛlɑː
@@ -15936,17 +16406,20 @@ slabý	ˈsɫabiː
 šľachtic	ˈʃʎaxθits
 sladká	ˈsɫadkaː
 sladké	ˈsɫatkɛː
+sladkosti	ˈsɫadkɔsθi
 sladkosť	ˈsɫadkɔsθ
 sladkým	ˈsɫadkiːm
 sladký	ˈsɫatkiː
 šláger	ˈʃlaːɡɛr
 slaka	ˈsɫaka
+šľaka	ˈʃʎaka
 slalom	ˈsɫalɔm
 slama	ˈsɫama
 slaná	ˈsɫanaː
 slanina	ˈsɫaɲina
 slaný	ˈsɫaniː
 šla	ˈʃla
+sláva	ˈslaːva
 sláva	ˈsɫaːva
 slávik	ˈsɫaːvik
 slavíme	ˈsɫaviːmɛ
@@ -15961,8 +16434,10 @@ slávny	ˈsɫaːvni
 slavný	ˈsɫavniː
 slávu	ˈsɫaːvu
 slečna	ˈsɫɛtʃɲɑ
+slečnou	ˈsɫɛtʃnɔu
 slečnu	ˈsɫɛtʃɲu
 slečny	ˈsɫɛtʃɲi
+sledovala	ˈsɫɛdɔvalɑ
 sledovali	ˈsɫɛdɔvali
 sledoval	ˈslɛdɔvaɫ
 sledovanie	ˈslɛdɔvaɲiɛ
@@ -15987,6 +16462,7 @@ slina	ˈsɫina
 šli	ˈʃli
 slivka	ˈslivka
 sliznica	ˈslizɲitsa
+slnečné	ˈsɫɲɛtʃnɛː
 slnečný	ˈsɫɲɛtʃˌniː
 slniečko	ˈsɫɲiɛtʃkɔ
 slnka	ˈsɫŋka
@@ -15998,6 +16474,7 @@ sloboda	ˈsɫɔbɔda
 slobodná	ˈsɫɔbɔdnaː
 slobodne	ˈsɫɔbɔdɲɛ
 slobodník	ˈsɫɔbɔdɲiːk
+slobodní	ˈsɫɔbɔdniː
 slobodný	ˈsɫɔbɔdniː
 slobodu	ˈsɫɔbɔdu
 slobody	ˈsɫɔbɔdi
@@ -16028,6 +16505,7 @@ slovensko	ˈsɫɔʋɛnskɔ
 slovensku	ˈsɫɔʋɛnsku
 slovenských	ˈsɫɔvɛnskiːx
 slovenským	ˈsɫɔvɛnskiːm
+slovenský	ˈslɔʋɛnskiː
 slovensky	ˈsɫɔvɛnski
 slovenský	ˈsɫɔvɛnskiː
 slovens	ˈsɫɔʋɛns
@@ -16042,6 +16520,7 @@ slovníka	sɫɔʋɲiːka
 slovník	slɔʋɲiːk
 slovníku	sɫɔʋɲiːku
 slovný	ˈsɫɔvniː
+slovo	ˈslɔvɔ
 slovo	ˈsɫɔvɔ
 slov	ˈslɔv
 sľúbila	ˈsʎuːbilɑ
@@ -16063,6 +16542,7 @@ slušne	ˈsɫuʃɲɛ
 slušnosť	ˈsɫuʃnɔsθ
 slušnu	ˈsɫuʃnu
 slušný	ˈsɫuʃniː
+službám	ˈsɫuʒbaːm
 služba	ˈsɫuʒba
 službe	ˈsɫuʒbɛ
 službu	ˈsɫuʒbu
@@ -16094,11 +16574,14 @@ smerujúci	ˈsmɛrujuːtsi
 sme	ˈsmɛ
 smetanovo	ˈsmɛtanɔvɔ
 smetiar	ˈsmɛθiar
+smiali	ˈsmiali
 smiať	ˈsmiaθ
 smiech	ˈsmiɛx
+smiechu	ˈsmiɛxu
 smiem	ˈsmiɛm
 smiešne	ˈsmiɛʃɲɛ
 smiešny	ˈsmiɛʃni
+smieš	ˈsmiɛʃ
 smieť	ˈsmiɛθ
 smith	ˈsmitɦ
 smk	A
@@ -16268,6 +16751,7 @@ spala	ˈspaɫa
 spálením	ˈspaːlɛɲiːm
 spáliť	ˈspaːliθ
 spálňa	ˈspaːɫɲa
+spálni	ˈspaːlɲi
 spaľovanie	ˈspaʎɔvaɲiɛ
 spal	ˈspaɫ
 spaľuje	ˈspaʎujɛ
@@ -16334,15 +16818,19 @@ spiatočný	ˈspiatɔtʃniː
 špičkový	ˈʃpitʃkɔviː
 špičku	ˈʃpitʃku
 špicu	ˈʃpitsu
+spievaj	ˈspjɛvaj
 spievali	ˈspjɛvali
+spieval	ˈspjɛval
 spieva	ˈspjɛva
 spievate	ˈspjɛvaθɛ
 spievať	ˈspjɛvaθ
 spiev	ˈspjɛv
 špíl	ˈʃpiːl
 špina	ˈʃpina
+špinavá	ˈʃpinavaː
 špinavé	ˈʃpinavɛː
 špinavý	ˈʃpinaviː
+špión	ˈʃpiɔːn
 spišiak	ˈspiʃiak
 spisovateľa	ˈspisɔvaθɛʎa
 spisovateľka	ˈspisɔvaθɛʎka
@@ -16436,6 +16924,7 @@ spomaliť	ˈspɔmaliθ
 spomaľ	ˈspɔmaʎ
 spomedzi	ˈspɔmɛdzi
 spomenieme	ˈspɔmɛɲiɛmɛ
+spomenie	ˈspɔmɛɲiɛ
 spomen	ˈspɔmɛn
 spomenula	ˈspɔmɛnuɫa
 spomenuli	ˈspɔmɛnuɫi
@@ -16480,6 +16969,7 @@ spôsobil	ˈspuɔsɔbil
 spôsobiť	ˈspuɔsɔbiθ
 spôsobom	ˈspuɔsɔbɔm
 spôsobovať	ˈspwɔsɔbɔvaθ
+spôsobov	ˈspuɔsɔbɔv
 spôsob	ˈspuɔsɔp
 spôsobuje	ˈspuɔsɔbujɛ
 spôsoby	ˈspuɔsɔbi
@@ -16539,6 +17029,7 @@ spravíš	ˈspraviːʃ
 spraviť	ˈspraviθ
 správna	ˈspraːvna
 správne	ˈsprɑːvnæ
+správnom	ˈspraːvnɔm
 správnosť	ˈspraːvnɔsθ
 správnu	ˈspraːvnu
 správny	ˈspraːvni
@@ -16579,6 +17070,7 @@ spúšťanie	ˈspuːʃθaɲiɛ
 spúšťať	ˈspuːʃθaθ
 spustenie	ˈspusθɛɲiɛ
 spustený	ˈspusθɛniː
+spustil	ˈspusθil
 spustiť	ˈspusθiθ
 spy	ˈspi
 spýtaj	ˈspiːtaj
@@ -16588,12 +17080,14 @@ spýtam	ˈspiːtam
 spýtať	ˈspiːtaθ
 spytovať	ˈspitɔvaθ
 sračiek	ˈsratʃiɛk
+sračkách	ˈsratʃkaːx
 sračka	ˈsratʃka
 sračku	ˈsratʃku
 sračky	ˈsratʃki
 sráč	ˈsraːtʃ
 srákov	ˈsraːkɔv
 sranda	ˈsranda
+sranduješ	ˈsrandujɛʃ
 srandu	ˈsrandu
 sráš	ˈsraːʃ
 srať	ˈsraθ
@@ -16645,6 +17139,7 @@ stakčín	ˈstaktʃiːn
 stála	ˈstɑːla
 stala	ˈstɑlɑ
 stáleho	ˈstɑːlɛhɔ
+stále	ˈstaːlɛ
 stále	ˈstɑːlɛ
 stále	ˈstɑɑːlɛ
 stale	ˈstɑlɛ
@@ -16652,6 +17147,7 @@ stálicou	ˈstɑːlitsɔu
 stáli	ˈstɑːli
 stali	ˈstɑli
 stálom	ˈstɑːlɔm
+stálo	ˈstaːlɔ
 stálo	ˈstɑːlɔ
 stalo	ˈstɑlɔ
 stál	ˈstɑːl
@@ -16677,6 +17173,7 @@ stanovovať	ˈstanɔvaθ
 stanovujú	ˈstanɔvujuː
 stanovy	ˈstanɔvi
 stan	ˈstan
+staraj	ˈstaraj
 staral	ˈstaral
 staráš	ˈstaraːʃ
 stará	ˈstaraː
@@ -16685,11 +17182,13 @@ starček	ˈstartʃɛk
 starec	ˈstarɛts
 starého	ˈstarɛːhɔ
 starej	ˈstarɛj
+starému	ˈstarɛːmu
 starena	ˈstarɛna
 stares	ˈstarɛs
 staré	ˈstarɛː
 starí	ˈstariː
 starká	ˈstarkaː
+stark	ˈstark
 starký	ˈstarkiː
 starle	ˈstarlɛ
 starliner	ˈstarlinɛr
@@ -16728,9 +17227,11 @@ starých	ˈstariːx
 starým	ˈstariːm
 starý	ˈstariː
 šťastia	ˈʃθɑsθɪa
+šťastie	ˈʃθasθiɛ
 šťastie	ˈʃθɑsθɪɛ
 šťastím	ˈʃθasθiːm
 šťastná	ˈʃθastnaː
+šťastné	ˈʃθasnɛː
 šťastné	ˈʃθastnɛː
 šťastne	ˈʃθɑstɲɛ
 šťastní	ˈʃθastniː
@@ -16779,10 +17280,12 @@ stavebný	ˈstavɛbniː
 stavené	ˈstavɛnɛː
 stave	ˈstavɛ
 stavé	ˈstavɛː
+stavil	ˈstavil
 stavím	ˈstaviːm
 staviteľ	ˈstaviθɛʎ
 staviť	ˈstaviθ
 stávka	ˈstɑːvka
+stávku	ˈstaːvku
 stavovské	ˈstavɔvskɛː
 stavro	ˈstavrɔ
 stav	ˈstav
@@ -16815,6 +17318,7 @@ ste	ˈsθɛ
 steven	ˈstɛvɛn
 steve	ˈstɛvɛ
 stiahla	ˈsθiaɦla
+stiahni	ˈsθiaɦɲi
 stiahnutie	ˈsθiaɦnuθiɛ
 stiahnuť	ˈsθiaɦnuθ
 stiahnutý	ˈsθiaɦnuti
@@ -16834,6 +17338,7 @@ stisnúť	ˈsθisnuːθ
 štít	ˈʃtiːt
 štk	ˈʃtk
 stlačiť	ˈstɫatʃiθ
+stlač	ˈstɫatʃ
 stĺpec	ˈstlːpɛts
 stĺp	ˈstlːp
 stodola	ˈstɔdɔɫa
@@ -16842,6 +17347,7 @@ stojaceho	ˈstɔjatsɛhɔ
 stojaci	ˈstɔjatsi
 stoja	ˈstɔja
 stoje	ˈstɔjɛ
+stojíme	ˈstɔjiːmɛ
 stojím	ˈstɔjiːm
 stojíš	ˈstɔjiːʃ
 stojí	ˈstɔjiː
@@ -16889,6 +17395,7 @@ stovka	ˈstɔvka
 stovky	ˈstɔvki
 strácame	ˈstraːtsamɛ
 strácam	ˈstraːtsam
+strácaš	ˈstraːtsaʃ
 strácať	ˈstraːtsaθ
 strachom	straxɔm
 strach	strax
@@ -16897,6 +17404,7 @@ strachy	straxi
 štrajk	ˈʃtrajk
 štrajky	ˈʃtrajki
 straka	ˈstraka
+stranách	ˈstranaːx
 strana	ˈstrana
 stráne	ˈstraːɲɛ
 strane	ˈstraɲɛ
@@ -16905,6 +17413,7 @@ stránka	ˈstraːnka
 stranka	ˈstranka
 stránku	ˈstaːnku
 stránky	ˈstraːnki
+stranou	ˈstranɔu
 stranové	ˈstranɔvɛː
 strán	ˈstraːn
 stranu	ˈstranu
@@ -16925,6 +17434,7 @@ stratený	ˈstratɛniː
 stratila	ˈstraθila
 stratili	ˈstraθili
 stratil	ˈstraθil
+strátim	ˈstraːθim
 stratiť	ˈstraθiθ
 stratový	ˈstratɔviː
 straty	ˈstrati
@@ -16938,6 +17448,7 @@ stravovanie	ˈstravɔvaɲiɛ
 stravy	ˈstravi
 strážca	ˈstraːʒtsa
 stráže	ˈstraːʒɛ
+strážiť	ˈstraːʒiːθ
 strážiť	ˈstraːʒiθ
 strážnik	ˈstraːʒɲik
 strážny	ˈstraːʒni
@@ -17019,6 +17530,7 @@ striedate	ˈstriɛdɑθɛ
 striedať	ˈstriɛdaθ
 striedavo	ˈstriɛdavɔ
 strieľaj	ˈstriɛlaj
+strieľal	ˈstriɛʎal
 strieľa	ˈstriɛʎa
 strieľať	ˈstriɛʎaθ
 striga	ˈstriɡa
@@ -17085,6 +17597,7 @@ studňa	ˈstudɲa
 stumbo	ˈstumbɔ
 stupaj	ˈstupaj
 stúpajúci	ˈstuːpajuːtsi
+stúpa	ˈstuːpa
 stúpať	ˈstuːpaθ
 stúpenec	ˈstuːpɛɲɛts
 stupeň	ˈstupɛɲ
@@ -17190,6 +17703,7 @@ súhlasy	ˈsuːɦlasi
 súhrn	ˈsuːɦrn
 súhvezdie	ˈsuːɦvɛzɟiɛ
 suka	ˈsuka
+šukať	ˈʃukaθ
 sukin	ˈsukin
 sukňa	ˈsukɲa
 sukne	ˈsukɲɛ
@@ -17207,6 +17721,7 @@ sukulenty	ˈsukulɛnti
 súlad	ˈsuːɫat
 súlož	ˈsuːɫɔʃ
 suma	ˈsuma
+summer	ˈsumɛr
 summit	F
 súmrak	ˈsuːmrak
 šum	ˈʃum
@@ -17242,6 +17757,7 @@ susedov	ˈsusɛdɔv
 susedstvo	ˈsusɛdstvɔ
 sused	ˈsusɛd
 sušený	ˈsuʃɛniː
+sušienky	ˈsuʃiɛnki
 sústava	ˈsuːstava
 sústavne	ˈsuːstavɲɛ
 sústavný	ˈsuːstavniː
@@ -17316,12 +17832,14 @@ svedsky	ˈsvɛdski
 svého	ˈsvɛːhɔ
 svend	ˈsvɛnd
 sveta	ˈsvɛta
+svetelný	ˈsvɛθɛlniː
 svetelný	ˈsvɛθɛɫniː
 svete	ˈsvɛθɛ
 svetiel	ˈsvɛθiɛɫ
 svetla	ˈsvɛtɫa
 svetlá	ˈsvɛtɫaː
 svetle	ˈsvɛtɫɛ
+svetlom	ˈsvɛtɫɔm
 svetlo	ˈsvɛtɫɔ
 svetlý	ˈsvɛtɫiː
 svetmi	ˈsvɛtmi
@@ -17459,6 +17977,7 @@ tajomník	ˈtajɔmɲiːk
 tajomnu	ˈtajɔmnu
 tajomný	ˈtajɔmniː
 tajomstvá	ˈtajɔmstvaː
+tajomstvom	ˈtajɔmstvɔm
 tajomstvo	ˈtajɔmstvɔ
 tajuplné	ˈtajuplnɛː
 taká	tɑkɑː
@@ -17518,6 +18037,7 @@ tamto	ˈtɑmtɔ
 tamže	ˈtamʒɛ
 tanap	ˈtanap
 tancovať	ˈtantsɔvaθ
+tancuje	ˈtantsujɛ
 tanečnica	ˈtaɲɛtsɲitsa
 tanečník	ˈtaɲɛtʃɲiːk
 tanečný	ˈtaɲɛtʃniː
@@ -17531,6 +18051,7 @@ tankovaní	ˈtankɔvaniː
 tankovaní	ˈtankɔvaɲiː
 tank	ˈtank
 ťap	ˈθap
+tara	ˈtara
 ťarcha	ˈθarxa
 tarifa	ˈtarifa
 taserom	ˈtasɛrɔm
@@ -17565,6 +18086,7 @@ taylor	ˈtailɔr
 ťažkom	ˈθaʒkɔm
 ťažkosť	ˈθaʒkɔsθ
 ťažko	ˈθaʒkɔ
+ťažkú	ˈθaʒkuː
 ťažkých	ˈθaʒkiːx
 ťažký	ˈθaʃkiː
 ťažšie	ˈθaʒʃiɛ
@@ -17575,6 +18097,7 @@ team	ˈtɛam
 teba	ˈθɛba
 teba	ˈθɛbɑ
 tebe	ˈθɛbɛ
+tebou	ˈtɛbɔu
 tebou	ˈθɛbɔu
 teb	ˈtɛb
 technickým	ˈtɛxnitskiːm
@@ -17614,6 +18137,7 @@ tela	ˈθɛɫa
 telá	ˈθɛɫaː
 teľa	ˈθɛʎa
 telefonát	ˈtɛlɛfɔnaːt
+telefonáty	ˈtɛlɛfɔnaːti
 telefóne	ˈtɛlɛfɔːɲɛ
 telefonicky	ˈtɛlɛfɔnitski
 telefonický	ˈtɛlɛfɔnitskiː
@@ -17643,6 +18167,7 @@ televízor	ˈtɛlɛviːzɔr
 tele	ˈθɛlɛ
 telke	ˈtɛɫkɛ
 telku	ˈtɛɫku
+tell	ˈtɛɫ
 telocvičňa	ˈθsɛlɔtsvitʃɲa
 telom	ˈθɛɫɔm
 telovej	ˈθɛlɔvɛj
@@ -17692,6 +18217,7 @@ teoretický	ˈtɛɔrɛtitskiː
 teoretik	ˈtɛɔrɛtik
 teória	ˈtɛɔːrija
 teórií	ˈtɛɔːriː
+teóriu	ˈtɛɔːriju
 teou	ˈtɛɔu
 tepelný	ˈθɛpɛlniː
 teplé	ˈθɛplɛː
@@ -17783,9 +18309,12 @@ tieto	ˈtiatɔ
 tiez	ˈtiɛz
 tiež	ˈθiɛʃ
 tiger	ˈtiɡɛr
+tigger	ˈtiɡɛr
 times	ˈtimɛs
 tíme	ˈtiːmɛ
 time	ˈtimɛ
+timi	ˈtimi
+tímom	ˈtiːmɔm
 tímový	ˈtiːmɔviː
 tím	ˈtiːm
 tim	ˈtim
@@ -17794,12 +18323,14 @@ tina	ˈtinɑ
 tin	ˈtin
 típkom	ˈtiːpkɔm
 tip	ˈtip
+tisíce	ˈtɪsiːtsɛ
 tisíce	ˈθisiːtsɛ
 tisícka	ˈθisiːtska
 tisícky	ˈθisiːtski
 tisícový	ˈθisiːtsɔviː
 tisícročie	ˈθisiːtsrɔtʃiɛ
 tisíc	ˈθisiːts
+tisíc	ˈθɪsɪːts
 tis	ˈtis
 ti	ˈti
 tí	ˈtiː
@@ -17819,6 +18350,7 @@ tlačený	ˈtɫatʃɛniː
 tlačiarenskom	ˈtɫatʃiarɛnskɔm
 tlačiareň	ˈtɫatʃiarɛɲ
 tlačidlo	ˈtɫatʃidlɔ
+tlačí	ˈtɫatʃiː
 tlačiť	ˈtɫatʃiθ
 tlačivo	ˈtɫatʃivɔ
 tlačovka	ˈtɫatʃɔvka
@@ -17867,6 +18399,7 @@ tomako	ˈtɔmakɔ
 tomáš	ˈtɔmɑːʃ
 tombes	ˈtɔmbɛs
 tombsa	ˈtɔmbsa
+tommyho	ˈtɔmihɔ
 tommy	ˈtɔmi
 tomom	ˈtɔmɔm
 tomto	ˈtɔmtɔ
@@ -17888,6 +18421,7 @@ topoľ	ˈtɔpɔʎ
 top	ˈtɔp
 toronto	ˈtɔrɔntɔ
 torta	ˈtɔrta
+tortu	ˈtɔrtu
 torzo	ˈtɔrzɔ
 totalita	ˈtɔtalita
 totalitnému	ˈtɔtalitnɛːmu
@@ -17905,6 +18439,7 @@ touto	ˈtɔvtɔ
 tou	ˈtɔʊ
 toutuo	ˈtɔvtɔ
 továreň	ˈtɔvaːrɛɲ
+továrni	ˈtɔvaːrɲi
 tovar	ˈtɔvar
 tovo	ˈtɔvɔ
 toxický	ˈtɔksitskiː
@@ -17951,6 +18486,7 @@ trčať	ˈtrtʃaθ
 trebárs	ˈtrɛbaːrs
 treba	ˈtrɛba
 trebišov	ˈtrɛbiʃɔv
+treme	ˈtrɛmɛ
 trenčan	ˈtrɛntʃan
 trenčiansky	ˈtrɛntʃianski
 trenčína	ˈtrɛntʃiːna
@@ -17973,6 +18509,7 @@ tretie	ˈtrɛθiɛ
 tretíkrát	ˈtrɛθiːkraːt
 tretina	ˈtrɛθina
 tretí	ˈtrɛθiː
+trevor	ˈtrɛvɔr
 trhať	ˈtrɦaθ
 trhlina	ˈtrɦlina
 trhovisko	ˈtrɦɔviskɔ
@@ -18001,6 +18538,7 @@ trinásť	ˈtrinaːsθ
 trinásty	ˈtrinaːsti
 trio	ˈtriɔ
 tripartita	ˈtripartita
+tristan	ˈtristan
 tristo	ˈtristɔ
 tritisíc	ˈtriθisiːts
 tri	ˈtri
@@ -18045,6 +18583,7 @@ trup	ˈtrup
 trvajúci	ˈtrvajuːtsi
 trvalo	ˈtrvalɔ
 trvalý	ˈtrvaliː
+trvám	ˈtrvaːm
 trvanie	ˈtrvaɲiɛ
 trvá	ˈtrvaː
 trvať	ˈtrvaθ
@@ -18089,6 +18628,7 @@ turnaj	ˈturnaj
 turňa	ˈturɲa
 turner	ˈturnɛr
 turné	ˈturnɛː
+tušenia	ˈtuʃɛɲia
 tušenie	ˈtuʃɛɲiɛ
 tuším	ˈtuʃiːm
 tušiť	ˈtuʃiθ
@@ -18100,6 +18640,7 @@ tú	tuː
 tu	tʊ
 túžba	ˈtuːʒba
 tuzba	ˈtuzba
+túžbou	ˈtuːʒbɔu
 túžbu	ˈtuːʒbu
 túžiť	ˈtuːʒiθ
 tuzi	ˈtuzi
@@ -18111,6 +18652,7 @@ tvárou	ˈtvaːrɔu
 tvarovaná	ˈtvarɔvanaː
 tvár	ˈtvaːr
 tvar	ˈtvar
+tvoja	ˈtvɔja
 tvoja	ˈtvɔjɑ
 tvojej	ˈtvɔjɛi
 tvoje	ˈtvɔjɛ
@@ -18132,6 +18674,7 @@ tvorca	ˈtvɔrtsa
 tvorený	ˈtvɔrɛniː
 tvoriaci	ˈtvɔriatsi
 tvoria	ˈtvɔria
+tvoria	ˈtvɔrɪja
 tvoríte	ˈtvɔriːθɛ
 tvoriť	ˈtvɔriθ
 tvorí	ˈtvɔriː
@@ -18176,6 +18719,7 @@ týpek	ˈtiːpɛk
 typicky	ˈtipitski
 typický	ˈtipitskiː
 typ	ˈtip
+typu	ˈtipu
 týranie	ˈtiːraɲiɛ
 tyra	ˈtira
 tysona	ˈtisɔna
@@ -18256,6 +18800,7 @@ učí	ˈutʃiː
 úcta	ˈuːtsta
 uctievať	ˈutsθiɛvaθ
 uctiť	ˈutsθiθ
+úctou	ˈuːtstɔu
 účtovanie	ˈuːtʃtɔvaɲiɛ
 účtovať	ˈuːtʃtɔvaθ
 účtovníctvo	ˈuːtʃtɔvɲiːtstvɔ
@@ -18279,8 +18824,10 @@ udeľovanie	ˈuɟɛʎɔvaɲiɛ
 udeľovať	ˈuɟɛʎɔvaθ
 údel	ˈuːɟɛl
 úder	ˈuːɟɛr
+udialo	ˈuɟialɔ
 udiať	ˈuɟiaθ
 údiv	ˈuːɟiv
+údolia	ˈuːdɔɫia
 údolie	ˈuːdɔʎiɛ
 udrel	ˈudrɛl
 udrieť	ˈudriɛθ
@@ -18291,6 +18838,7 @@ udržať	udrʒaθ
 údržba	ˈuːdrʒba
 udržiavanie	ˈudrʒiavaɲiɛ
 udržiavať	ˈudrʒiavaθ
+udrží	ˈudrʒiː
 udržovať	ˈudrʒɔvaθ
 udským	ˈudskiːm
 úd	ˈuːd
@@ -18313,6 +18861,7 @@ uhorský	ˈuɦɔrskiː
 uhradiť	ˈuɦraɟiθ
 uhrať	ˈuɦraθ
 uh	uɦ
+uistil	ˈuisθil
 uistiť	ˈuisθiθ
 uisťujem	ˈuisθujɛm
 ujať	ujaθ
@@ -18379,6 +18928,7 @@ ulicou	ˈuʎitsɔu
 ulíc	ˈuʎiːts
 ulicu	ˈuʎitsu
 úloha	ˈuːlɔɦa
+úloha	ˈuːɫɔha
 úlohou	ˈuːlɔɦɔu
 úlohu	ˈuːlɔɦu
 úlohy	ˈuːlɔɦi
@@ -18408,6 +18958,7 @@ umením	ˈʊmɛŋiːm
 umení	ˈʊmɛɲiː
 umierať	umiɛraθ
 umiera	ˈumiɛra
+umierna	ˈumiɛrna
 umiernený	ˈumiɛrɲɛniː
 umiestnené	ˈumiɛstɲɛnɛː
 umiestnenie	ˈumiɛstɲɛɲiɛ
@@ -18460,6 +19011,7 @@ upevním	ˈupɛvɲiːm
 upevniť	ˈupɛvɲiθ
 upevňovať	ˈupɛvɲɔvaθ
 upierať	ˈupiɛraθ
+upíri	ˈupiːri
 upír	ˈupiːr
 uplatnenie	ˈupɫatɲɛɲiɛ
 uplatniť	ˈupɫatɲiθ
@@ -18471,6 +19023,7 @@ uplatok	ˈupɫatɔk
 úplne	ˈuːpɫnæ
 úplne	ˈuːpɫɲɛ
 uplne	ˈupɫɲɛ
+úplnú	ˈuːpɫnuː
 úplný	ˈuːpɫniː
 uplynulý	ˈupɫinuliː
 uplynutie	ˈupɫinuθiɛ
@@ -18486,6 +19039,7 @@ upratať	ˈuprataθ
 upratovanie	ˈupratɔvaɲiɛ
 úprava	ˈuːprava
 upravený	ˈupravɛniː
+upravil	ˈupravil
 upraviť	ˈupraviθ
 upravovať	ˈupravɔvaθ
 uprednostniť	ˈuprɛdnɔstɲiθ
@@ -18575,6 +19129,7 @@ uskutočňovať	ˈuskutɔtʃɲɔvaθ
 ušľachtilý	ˈuʃʎaxθiliː
 usmejte	ˈusmɛjθɛ
 usmerňovať	ˈusmɛrɲɔvaθ
+úsmevom	ˈuːsmɛvɔm
 úsmev	ˈuːsmɛv
 usmiať	usmiaθ
 usmievať	ˈusmiɛvaθ
@@ -18637,6 +19192,7 @@ utečenec	ˈuθɛtʃɛɲɛts
 útecha	ˈuːθɛxa
 uteč	ˈuθɛtʃ
 utekajte	ˈuθɛkajθɛ
+utekajú	ˈuθɛkajuː
 utekaj	ˈuθɛkaj
 utekal	ˈuθɛkal
 utekáte	ˈuθɛkɑːθɛ
@@ -18708,6 +19264,7 @@ uveriť	ˈuvɛriθ
 úverový	ˈuːvɛrɔviː
 úver	ˈuːvɛr
 uviaznuť	ˈuviɑznuθ
+uvidela	ˈuviɟɛɫa
 uvidel	ˈuviɟɛɫ
 uvidia	ˈuviɟia
 uvidieť	ˈuviɟiɛθ
@@ -18742,11 +19299,13 @@ uzatvorenie	ˈuzɑtvɔrɛɲiɛ
 uzatvorený	ˈuzatvɔrɛniː
 uzatvoriť	uzɑtvɔriθ
 uzávierka	ˈuzɑːviɛrka
+uzavretá	ˈuzɑvrɛtaː
 uzavretie	ˈuzɑvrɛθiɛ
 uzavretý	uzɑvrɛtiː
 uzavrieť	uzɑvriɛθ
 uzda	ˈuzda
 uzdravenie	ˈuzdravɛɲiɛ
+územia	ˈuːzɛmia
 územie	ˈuːzɛmiɛ
 území	ˈuːzɛmiː
 územný	ˈuːzɛmniː
@@ -18774,6 +19333,7 @@ uz	ˈuz
 už	uʒ
 v4	A
 vackov	ˈvatskɔv
+vačšia	ˈvatʃʃiɑ
 väčšia	ˈvɛtʃja
 väčšie	ˈvɛtʃʃjɛ
 väčšina	ˈvɛtʃʃina
@@ -18823,6 +19383,7 @@ vaňa	ˈvaɲa
 vancouver	F
 vandrujeme	ˈvandrujɛmɛ
 vanessa	ˈvanɛssa
+vani	ˈvaɲi
 vankúš	ˈvaŋkuːʃ
 van	ˈvan
 varek	ˈvarɛk
@@ -18862,6 +19423,7 @@ vašom	ˈvɑʃɔm
 vašou	ˈvɑʃɔu
 vašu	ˈvɑʃu
 vás	ˈvaːs
+váš	ˈvaːʃ
 vas	ˈvas
 váš	ˈvɑːʃ
 vaš	ˈvɑʃ
@@ -18907,6 +19469,7 @@ včerajší	ˈvtʃɛrajʃiː
 včerajšok	ˈftʃɛrajʃɔk
 včerajšok	ˈvtʃɛrajʃɔk
 vchádzať	ˈvxaːdzaθ
+vchodu	ˈvxɔdu
 vchod	ˈvxɔd
 vďačiť	ˈvɟatʃiθ
 vďačnosť	ˈvɟatʃnɔsθ
@@ -18924,6 +19487,7 @@ vdych	ˈvdix
 veau	ˈvɛau
 vecami	ˈvɛtsami
 večera	ˈvɛtʃɛra
+večere	ˈvɛtʃɛrɛ
 večeri	ˈvɛtʃɛri
 večerníček	ˈvɛtʃɛrɲiːtʃɛk
 večerný	ˈvɛtʃɛrniː
@@ -18957,6 +19521,7 @@ vedenie	ˈvɛɟɛɲiɛ
 vedený	ˈvɛɟɛniː
 vede	ˈvɛɟɛ
 vedia	ˈvɛɟɪa
+vedieš	ˈvɛɟiɛʃ
 vediet	ˈvɛdjɛt
 vedieť	ˈvɛɟiɛθ
 vedie	ˈvɛɟɪɛ
@@ -18966,6 +19531,7 @@ vedno	ˈvɛdnɔ
 vedomej	ˈvɛdɔmɛj
 vedome	ˈvɛdɔmɛ
 vedomie	ˈvɛdɔmiɛ
+vedomí	ˈvɛdɔmiː
 vedomosti	ˈvɛdɔmɔstθi
 vedomosť	ˈvɛdɔmɔsθ
 vedomý	ˈvɛdɔmiː
@@ -19019,6 +19585,7 @@ veľkú	ˈvɛʎkuː
 veľkých	ˈvɛʎkiːx
 veľkými	ˈvɛʎkiːmi
 veľkým	ˈvɛʎkiːm
+velky	ˈvɛɫki
 veľký	ˈvɛʎkiː
 velmi	ˈvɛɫmi
 veľmi	ˈvɛʎmi
@@ -19068,6 +19635,7 @@ vernum	ˈvɛrnum
 verný	ˈvɛrniː
 veronom	ˈvɛrɔnɔm
 veronu	ˈvɛrɔnu
+vero	ˈvɛrɔ
 veršom	ˈvɛrʃɔm
 verš	ˈvɛrʃ
 verte	ˈvɛrθɛ
@@ -19099,6 +19667,7 @@ veterinárny	ˈvɛtɛrinaːrni
 veterný	ˈvɛθɛrniː
 veto	ˈvɛtɔ
 vetracou	ˈvɛtratsɔu
+vetra	ˈvɛtra
 vetríme	ˈvɛtriːmɛ
 vetry	ˈvɛtri
 vetu	ˈvɛtu
@@ -19166,6 +19735,7 @@ vidíme	ˈviɟiːmɛ
 vidím	ˈviɟiːm
 vidina	ˈviɟina
 vidíš	ˈviɟiːʃ
+vidis	ˈviɟis
 viditeľne	ˈviɟiθɛʎɲɛ
 viditeľný	ˈviɟiθɛʎniː
 vidíte	ˈviɟiːθɛ
@@ -19175,11 +19745,13 @@ vidno	ˈvidnɔ
 viečko	ˈviɛtʃkɔ
 viedenský	ˈviɛɟɛnskiː
 viedeň	ˈviɛɟɛɲ
+viedli	ˈviɛdli
 viedni	ˈviɛdɲi
 viedol	ˈviɛdɔɫ
 vieme	ˈvɪɛmɛ
 viem	ˈviɛm
 viera	ˈviɛra
+viere	ˈviɛrɛ
 vierovyznanie	ˈviɛrɔviznaɲiɛ
 vieru	ˈvjɛru
 viery	ˈviɛri
@@ -19199,6 +19771,7 @@ víla	ˈviːɫa
 vila	ˈvilɑ
 vína	ˈviːna
 vina	ˈvinɑ
+vincent	ˈvintsɛnt
 vinica	ˈviɲitsa
 vinič	ˈviɲitʃ
 vinník	ˈvinɲiːk
@@ -19219,6 +19792,7 @@ vírusový	ˈviːrusɔviː
 vírus	ˈviːrus
 vír	ˈviːr
 visieť	ˈvisiɛθ
+visí	ˈvisiː
 vistrel	ˈvistrɛɫ
 vitajte	ˈvitɑjθɛ
 vitaj	ˈvitɑj
@@ -19246,6 +19820,8 @@ vláčik	ˈvɫaːtʃik
 vládať	ˈvɫaːdaθ
 vláda	ˈvlaːda
 vládca	ˈvɫaːdtsa
+vláde	ˈvɫaːɟɛ
+vladkom	ˈvɫadkɔm
 vládli	ˈvlaːdɫi
 vládne	ˈvɫaːdɲɛ
 vladni	ˈvɫadni
@@ -19256,6 +19832,7 @@ vládnutie	ˈvɫaːdnuθiɛ
 vládnuť	ˈvɫaːdnuθ
 vládnu	ˈvlaːdnu
 vládny	ˈvɫaːdni
+vládou	ˈvɫaːdɔu
 vlado	ˈvladɔ
 vládu	ˈvɫaːdu
 vladu	ˈvɫadu
@@ -19286,10 +19863,12 @@ vlastníctvo	ˈvɫastɲiːtstvɔ
 vlastník	ˈvɫastɲiːk
 vlastniť	ˈvɫastɲiθ
 vlastní	ˈvɫastɲiː
+vlastnom	ˈvɫastnɔm
 vlastnosť	ˈvɫastnɔsθ
 vlastnou	ˈvɫastnɔu
 vlastnú	ˈvɫastnuː
 vlastných	ˈvɫastniːx
+vlastnými	ˈvɫastniːmi
 vlastným	ˈvɫastniːm
 vlastný	ˈvɫastniː
 vlasť	ˈʋɫasθ
@@ -19303,6 +19882,7 @@ vlhkosť	ˈvɫɦkɔsθ
 vlhký	ˈvɫɦkiː
 vlhovú	ˈvɫɦɔvuː
 vliecť	ˈvɫiɛtsθ
+vlkmi	ˈvlkmɪ
 vlkolakom	ˈvɫkɔlakɔm
 vlku	ˈvɫku
 vlk	ˈvɫk
@@ -19342,6 +19922,7 @@ vnútro	ˈvnuːtrɔ
 vobec	ˈvɔbɛts
 vôbec	ˈvuɔbɛts
 vôbec	vuɔbɛts
+vôbec	ˈʋuobɛts
 voči	ˈvɔtʃi
 vodárenský	ˈvɔdaːrɛnskiː
 voda	ˈvɔda
@@ -19356,6 +19937,7 @@ vodiť	ˈvɔɟiθ
 vodka	ˈvɔdka
 vodnára	ˈvɔdnaːra
 vodnár	ˈvɔdnaːr
+vodné	ˈvodɲeː
 vodné	ˈvɔdnɛː
 vodnu	ˈvɔdnu
 vodný	ˈvɔdniː
@@ -19372,6 +19954,7 @@ vojakov	ˈvɔjakɔv
 vojak	ˈvɔjak
 vojej	ˈvɔjɛj
 vojenského	ˈvɔjɛnskɛːhɔ
+vojenskej	ˈvɔjɛnskɛj
 vojenskú	ˈvɔjɛnskuː
 vojensky	ˈvɔjɛnski
 vojenský	ˈvɔjɛnskiː
@@ -19430,6 +20013,7 @@ volíš	ˈvɔliːʃ
 voliteľne	ˈvɔliθɛʎɲɛ
 voliť	ˈvɔliθ
 volkswagen	F
+voľna	ˈvɔʎna
 voľná	ˈvɔʎnaː
 voľné	ˈvɔʎnɛː
 voľne	ˈvɔʎɲɛ
@@ -19459,6 +20043,7 @@ voskov	ˈvɔskɔv
 vošky	ˈvɔʃki
 vosla	ˈvɔsɫa
 voslo	ˈvɔsɫɔ
+vošlo	ˈvɔʃlɔ
 vo	vɔ
 vozeň	ˈvɔzɛɲ
 voze	ˈvɔzɛ
@@ -19479,6 +20064,7 @@ vpredum	ˈvprɛdum
 vpredu	ˈvprɛdu
 vpred	ˈvprɛd
 vrabec	ˈvrabɛts
+vracajú	ˈvratsajuː
 vracal	ˈvratsal
 vracať	ˈvratsaθ
 vraciam	ˈvratsiam
@@ -19486,6 +20072,7 @@ vraciate	ˈvratsiɑθɛ
 vracia	ˈvratsia
 vraha	ˈvraɦa
 vrahovia	ˈvraɦɔvia
+vrahov	ˈvraɦɔv
 vrah	ˈvrax
 vraj	ˈvraj
 vrakuňa	ˈvrakuɲa
@@ -19526,6 +20113,7 @@ vraždu	ˈvraʒdu
 vrážd	ˈvraːʒd
 vraždy	ˈvraʒdi
 vražedný	ˈvraʒɛdniː
+vrazil	ˈvrazil
 vrazím	ˈvraziːm
 vraziť	ˈvraziθ
 vraž	ˈvraʒ
@@ -19555,6 +20143,7 @@ vrtuľník	ˈvrtuʎɲiːk
 vrtuľu	ˈvrtuʎu
 vrtu	ˈvrtu
 všade	ˈfʃaɟɛ
+vsadím	ˈvsaɟiːm
 vsadíš	ˈvsaɟiːʃ
 všado	ˈvʃadɔ
 však	ˈfʃak
@@ -19627,6 +20216,7 @@ vtáka	ˈftaːka
 vták	ˈftaːk
 vtedajší	ˈftɛdajʃiː
 vtedy	ˈftɛdi
+vtedy	ˈftɛdɪ
 vte	ˈftæ
 vtiahnuť	ˈvθiaɦnuθ
 vtip	ˈftip
@@ -19705,6 +20295,7 @@ východný	ˈviːxɔdniː
 východoeurópsky	ˈviːxɔdɔɛurɔːpski
 východoslovenský	ˈviːxɔdɔslɔvɛnskiː
 východov	ˈviːxɔdɔv
+východu	ˈviːxɔdu
 východ	ˈviːxɔt
 vychovať	ˈvixɔvaθ
 vychovaval	ˈvixɔval
@@ -19728,6 +20319,7 @@ výcvikový	ˈviːtsvikɔviː
 výcvik	ˈviːtsvik
 vydaj	ˈvidaj
 vydala	ˈvidala
+vydali	ˈvidali
 vydal	ˈvidal
 vydáme	ˈvidaːmɛ
 vydam	ˈvidam
@@ -19747,6 +20339,7 @@ vydavateľ	ˈvidavaθɛʎ
 vydávate	ˈvidaːvaθɛ
 vydávať	ˈvidaːvaθ
 vydává	ˈvidaːvaː
+výdavky	ˈviːdavki
 výdavok	ˈviːdavɔk
 vydieranie	ˈviɟiɛraɲiɛ
 vydržali	ˈvidrʒɑli
@@ -19863,6 +20456,7 @@ vykríknuť	ˈvikriːknuθ
 vykrikovať	ˈvikrikɔvaθ
 výkrik	ˈviːkrik
 vykročiť	ˈvikrɔtʃiθ
+výkupné	ˈviːkupnɛː
 vykurovací	ˈvikurɔvatsiː
 vykurovanie	ˈvikurɔvaɲiɛ
 vyk	ˈvik
@@ -19871,6 +20465,7 @@ vyľakaná	ˈviʎakanaː
 vyledkom	ˈvilɛdkɔm
 vylepšiť	ˈvilɛpʃiθ
 vyleští	ˈvilɛʃθiː
+výlete	ˈviːlɛθɛ
 vyletieť	ˈvilɛθiɛθ
 vyletím	ˈvilɛtiːm
 vyletna	ˈvilɛtna
@@ -19940,6 +20535,7 @@ výnos	ˈviːnɔs
 vynútiť	ˈvinuːθiθ
 vypadáš	ˈvipadaːʃ
 vypadá	ˈvipadaː
+vypadneme	ˈvipɑdɲɛmɛ
 vypadnime	ˈvipɑdɲimɛ
 vypadnite	ˈvipɑdɲiθɛ
 vypadni	ˈvipɑdɲi
@@ -19979,6 +20575,7 @@ výpočet	ˈviːpɔtʃɛt
 vypočítať	ˈvipɔtʃiːtaθ
 výpočtový	ˈviːpɔtʃtɔviː
 vypočujem	ˈvipɔtʃujɛm
+vypočujte	ˈvipɔtʃujθɛ
 vypočuj	ˈvipɔtʃuj
 vypočuť	ˈvipɔtʃuθ
 vypotíme	ˈvipɔθiːmɛ
@@ -20008,6 +20605,7 @@ vyradiť	ˈvirɑɟiθ
 vyrastali	ˈvirɑstali
 vyrastal	ˈvirɑstal
 vyrastať	ˈvirɑstaθ
+vyrástla	ˈvirɑːstla
 vyrástol	ˈvirɑːstɔl
 vyrásť	ˈvirɑːsθ
 vyrážajú	ˈviraːʒajuː
@@ -20021,6 +20619,7 @@ výraz	ˈviːras
 vyriešenie	ˈviriɛʃɛɲiɛ
 vyriešený	ˈviriɛʃɛniː
 vyriešiť	ˈviriɛʃiθ
+vyrieši	ˈviriɛʃi
 výroba	ˈviːrɔba
 výrobca	ˈviːrɔbtsa
 vyrobená	ˈvirɔbɛnaː
@@ -20083,6 +20682,7 @@ vyskytne	ˈviskitɲɛ
 vyskytnúť	ˈviskitnuːθ
 vyskytovať	ˈviskitɔvaθ
 výskyt	ˈviːskit
+výšky	ˈviːʃki
 vyslanec	ˈvislaɲɛts
 vyslať	ˈvislaθ
 vysledkom	ˈvislɛdkɔm
@@ -20120,6 +20720,7 @@ vysoký	ˈvisɔkiː
 vysolíš	ˈvisɔliːʃ
 výsostne	ˈviːsɔstɲɛ
 výsosť	ˈviːsɔsθ
+vyspal	ˈvispal
 vyspať	ˈvispaθ
 vyspelej	ˈvispɛɫɛj
 vyspelých	ˈvispɛliːx
@@ -20150,6 +20751,7 @@ výstižný	ˈviːsθiʒniː
 výstraha	ˈviːstraha
 vystrašená	ˈvistraʃɛnaː
 vystrašený	ˈvistraʃɛniː
+vystrašila	ˈvistraʃila
 vystrašil	ˈvistraʃil
 vystrašiť	ˈvistraʃiθ
 vystra	ˈvistra
@@ -20169,11 +20771,13 @@ vystupovanie	ˈvistupɔvaɲiɛ
 vystupovať	ˈvistupɔvaθ
 vystupuj	ˈvistupuj
 výstup	ˈviːstup
+vystúp	ˈvistuːp
 výstupy	ˈviːstupi
 vysvedčenie	ˈʋisʋɛttʃɛɲiɛ
 vysvetlenie	ˈvisvɛtɫɛɲiɛ
 vysvetlil	ˈvisvɛtɫiɫ
 vysvetlím	ˈvisvɛtliːm
+vysvetlím	ˈvɪsʋɛtliːm
 vysvetliť	ˈvisvɛtɫiθ
 vysvetli	ˈvisvɛtɫi
 vysvetľovať	ˈvisvɛtʎɔvaθ
@@ -20326,6 +20930,7 @@ vzburencov	ˈvzburɛntsɔv
 vzbure	ˈvzburɛ
 vzburu	ˈvzburu
 vzdajte	ˈvzdajθɛ
+vzdala	ˈvzdala
 vzďaľovať	ˈvzɟaʎɔvaθ
 vzdal	ˈvzdal
 vzdáme	ˈvzdaːmɛ
@@ -20339,6 +20944,7 @@ vzdelaný	ˈvzɟɛlɑniː
 vzdelávací	ˈvzɟɛlɑːvatsiː
 vzdelávanie	ˈvzɟɛlɑːvaɲiɛ
 vzdelávať	ˈvzɟɛlɑːvaθ
+vzdialenosti	ˈvzɟialɛnɔsθi
 vzdialenosť	ˈvzɟialɛnɔsθ
 vzdialený	ˈvzɟialɛniː
 vzdialiť	ˈvzɟialiθ
@@ -20369,6 +20975,7 @@ vznikol	ˈvzɲikɔl
 vznik	ˈvzɲik
 vzorec	ˈvzɔrɛt
 vzorka	ˈvzɔrka
+vzorku	ˈvzɔrku
 vzorky	ˈvzɔrki
 vzoru	ˈvzɔru
 vzor	ˈvzɔr
@@ -20408,6 +21015,7 @@ westworld	F
 we	ˈvɛ
 what	ˈvɦat
 when	ˈvhɛn
+where	ˈvhɛrɛ
 whisky	ˈviski
 white	ˈvhitɛ
 whoa	ˈvhɔa
@@ -20415,6 +21023,7 @@ whoo	ˈvhɔɔ
 who	ˈvhɔ
 william	ˈviliam
 willie	ˈviliɛ
+willis	ˈvilis
 will	ˈvil
 wilson	ˈvilsɔn
 wimbledon	ˈvimblɛdɔn
@@ -20432,6 +21041,7 @@ www	vvv
 xenofóbia	ˈksɛnɔfɔːbijɑ
 x	ks
 xu	ˈksu
+ya	ˈiɑ
 yeah	ˈɪɛɦ
 y	i
 ý	iː
@@ -20468,6 +21078,7 @@ zabíja	ˈzabiːja
 zabijeme	ˈzabijɛmɛ
 zabijem	ˈzɑbijɛm
 zabiješ	ˈzabijɛʃ
+zabijete	ˈzabijɛθɛ
 zabije	ˈzɑbijɛ
 zabijú	ˈzɑbijuː
 zabila	ˈzɑbilɑ
@@ -20505,6 +21116,7 @@ zabudni	ˈzabudɲi
 zabudnutie	ˈzabudnuθiɛ
 zabudnutý	ˈzabudnutiː
 zabudnúť	ˈzabudnuːθ
+zabudol	ˈzabudɔl
 zabudol	ˈzabudɔɫ
 zabudovaný	ˈzabudɔvaniː
 zabyje	ˈzabijɛ
@@ -20514,8 +21126,10 @@ začalo	ˈzatʃɑlɔ
 začal	ˈzatʃɑl
 začatie	ˈzatʃaθiɛ
 začať	ˈzatʃaθ
+zachce	ˈzaxtsɛ
 záchoda	ˈzaːxɔda
 záchody	ˈzaːxɔdi
+záchod	ˈzaːxɔd
 záchod	ˈzaːxɔt
 zachovanie	ˈzaxɔvaɲiɛ
 zachovaný	ˈzaxɔvaniː
@@ -20527,7 +21141,10 @@ zachránia	ˈzaxraːɲia
 zachránila	ˈzaxraːɲila
 zachránili	ˈzaxraːɲili
 zachránil	ˈzaxraːɲil
+zachránime	ˈzaxraːɲimɛ
+zachránim	ˈzaxraːɲim
 zachrániť	ˈzaxraːɲiθ
+zachráni	ˈzaxraːɲi
 záchranný	ˈzaːxranniː
 zachraňovať	ˈzaxraɲɔvaθ
 zachráňte	ˈzaxraːɲθɛ
@@ -20562,6 +21179,7 @@ začnime	ˈzatʃɲimɛ
 začnite	ˈzatʃɲiθɛ
 začni	ˈzɑtʃɲi
 začnú	ˈzatʃnuː
+začo	ˈzatʃɔ
 začuť	ˈzatʃuθ
 zač	ˈzatʃ
 zadanie	ˈzadaɲiɛ
@@ -20608,6 +21226,7 @@ zahradu	ˈzaɦradu
 záhrady	ˈzɑːɦrɑdi
 zahrajú	ˈzaɦrajuː
 zahráme	ˈzahraːmɛ
+zahraničia	ˈzaɦraɲitʃia
 zahraničie	ˈzaɦraɲitʃiɛ
 zahraničí	ˈzahraɲitʃiː
 zahraničné	ˈzahraɲitʃnɛː
@@ -20645,6 +21264,7 @@ zakázať	ˈzakaːzaθ
 zakaždým	ˈzakaʒdiːm
 zákazka	ˈzaːkazka
 zákazníkov	ˈzaːkazɲikɔv
+zákazník	ˈzaːkazniːk
 zákazník	ˈzaːkazɲiːk
 zakazovať	ˈzakazɔvaθ
 zákaz	ˈzaːkaz
@@ -20657,6 +21277,7 @@ zakladať	ˈzakladaθ
 zakladá	ˈzakladaː
 základe	ˈzɑːklaɟɛ
 základňa	ˈzaːkladɲa
+základné	ˈzaːkladnɛː
 základňu	ˈzaːkladɲu
 základný	ˈzaːkɫadniː
 základ	ˈzaːklad
@@ -20700,7 +21321,9 @@ záliv	ˈzaːliv
 žalm	ˈʒaɫm
 žaloba	ˈʒaɫɔba
 žalobca	ˈʒaɫɔbtsa
+žalobu	ˈʒaɫɔbu
 záloha	ˈzaːlɔɦa
+zálohu	ˈzaːlɔɦu
 žalovať	ˈʒaɫɔvaθ
 založenie	ˈzalɔʒɛɲiɛ
 založený	ˈzalɔʒɛniː
@@ -20736,6 +21359,7 @@ zámienka	ˈzaːmiɛnka
 zamieriť	ˈzamiɛriθ
 zamiešať	ˈzamiɛʃaθ
 zamiesť	ˈzamiɛsθ
+zamilovala	ˈzamilɔvalɑ
 zamiloval	ˈzamilɔval
 zamilovaná	ˈzamilɔvanaː
 zamilovaný	ˈzamilɔvaniː
@@ -20812,6 +21436,7 @@ zápis	ˈzaːpis
 zaplatena	ˈzapɫaθɛna
 zaplatenie	ˈzapɫaθɛɲiɛ
 zaplatený	ˈzapɫaθɛniː
+zaplatila	ˈzapɫaθiɫa
 zaplatili	ˈzapɫaθiɫi
 zaplatil	ˈzapɫaθiɫ
 zaplatím	ˈzapɫaθiːm
@@ -20821,6 +21446,7 @@ zaplatí	ˈzapɫaθiː
 záplava	ˈzaːpɫava
 zaplaviť	ˈzapɫaviθ
 zaplav	ˈzapɫav
+zapletený	ˈzapɫɛθɛniː
 zaplniť	ˈzapɫɲiθ
 zapni	ˈzapɲi
 zapnutu	ˈzapnutu
@@ -20865,6 +21491,7 @@ zarobiť	ˈzɑrɔbiθ
 zárobok	ˈzaːrɔbɔk
 zárodok	ˈzaːrɔdɔk
 zároveň	ˈzaːrɔvɛɲ
+žartoval	ˈʒartɔval
 žartovať	ˈʒartɔvaθ
 žartujem	ˈʒartujɛm
 žartuješ	ˈʒartujɛʃ
@@ -20924,6 +21551,7 @@ zaspomínaj	ˈzaspɔmiːnaj
 zasraná	ˈzasranaː
 zasrané	ˈzasranɛː
 zasraný	ˈzasraniː
+zasran	ˈzasran
 zasra	ˈzasra
 zástanca	ˈzaːstantsa
 zastaraný	ˈzastaraniː
@@ -20977,6 +21605,7 @@ zaťažovať	ˈzaθaʒɔvaθ
 záťaž	ˈzaːθaʒ
 zatelefonovať	ˈzatɛlɛfɔnɔvaθ
 zatiahnuť	ˈzaθiaɦnuθ
+zatiaľ	ˈzaθiaːl
 zatial	ˈzaθial
 zatiaľ	ˈzaθiaʎ
 zátka	ˈzaːtka
@@ -21005,6 +21634,7 @@ záujemca	ˈzaːujɛmtsa
 záujem	ˈzaːujɛm
 zaujímalo	ˈzɑujiːmalɔ
 zaujímať	ˈzaujiːmaθ
+zaujímavá	ˈzaujiːmavaː
 zaujímavé	ˈzɑujimɑvæɛː
 zaujímavosť	ˈzaujiːmavɔsθ
 zaujímavo	ˈzɑujiːmavɔ
@@ -21067,10 +21697,12 @@ zavolať	ˈzɑvɔlɑθ
 zavolá	ˈzavɔlɑː
 zavolejte	ˈzavɔlɛjtɛ
 zavraždený	ˈzavraʒdɛniː
+zavraždil	ˈzavraʒɟil
 zavraždíš	ˈzavraʒɟiːʃ
 zavraždiť	ˈzavraʒdiθ
 zavrela	ˈzavrɛɫa
 zavreli	ˈzavrɛli
+zavrel	ˈzavrɛɫ
 zavreté	ˈzavrɛtɛː
 zavretí	ˈzavrɛtiː
 zavretý	ˈzavrɛtiː
@@ -21116,6 +21748,7 @@ zbadať	ˈzbadaθ
 zbaliť	ˈzbaliθ
 zbal	ˈzbaɫ
 zbavený	ˈzbavɛniː
+zbavili	ˈzbavili
 zbavil	ˈzbavil
 zbaviť	ˈzbaviθ
 zbavovať	ˈzbavɔvaθ
@@ -21123,12 +21756,14 @@ zbav	ˈzbav
 zbehlejší	ˈzbɛhlɛjʃiː
 zbehnúť	ˈzbɛɦnuːθ
 zberateľ	zbɛratɛʎ
+zberať	ˈzbɛraːθ
 zbernice	ˈzbɛrɲitsɛ
 zber	ˈzbɛr
 zbežne	ˈzbɛʒɲɛ
 zbežným	ˈzbɛʒniːm
 zbierať	ˈzbiɛraθ
 zbierka	ˈzbiɛrka
+zbierku	ˈzbiɛrku
 zbiť	ˈzbiθ
 zbláznila	ˈzblaːzɲila
 zbláznili	ˈzblaːzɲili
@@ -21148,6 +21783,7 @@ zbožňujem	ˈzbɔʒɲujɛm
 zbožný	ˈzbɔʒniː
 zbraňami	ˈzbrɑɲɑmi
 zbrane	ˈzbrɑɲɛ
+zbrani	ˈzbrɑɲi
 zbraní	ˈzbrɑɲiː
 zbraňou	ˈzbrɑɲɔu
 zbraň	ˈzbrɑɲh
@@ -21278,6 +21914,7 @@ zem	ˈzɛm
 žene	ˈʒɛɲɛ
 ženích	ˈʒɛɲiːx
 zenit	ˈzɛnit
+ženiť	ˈʒɛɲiθ
 ženou	ˈʒɛnɔu
 ženská	ˈʒɛnskɑː
 ženské	ˈʒɛnskɛː
@@ -21364,6 +22001,7 @@ ziadne	ˈziɑdnɛ
 žiarovka	ˈʒiarɔvka
 žiar	ˈʒiɑr
 zídem	ˈziːɟɛm
+zíde	ˈziːɟɛ
 židia	ˈʒiɟiɑ
 židovský	ˈʒidɔvskiː
 židov	ˈʒidɔv
@@ -21395,12 +22033,14 @@ zimný	ˈzimniː
 získala	ˈziːskɑlɑ
 získali	ˈziːskali
 získal	ˈziːskal
+získam	ˈziːskam
 získanie	ˈziːskaɲiɛ
 získaný	ˈziːskaniː
 získať	ˈziːskaθ
 získavanie	ˈziːskavaɲiɛ
 získavať	ˈziːskavaθ
 získava	ˈziːskava
+získa	ˈziːska
 ziskový	ˈziskɔviː
 zisk	ˈzisk
 zistenie	ˈzisθɛɲiɛ
@@ -21507,6 +22147,7 @@ zlí	ˈzɫiː
 zločinec	ˈzɫɔtʃinɛts
 zločinu	ˈzɫɔtʃinu
 zločin	ˈzɫɔtʃin
+zlodejov	ˈzɫɔɟɛjɔv
 zlodej	ˈzɫɔɟɛj
 zloduchú	ˈzɫɔduxuː
 zlomena	ˈzɫɔmɛna
@@ -21566,6 +22207,7 @@ zmenu	ˈzmɛnu
 zmeny	ˈzmɛni
 zmerať	ˈzmɛraθ
 zmeravel	ˈzmɛravɛl
+zmeškal	ˈzmɛʃkal
 zmeskat	ˈzmɛskat
 zmeškat	ˈzmɛʃkat
 zmesou	ˈzmɛsɔu
@@ -21579,9 +22221,11 @@ zmieriť	ˈzmiɛriθ
 zmiernenie	ˈzmiɛrɲɛɲiɛ
 zmierniť	ˈzmiɛrɲiθ
 zmiešaný	ˈzmiɪɛʃaniː
+zmieta	ˈzmiɛta
 zmija	ˈzmija
 zmizla	ˈzmizɫa
 zmizli	ˈzmizli
+zmizlo	ˈzmizɫɔ
 zmizne	ˈzmizɲɛ
 zmiznite	ˈzmizɲiθɛ
 zmizni	ˈzmizɲi
@@ -21633,7 +22277,9 @@ známej	ˈznaːmɛj
 znamenajú	ˈznamɛnɑjuː
 znamenalo	ˈznamɛnalɔ
 znamenať	ˈznamɛnaθ
+znamena	ˈznamɛna
 znamená	ˈznɑmɛnaː
+znamenia	ˈznamɛɲia
 znamenie	ˈznamɛɲiɛ
 známe	ˈznɑːmæɛ
 znamienkom	ˈznamiɛnkɔm
@@ -21687,6 +22333,7 @@ znižovanie	ˈzɲiʒɔvaɲiɛ
 znižovať	ˈzɲiʒɔvaθ
 znova	ˈznɔvɑ
 znovu	ˈznɔvu
+zobák	ˈzɔbaːk
 zobel	ˈzɔbɛl
 zoberem	ˈzɔbɛrɛm
 zoberieme	ˈzɔbɛriɛmɛ
@@ -21749,6 +22396,7 @@ zony	ˈzɔni
 zoo	ˈzɔɔ
 zopakovať	ˈzɔpɑkɔvaθ
 zopakujem	ˈzɔpɑkujɛm
+zopakuj	ˈzɔpakuj
 zopár	ˈzɔpɑːr
 zop	ˈzɔp
 zora	ˈzɔra
@@ -21803,6 +22451,7 @@ zozadu	ˈzɔzɑdu
 zoženiem	ˈzɔʒɛɲiɛm
 zožeň	ˈzɔʒɛɲ
 zozname	ˈzɔznamɛ
+zoznámil	ˈzɔznaːmil
 zoznámiť	ˈzɔznaːmiθ
 zoznam	ˈzɔznam
 zo	ˈzɔ
@@ -21839,6 +22488,7 @@ zredukovaný	ˈzrɛdukɔvaniː
 zredukovať	ˈzrɛdukɔvaθ
 zreje	ˈzrɛjɛ
 zrejme	ˈzrɛjmɛ
+zrejmé	ˈzrɛjmɛː
 zrejmý	ˈzrɛjmiː
 zrelá	ˈzrɛlɑː
 zrelým	ˈzrɛliːm
@@ -21878,6 +22528,7 @@ zrušenie	ˈzruʃɛɲiɛ
 zrušený	ˈzruʃɛniː
 zrušila	ˈzruʃilɑ
 zrušili	ˈzruʃili
+zrušil	ˈzruʃil
 zrušiť	ˈzruʃiθ
 zrútiť	ˈzruːθiθ
 zrýchlenie	ˈzriːxlɛɲiɛ
