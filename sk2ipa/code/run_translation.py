@@ -122,6 +122,14 @@ class DataTrainingArguments:
     dataset_config_name: Optional[str] = field(
         default=None, metadata={"help": "The configuration name of the dataset to use (via the datasets library)."}
     )
+    vocab_size: Optional[int] = field(
+        default=1,
+        metadata={
+            "help": (
+                "Vocabulary size for tokenizer."
+            )
+        },
+    )
     train_file: Optional[str] = field(default=None, metadata={"help": "The input training data file (a jsonlines)."})
     validation_file: Optional[str] = field(
         default=None,
@@ -380,7 +388,7 @@ def main():
         #num_decoder_layers=1,
     )
     if not model_args.resume:
-        spm.SentencePieceTrainer.train('--input='+data_args.train_file+' --model_prefix=m --vocab_size=63 --max_sentencepiece_length=1 --input_format=text')
+        spm.SentencePieceTrainer.train('--input='+data_args.train_file+' --model_prefix=m --vocab_size='+str(data_args.vocab_size)+' --max_sentencepiece_length=1 --input_format=text')
 
     tokenizer = T5Tokenizer('m.model')
     #tokenizer = AutoTokenizer.from_pretrained(
