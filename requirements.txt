@@ -3,3 +3,4 @@ transformers >= 4.34.1
 sentencepiece >= 0.1.99
 torch >= 2.1.0
 accelerate >= 0.20.1
+sacrebleu >= 2.3.1
