@@ -2922,7 +2922,7 @@ denise	ˈdɛnisɛ
 deň	ɟɛɲ
 denne	ˈɟɛɲɲɛ
 denne	ɟɛɲɲɛ
-denník	ˈɟɛnɲiːk
+denník	ˈɟɛɲɲiːk
 dennis	ˈdɛnis
 denný	ˈɟɛnniː
 depeša	ˈdɛpɛʃa
@@ -11553,8 +11553,8 @@ ozbrojenec	ˈɔzbrɔjɛɲɛts
 ozbrojený	ˈɔzbrɔjɛniː
 ozdoba	ˈɔzdɔba
 ozdoba	ɔzdɔba
-ozdravenia	ˈɔdzravɛɲia
-ozdravenie	ˈɔdzravɛɲiɛ
+ozdravenia	ˈɔzdravɛɲia
+ozdravenie	ˈɔzdravɛɲiɛ
 ozdraviť	ˈɔzdraviθ
 ozembucha	ˈɔzɛmbuxa
 oženil	ˈɔʒɛɲil
@@ -16389,7 +16389,7 @@ rokovať	ˈrɔkɔvaθ
 rokov	ˈrɔkɔu
 rokov	ˈrɔkɔv
 rok	ˈrɔk
-roku	ˈrɔʊku
+roku	ˈrɔku
 roky	ˈrɔki
 roland	ˈrɔlɑnd
 rola	ˈrɔla
@@ -19479,7 +19479,8 @@ tiecť	ˈθiɛtsθ
 tiel	ˈθiɛɫ
 tieňov	ˈθiɛɲɔu
 tieň	ˈθiɛɲ
-tie	ˈtia
+tie	ˈθiɛ
+tie	ˈtiɛ
 tieto	ˈtiatɔ
 tiez	ˈtiɛz
 tiež	ˈθiɛʃ
