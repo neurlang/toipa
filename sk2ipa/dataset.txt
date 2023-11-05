@@ -5327,8 +5327,7 @@ ibn	ˈibn
 ic	A
 icc	ˈitsts
 icf	ˈitsf
-ich	ˈixh
-ich	ˈixx
+ich	ˈix
 icy	ˈitsi
 ida	ida
 idea	ˈidɛa
@@ -7043,7 +7042,6 @@ ktorej	ˈktɔrɛi
 ktorej	ˈktɔrɛj
 ktore	ˈktɔrɛ
 ktoré	ktɔrɛː
-ktoré	ˈktɔrɛɛh
 ktorému	ˈktɔrɛːmu
 ktorí	ˈktɔriː
 ktorom	ˈktɔrɔm
@@ -18494,7 +18492,7 @@ srn	A
 sro	ˈsrɔ
 šrot	ˈʃrɔt
 šroub	ˈʃrɔub
-sr	ˈsrr
+sr	ˈsr
 srsť	ˈsrsθ
 šrubky	ˈʃrubki
 s	s
