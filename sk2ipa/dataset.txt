@@ -840,6 +840,7 @@ andreu	ˈandrɛu
 andrewa	ˈandrɛva
 andrew	ˈandrɛv
 andrewovom	ˈandrɛvɔvɔm
+android	ˈandrɔid
 andromach	ˈandrɔmax
 andromedy	ˈandrɔmɛdi
 andros	ˈandrɔs
@@ -2304,6 +2305,7 @@ cholesterol	ˈxɔlɛstɛrɔl
 chomúta	ˈxɔmuːtɑ
 choprom	ˈxɔprɔm
 chorá	ˈxɔraː
+choreograf	ˈxɔrɛɔɡraf
 choré	ˈxɔrɛː
 choroba	ˈxɔrɔba
 chorobu	ˈxɔrɔbu
@@ -3131,6 +3133,7 @@ diskusia	ˈdiskusia
 diskusiu	ˈdiskusiu
 diskusný	ˈdiskusniː
 diskutovať	ˈdiskutɔvaθ
+disky	ˈdiski
 displej	ˈdisplɛj
 disponovať	ˈdispɔnɔvaθ
 dispozícia	ˈdispɔziːtsia
@@ -3156,6 +3159,8 @@ dívať	ˈɟiːvaθ
 dividenda	ˈdividɛnda
 diviť	ˈɟiviθ
 divízia	ˈdiviːzia
+divízie	ˈdiviːziɛ
+divízii	ˈdiviːzii
 div	ˈɟiv
 divné	ˈɟivnɛː
 divne	ˈɟivɲɛ
@@ -3196,6 +3201,7 @@ dlhý	ˈdlɦiː
 dlží	ˈdlʒiː
 dlžíš	ˈdlʒiːʃ
 dĺžka	ˈdɫːʃka
+dĺžke	ˈdɫːʒkɛ
 dĺžku	ˈdlːʒku
 dlžník	ˈdlʒɲiːk
 dlžný	ˈdlʒniː
@@ -5546,6 +5552,7 @@ inžinier	ˈinʒiɲiɛr
 inžiniersky	ˈinʒiɛrski
 inžinierstvo	ˈinʒivɛrntɔ
 ipc	ˈipts
+iphone	ˈipɦɔnɛ
 irackí	irɑtskiː
 iracký	irɑtskiː
 ira	ira
@@ -5811,6 +5818,7 @@ jednotka	ˈjɛdnotka
 jednotka	ˈjɛdnɔtka
 jednotku	ˈjɛdnotku
 jednotky	ˈjɛdnotki
+jednotlivcov	ˈjɛdnɔtɫivcɔv
 jednotlivec	ˈjɛdnɔtɫivɛts
 jednotlivých	ˈjɛdnɔtɫiviːx
 jednotlivý	ˈjɛdnɔtɫiviː
@@ -6363,6 +6371,7 @@ kliatbu	ˈkliatbu
 klídek	ˈkliːdɛk
 klienta	ˈkliɛnta
 klientela	ˈkliɛntɛlɑ
+klienti	ˈkliɛnθi
 klient	ˈkliɛnt
 klietka	ˈkʎiɛtka
 klíma	ˈkliːma
@@ -7062,7 +7071,7 @@ ktokoľvek	ˈktɔkɔʎvɛk
 kto	ktɔ
 ktoľvek	ˈktɔʎvɛk
 ktora	ˈktɔra
-ktorá	ˈktɔræː
+ktorá	ˈktɔraː
 ktorého	ˈktɔrɛhɔ
 ktorej	ˈktɔrɛi
 ktorej	ˈktɔrɛj
@@ -9180,6 +9189,7 @@ nastrieľať	ˈnastriɛʎaθ
 nástroje	ˈnaːstrɔjɛ
 nástroj	ˈnaːstrɔj
 nástupca	ˈnaːstuputsa
+nástupcom	ˈnaːstuptsɔm
 nastúpiť	ˈnastuːpiθ
 nástup	ˈnaːstup
 nastúp	ˈnastuːp
@@ -11104,6 +11114,8 @@ odniekiaľ	ˈɔdɲiɛkiaʎ
 odniesť	ˈɔdɲiɛsθ
 odoberať	ɔdɔbɛraθ
 odobrať	ɔdɔbrɑθ
+odohrala	ˈɔdɔɦrala
+odohrá	ˈɔdɔɦraː
 odohrať	ˈɔdɔɦraθ
 odohrávala	ˈɔdɦɔraːvalɑ
 odohrávať	ˈɔdɔɦraːvaθ
@@ -11113,6 +11125,7 @@ odolnosť	ˈɔdɔɫnɔsθ
 odolný	ɔdɔɫniː
 odomňa	ˈɔdmɔɲa
 odo	ˈɔdɔ
+odoslal	ˈɔdɔsɫal
 odotený	ˈɔdɔθɛniː
 odôvodnenie	ˈɔduɔvɔdɲɛɲiɛ
 odôvodniť	ˈɔduɔvɔdɲiθ
@@ -12347,7 +12360,7 @@ platila	ˈpɫaθiɫa
 platili	ˈpɫaθili
 platilo	ˈpɫaθilɔ
 platím	ˈpɫaθiːm
-platí	ˈpɫɑtiː
+platí	ˈpɫɑθiː
 platiteľ	ˈpɫaθiθɛʎ
 platiť	ˈpɫaθiθ
 platňa	ˈpɫatɲa
@@ -14711,6 +14724,7 @@ premenilo	ˈprɛmɛɲilɔ
 premenil	ˈprɛmɛɲil
 premení	ˈprɛmɛɲiː
 premeniť	ˈprɛmɛɲiθ
+premenlivá	ˈprɛmɛnlivɑː
 premenlivý	ˈprɛmɛnliviː
 premenná	ˈprɛmɛnnaː
 premennú	ˈprɛmɛnnuː
@@ -16936,6 +16950,7 @@ rozprávky	ˈrɔzprɑːvki
 rozprestierať	ˈrɔzprɛsθiɛraθ
 rozpustil	ˈrɔzpusθil
 rozpustiť	ˈrɔzpusθiθ
+rozpútali	ˈrɔzpuːtali
 rozpútať	ˈrɔzpuːtaθ
 rozrastala	ˈrɔzrɑstalɑ
 rozrastal	ˈrɔzrɑstal
@@ -18034,6 +18049,7 @@ smrti	ˈsmrθi
 smrťou	ˈsmrθɔu
 smrt	ˈsmrt
 smrť	ˈsmrθ
+sms	ˈɛsɛmɛs
 sms	ˈsms
 smútkom	ˈsmuːtkɔm
 smutná	ˈsmutnaː
@@ -18170,7 +18186,6 @@ sorren	ˈsɔrɛn
 sorry	ˈsɔri
 sortiment	ˈsɔrtimɛnt
 soška	ˈsɔʃka
-so	sɔ
 sotva	ˈsɔtva
 sou	A
 šou	ˈʃɔu
@@ -18180,6 +18195,7 @@ soviet	ˈsɔviɛt
 sovu	ˈsɔvu
 sozeho	ˈsɔzɛhɔ
 sozemu	ˈsɔzɛmu
+so	ˈzɔ
 spáchal	ˈspaːxal
 spáchaného	ˈspaːxanɛːhɔ
 spáchanie	ˈspaːxaɲiɛ
@@ -19897,7 +19913,7 @@ tiel	ˈθiɛɫ
 tieňov	ˈθiɛɲɔu
 tieň	ˈθiɛɲ
 tie	ˈtiɛ
-tieto	ˈtiatɔ
+tieto	ˈθiɛtɔ
 tiez	ˈtiɛz
 tiež	ˈθiɛʃ
 tie	ˈθiɛ
@@ -20924,7 +20940,6 @@ utvárať	ˈutvaːraθ
 utvoriť	ˈutvɔriθ
 u	u
 ú	uː
-u	uh
 úv	A
 uvádzaný	ˈuvaːdzaniː
 uvádzať	ˈuvaːdzaθ
@@ -21396,6 +21411,7 @@ ves	ˈvɛs
 veta	ˈvɛta
 veterán	ˈvɛtɛraːn
 veterinárny	ˈvɛtɛrinaːrni
+veterno	ˈvɛθɛrnɔ
 veterný	ˈvɛθɛrniː
 veto	ˈvɛtɔ
 vetracou	ˈvɛtratsɔu
@@ -23127,7 +23143,6 @@ zakázať	ˈzakaːzaθ
 zakaždým	ˈzakaʒdiːm
 zákazka	ˈzaːkazka
 zákazníkom	ˈzaːkazniːkɔm
-zákazníkom	ˈzaːkazniːmɔk
 zákazníkov	ˈzaːkazɲikɔv
 zákazník	ˈzaːkazniːk
 zákazník	ˈzaːkazɲiːk
@@ -23651,6 +23666,7 @@ zážitok	ˈzaːʒitɔk
 zážit	ˈzaːʒit
 zažiť	ˈzɑʒiθ
 zažívať	ˈzaʒiːvaθ
+zaznamenali	ˈzaznamɛnali
 zaznamenaný	ˈzaznamɛnaniː
 zaznamenať	ˈzaznamɛnaθ
 zaznamenávaj	ˈzaznamɛnaːvaj
